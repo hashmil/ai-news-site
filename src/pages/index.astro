@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+import Section from '../components/Section.astro';
+import Story from '../components/Story.astro';
+import briefings from '../data/briefings.json';
+import imageMap from '../data/image-map.json';
+
+const latest = briefings[0];
+if (!latest) throw new Error('No briefings found');
+---
+<Base title="Latest News" activeNav="latest">
+  <span class="date-header">{latest.title}</span>
+  {latest.sections.map((section) => (
+    <Section heading={section.heading}>
+      {section.stories.map((story) => (
+        <Story
+          number={story.number}
+          headline={story.headline}
+          description={story.description}
+          url={story.url}
+          imageUrl={(imageMap as Record<string, string | null>)[story.url]}
+          sectionType={section.type}
+        />
+      ))}
+    </Section>
+  ))}
+</Base>

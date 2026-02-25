@@ -1,0 +1,39 @@
+---
+interface Props {
+  number: string;
+  headline: string;
+  description: string;
+  url: string;
+  imageUrl?: string | null;
+  sectionType: string;
+}
+const { number, headline, description, url, imageUrl, sectionType } = Astro.props;
+
+const numberClass = sectionType === 'viral'
+  ? 'story-number story-number-viral'
+  : sectionType === 'ads'
+  ? 'story-number story-number-ads'
+  : 'story-number';
+---
+<article class="story">
+  <div class="story-inner">
+    <div class="story-text">
+      <div class="story-header">
+        <span class={numberClass}>{number}</span>
+        <h3 class="story-title">{headline}</h3>
+      </div>
+      {description && <p class="story-desc">{description}</p>}
+      {url && (
+        <a href={url} class="story-link" target="_blank" rel="noopener">
+          Read more
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+        </a>
+      )}
+    </div>
+    {imageUrl && (
+      <div class="story-thumb-wrapper">
+        <img src={imageUrl} alt="" class="story-thumb" loading="lazy" onerror="this.closest('.story-thumb-wrapper').style.display='none'">
+      </div>
+    )}
+  </div>
+</article>

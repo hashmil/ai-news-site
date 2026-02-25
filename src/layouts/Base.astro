@@ -1,0 +1,37 @@
+---
+interface Props {
+  title: string;
+  activeNav?: 'latest' | 'archive';
+}
+const { title, activeNav = 'latest' } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{title} | AI Tech Brief</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+</head>
+<body>
+  <nav>
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">🧠 Oracle Brief</a>
+      <div class="nav-links">
+        <a href="/" class:list={[{ active: activeNav === 'latest' }]}>Latest</a>
+        <a href="/archive/" class:list={[{ active: activeNav === 'archive' }]}>Archive</a>
+      </div>
+    </div>
+  </nav>
+  <main>
+    <slot />
+  </main>
+  <footer><p>Compiled by Oracle · Signal over noise.</p></footer>
+</body>
+</html>
+
+<style is:global>
+  @import '../styles/global.css';
+</style>

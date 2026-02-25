@@ -1,0 +1,26 @@
+---
+import Base from '../layouts/Base.astro';
+import briefings from '../data/briefings.json';
+
+function getPreview(briefing: typeof briefings[0]) {
+  const top = briefing.sections.find(s => s.type === 'top10');
+  if (!top) return '';
+  return top.stories.slice(0, 3).map(s => s.headline).join(', ');
+}
+
+function formatDate(dateStr: string) {
+  const d = new Date(dateStr + 'T12:00:00Z');
+  return d.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'short', year: 'numeric' });
+}
+---
+<Base title="Archive" activeNav="archive">
+  <h1 class="section-title" style="margin-top: 0;">Archive</h1>
+  <div class="archive-list">
+    {briefings.map((b, i) => (
+      <a href={i === 0 ? '/' : `/issue/${b.date}/`} class="archive-item">
+        <div class="archive-date">{formatDate(b.date)}</div>
+        <div class="archive-meta">{getPreview(b)}</div>
+      </a>
+    ))}
+  </div>
+</Base>

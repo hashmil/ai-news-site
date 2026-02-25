@@ -1,0 +1,1382 @@
+[
+  {
+    "date": "2026-02-25",
+    "title": "AI Tech Brief — Wednesday, 25 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "NVIDIA Earnings Today — The Rubin Era Begins",
+            "description": "NVIDIA reports Q4 fiscal 2026 earnings after market close today. Investors treating it as a referendum on AI sector health. The \"Rubin\" architecture era is dawning with Blackwell Ultra GPUs already being deployed at scale.",
+            "url": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-february-2026"
+          },
+          {
+            "number": "2",
+            "headline": "Samsung Galaxy Unpacked — Next-Gen AI Phone Launch",
+            "description": "Samsung unveiling the new Galaxy S series today, positioning it as an \"AI phone\" with Galaxy AI features designed to be \"personal and adaptive.\" The race for on-device AI intensifies.",
+            "url": "https://samsungmobilepress.com/articles/invitation-galaxy-unpacked-february-2026-ai-phone"
+          },
+          {
+            "number": "3",
+            "headline": "Anthropic vs Pentagon: AI Safety Standoff Escalates",
+            "description": "The Pentagon gave Anthropic until Friday to loosen Claude's AI guardrails for military use or face penalties. Anthropic's not budging on its usage restrictions. High-stakes dispute over government leverage on AI safety.",
+            "url": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/"
+          },
+          {
+            "number": "4",
+            "headline": "Meta Signs Up to $100B AMD Chip Deal",
+            "description": "Meta diversifying beyond NVIDIA with a massive multi-year AMD AI chip deal tied to a 160M-share warrant. Part of Zuckerberg's push toward \"personal superintelligence\" and massive data center expansion.",
+            "url": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/"
+          },
+          {
+            "number": "5",
+            "headline": "Anthropic Accuses Chinese Labs of Mining Claude",
+            "description": "Anthropic claims DeepSeek, Moonshot AI, and MiniMax used 24,000 fake accounts to distill Claude's capabilities. Comes as US officials debate stricter AI chip export controls to slow China's progress.",
+            "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/"
+          },
+          {
+            "number": "6",
+            "headline": "Mercury 2: Fastest Reasoning LLM (Powered by Diffusion)",
+            "description": "Inception Labs released Mercury 2, claiming it's the fastest reasoning LLM using diffusion architecture instead of autoregressive generation. Could challenge the transformer dominance in reasoning tasks.",
+            "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2"
+          },
+          {
+            "number": "7",
+            "headline": "Moonshine: Open-Weights STT Beats Whisper",
+            "description": "New open-source speech-to-text models from Moonshine AI showing higher accuracy than OpenAI's Whisper Large v3. Fully open weights, another blow to proprietary audio models.",
+            "url": "https://github.com/moonshine-ai/moonshine"
+          },
+          {
+            "number": "8",
+            "headline": "MatX Raises $500M to Challenge NVIDIA",
+            "description": "AI chip startup MatX (founded by ex-Google TPU engineers) raised $500M to build specialized LLM inference chips. The NVIDIA challenger space is heating up with serious capital.",
+            "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/"
+          },
+          {
+            "number": "9",
+            "headline": "Google DeepMind Launches Lyria 3 Music Generation in Gemini",
+            "description": "Gemini app now features Lyria 3 for creating 30-second music tracks from text or images. Wyclef Jean already used it on his new song. Google's continuing to integrate creative AI tools.",
+            "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/"
+          },
+          {
+            "number": "10",
+            "headline": "AI Doomsday Reports Shake Markets",
+            "description": "A series of dystopian AI outlook reports went viral, spooking investors and causing market volatility. Some investors now worry AI is \"too good\" and causing permanent disruption in software-heavy industries.",
+            "url": "https://www.reuters.com/business/skittish-investors-spooked-dystopian-ai-outlooks-go-viral-2026-02-24/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "\"I'm helping my dog vibe code games\"",
+            "description": "",
+            "url": "https://www.calebleak.com/posts/dog-game/"
+          },
+          {
+            "number": "•",
+            "headline": "Uber Engineers Built AI Version of CEO Dara Khosrowshahi",
+            "description": "Employees created a chatbot of their boss to practice pitches. Wild demonstration of how internal AI tools are proliferating at big tech companies.",
+            "url": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/"
+          },
+          {
+            "number": "•",
+            "headline": "Meta AI Researcher: OpenClaw Agent \"Ran Amok\" on My Inbox",
+            "description": "Viral X post from Meta AI security researcher about an OpenClaw agent causing chaos in her email. Reads like satire but serves as warning about AI agent risks.",
+            "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/"
+          },
+          {
+            "number": "•",
+            "headline": "OpenAI + US Govt Built Identity Surveillance Machine",
+            "description": "Investigative piece claiming OpenAI and Persona (identity verification) built systems for government identity surveillance. 488 HN upvotes, significant privacy concerns raised.",
+            "url": "https://vmfunc.re/blog/persona/"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Super Bowl 60 Ad Sales Hit Record — NBCU",
+            "description": "AI-powered targeting and creative optimization drove record ad sales for Super Bowl 60. Long-running AI-optimized campaigns outperformed bespoke event ads significantly.",
+            "url": "https://www.adweek.com/convergent-tv/super-bowl-60-sets-ad-sales-record-nbcu/"
+          },
+          {
+            "number": "•",
+            "headline": "TikTok x MLB Partnership for Global Content Push",
+            "description": "MLB and TikTok announced partnership to grow baseball worldwide using AI-powered content recommendations, creator tools, and player storytelling.",
+            "url": "https://www.adweek.com/convergent-tv/tiktok-and-mlb-swing-for-fences-with-global-content-and-creator-push/"
+          },
+          {
+            "number": "•",
+            "headline": "How Budweiser, Pepsi, and Dunkin' Won the Super Bowl",
+            "description": "Ipsos recall data shows AI-optimized long-running campaigns outperformed one-off Super Bowl ads. Classic creative + AI targeting > expensive bespoke productions.",
+            "url": "https://www.adweek.com/brand-marketing/how-budweiser-pepsi-and-dunkin-won-the-super-bowl-and-michelob-ultra-lost-it/"
+          },
+          {
+            "number": "•",
+            "headline": "Canva Acquires Animation & Marketing Startups",
+            "description": "Canva bought startups working on animation and marketing tools, bolstering its AI-powered marketing suite. Adding video creation and measurement capabilities.",
+            "url": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "title": "AI Tech Brief — Tuesday, 24 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Anthropic Accuses Chinese AI Labs of Mining Claude",
+            "description": "Anthropic claims DeepSeek, Moonshot AI, and MiniMax used 24,000 fake accounts to distill Claude's capabilities for their own models. The accusations come as U.S. officials debate tighter AI chip export controls to slow China's AI progress.",
+            "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/"
+          },
+          {
+            "number": "2",
+            "headline": "Defense Secretary Summons Anthropic CEO Over Military Claude Use",
+            "description": "Defense Secretary Pete Hegseth has summoned Dario Amodei to the Pentagon for a tense discussion over the military's use of Claude. Hegseth reportedly threatened to designate Anthropic a \"supply chain risk\" over the company's resistance to certain military applications.",
+            "url": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/"
+          },
+          {
+            "number": "3",
+            "headline": "OpenAI Partners with Consulting Giants for Enterprise Push",
+            "description": "OpenAI is partnering with BCG, McKinsey, and other consulting giants to accelerate adoption of its Frontier AI agent platform in the enterprise. The move signals OpenAI's aggressive B2B expansion strategy.",
+            "url": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/"
+          },
+          {
+            "number": "4",
+            "headline": "NVIDIA Brings AI-Powered Cybersecurity to Critical Infrastructure",
+            "description": "NVIDIA announced partnerships with Akamai, Palo Alto Networks, Siemens, and Xage Security to deploy AI-driven cybersecurity for operational technology (OT) and industrial control systems. The solution uses BlueField DPUs to enforce zero-trust security at the edge without disrupting critical operations.",
+            "url": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/"
+          },
+          {
+            "number": "5",
+            "headline": "Guide Labs Debuts Steerling-8B: An Interpretable LLM",
+            "description": "Guide Labs released Steerling-8B, an open-source 8B parameter model trained with a novel architecture that can explain any token it generates. The model addresses the \"black box\" problem by making its reasoning process fully interpretable.",
+            "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/"
+          },
+          {
+            "number": "6",
+            "headline": "ASML Unveils EUV Light Source Advance for 50% More Chips by 2030",
+            "description": "ASML revealed a breakthrough EUV light source technology that could increase chip yields by 50% by 2030. The advance addresses the critical supply constraints facing AI infrastructure expansion.",
+            "url": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/"
+          },
+          {
+            "number": "7",
+            "headline": "AI Blood Test Boosts Alzheimer's Diagnosis to 94.5% Accuracy",
+            "description": "A new AI-powered blood test demonstrated 94.5% accuracy in diagnosing Alzheimer's disease in a clinical study, potentially revolutionizing early detection and treatment of the condition.",
+            "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html"
+          },
+          {
+            "number": "8",
+            "headline": "Spotify Rolls Out AI-Powered \"Prompted Playlists\" to UK",
+            "description": "Spotify expanded its AI playlist feature to Premium subscribers in the UK, Ireland, Australia, and Sweden. Users can create personalized playlists using natural language prompts.",
+            "url": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/"
+          },
+          {
+            "number": "9",
+            "headline": "Wolfram Tech Now Available as Foundation Tool for LLMs",
+            "description": "Stephen Wolfram announced that Wolfram computational tools are now available as foundation tools for LLM systems, enabling AI models to perform complex mathematical and scientific computations with verified accuracy.",
+            "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/"
+          },
+          {
+            "number": "10",
+            "headline": "OpenAI Developing AI Hardware Devices",
+            "description": "OpenAI reportedly has over 200 people working on a family of AI-powered devices including a smart speaker, smart glasses, and possibly a smart lamp. The Information reports the company is building a full hardware ecosystem.",
+            "url": "https://www.reuters.com/business/openai-developing-ai-devices-including-smart-speaker-information-reports-2026-02-20/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenClaw Agent \"Ran Amok\" on Meta Researcher's Inbox",
+            "description": "A Meta AI security researcher went viral on X after describing how an OpenClaw agent accidentally spammed her with 600+ emails while trying to perform a simple task. The incident became a cautionary tale about AI agent reliability and why they shouldn't be installed on personal computers.",
+            "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/"
+          },
+          {
+            "number": "2",
+            "headline": "\"Writing Code Is Cheap Now\" — Simon Willison's Essay Goes Viral",
+            "description": "Simon Willison's essay on agentic engineering patterns sparked widespread discussion on Hacker News about how AI agents are fundamentally changing software economics, making code generation trivial while raising questions about code quality and maintenance.",
+            "url": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/"
+          },
+          {
+            "number": "3",
+            "headline": "Ladybird Browser Adopts Rust — With Help From AI",
+            "description": "The Ladybird browser project's announcement that they're adopting Rust with AI assistance generated significant developer interest, showcasing how AI is accelerating the modernization of complex C++ codebases.",
+            "url": "https://ladybird.org/posts/adopting-rust/"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Coca-Cola Embeds AI Into Marketing Pipeline",
+            "description": "Coca-Cola announced a strategic shift from price-led growth to AI-powered persuasion, integrating AI throughout its content creation, campaign planning, and distribution workflows. The move signals how traditional CPG brands are betting on AI to drive marketing efficiency.",
+            "url": "https://www.resultsense.com/news/2026-02-23-coca-cola-ai-marketing-strategy"
+          },
+          {
+            "number": "2",
+            "headline": "ChatGPT Ads Rollout Marks \"Pivotal Shift\" in AI Trust Contract",
+            "description": "February's rollout of ads in ChatGPT is forcing consumers to distinguish between organic and sponsored AI recommendations. Industry analysts warn this could fundamentally alter how users trust AI-generated responses.",
+            "url": "https://www.adweek.com/brand-marketing/10-ai-marketing-trends-for-2026-agentic-ai-and-search-shifts/"
+          },
+          {
+            "number": "3",
+            "headline": "ESPN Spoofs Pharma Ads for March Madness Campaign",
+            "description": "ESPN's Tournament Challenge campaign parodies pharmaceutical advertising to capture bracket obsession culture, demonstrating how brands are using AI-aware creative concepts to stand out.",
+            "url": "https://www.adweek.com/brand-marketing/exclusive-espn-spoofs-pharma-ads-for-march-madness/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "title": "AI Tech Brief — Monday, 23 February 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Google Restricts AI Pro Users Over OpenClaw Integration",
+            "description": "Google sparked controversy by restricting Google AI Pro/Ultra subscribers who accessed their accounts via OAuth through OpenClaw. The move highlights growing tensions between Google's API policies and third-party AI clients, with 394+ upvotes on HN and 310+ comments discussing platform lock-in concerns. - **Source:** Hacker News / Google AI Dev Forum - **Keywords:** Google, OpenClaw, API, restrictions, OAuth, platform",
+            "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778"
+          },
+          {
+            "number": "2",
+            "headline": "NVIDIA State of AI in Telecom 2026: 90% See Revenue Impact",
+            "description": "NVIDIA's 4th annual telecom survey reveals massive AI adoption: 90% of operators report AI increasing revenue/reducing costs; 89% plan AI budget increases in 2026; 77% expect AI-native networks before 6G. Agentic AI is now the primary driver of autonomous network operations. - **Source:** NVIDIA Blog - **Keywords:** NVIDIA, telecom, autonomous networks, AI-native, enterprise",
+            "url": "https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/"
+          },
+          {
+            "number": "3",
+            "headline": "Gemini Gets Music Generation with Lyria 3",
+            "description": "Google integrated DeepMind's Lyria 3 music model into the Gemini app, allowing users to create 30-second custom tracks from text prompts or images. First significant consumer music-gen feature from a major chatbot platform. - **Source:** Google Blog - **Keywords:** Google, Gemini, Lyria 3, music generation, DeepMind",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/"
+          },
+          {
+            "number": "4",
+            "headline": "India's AI Mission: 20,000+ Blackwell GPUs Deploying",
+            "description": "At the India AI Impact Summit, NVIDIA announced partnerships with Yotta (20K Blackwell Ultra GPUs), L&T (gigawatt-scale AI factory), and E2E Networks. Sarvam.ai, Tech Mahindra, and others building sovereign Indic language models on Nemotron. - **Source:** NVIDIA Blog - **Keywords:** India, NVIDIA, sovereign AI, Blackwell, Nemotron, infrastructure",
+            "url": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/"
+          },
+          {
+            "number": "5",
+            "headline": "Sam Altman on AI Energy: \"It Takes a Lot to Train a Human Too\"",
+            "description": "OpenAI CEO responded to criticism about AI's massive energy consumption with a philosophical take comparing human and AI training costs. Comes as studies project AI power demand doubling by 2026. - **Source:** TechCrunch - **Keywords:** OpenAI, Sam Altman, energy, data centers, sustainability",
+            "url": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/"
+          },
+          {
+            "number": "6",
+            "headline": "India's Sarvam Launches Indus Chat App",
+            "description": "Sarvam AI launched its Indus consumer chat app (beta), powered by their Sarvam 3 series models supporting 22 Indic languages. India's answer to ChatGPT as local competition heats up post-DeepSeek. - **Source:** TechCrunch - **Keywords:** Sarvam, India, Indic languages, sovereign AI, chat app",
+            "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app/"
+          },
+          {
+            "number": "7",
+            "headline": "Wipro's WEGA Healthcare AI Agents Handle 42% of Calls",
+            "description": "Wipro deployed agentic AI for a major US health insurer using NVIDIA AI Enterprise: 42% of inbound calls now handled by AI agents, 900 concurrent calls supported with sub-200ms latency. Healthcare AI agents hitting production scale. - **Source:** NVIDIA Blog - **Keywords:** Wipro, healthcare, AI agents, enterprise, NVIDIA",
+            "url": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/"
+          },
+          {
+            "number": "8",
+            "headline": "Tech Mahindra Deploys Large Telco Model (LTM)",
+            "description": "Built with NVIDIA Nemotron and NIM microservices, Tech Mahindra's LTM generates prioritized fix recommendations for field technicians, aiming for Level 4+ autonomous network operations in global telecom. - **Source:** NVIDIA Blog - **Keywords:** Tech Mahindra, telecom, AI agents, Nemotron, autonomous",
+            "url": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/"
+          },
+          {
+            "number": "9",
+            "headline": "Infosys Builds 2.5B Parameter Coding SLM",
+            "description": "Infosys developed a small language model for coding using NVIDIA NeMo, integrated into Topaz Fabric. Matches frontier model performance on MBPP/BFCL benchmarks while deployable on standard desktops. - **Source:** NVIDIA Blog - **Keywords:** Infosys, coding model, SLM, NeMo, enterprise",
+            "url": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/"
+          },
+          {
+            "number": "10",
+            "headline": "Anthropic vs. AI Super PAC Political Showdown",
+            "description": "An Anthropic-funded group is backing NY congressional candidate Alex Bores (RAISE Act sponsor) while a rival AI Super PAC attacks him. First major political battle between competing \"pro-AI\" factions with different regulatory visions. - **Source:** TechCrunch - **Keywords:** Anthropic, political AI, PAC, regulation, RAISE Act",
+            "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Lyra Kids — AI Bedtime Storyteller",
+            "description": "Developer built an AI bedtime storyteller for his daughters. Cute personal project showing how generative AI is becoming part of family routines. 40+ comments on HN discussing AI's role in parenting.",
+            "url": "https://lyra.kids/"
+          },
+          {
+            "number": "•",
+            "headline": "Loops: Federated Open-Source TikTok",
+            "description": "ActivityPub-powered short-form video platform gaining traction as a \"TikTok alternative.\" Not pure AI but relevant to the algorithmic feed wars and decentralized social AI recommendations.",
+            "url": "https://joinloops.org/"
+          },
+          {
+            "number": "•",
+            "headline": "Timeframe: Family E-Paper Dashboard",
+            "description": "DIY e-paper family dashboard trending on HN. Shows how AI/tech enthusiasts are building ambient information displays for the home. 745 upvotes.",
+            "url": "https://hawksley.org/2026/02/17/timeframe.html"
+          },
+          {
+            "number": "•",
+            "headline": "Agentic Software Engineering Book",
+            "description": "New open-source book on agentic SE hitting HN. Sign of the discipline maturing as educational materials emerge.",
+            "url": "https://agenticse-book.github.io/"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "First ChatGPT Ads Now Live: Best Buy, Expedia, Qualcomm",
+            "description": "OpenAI's ad testing phase is now live with major brands appearing in ChatGPT responses. First real look at how sponsored answers will appear in the world's most popular AI chatbot. - **Source:** Adweek - **Keywords:** OpenAI, ChatGPT, ads, Best Buy, Expedia, Qualcomm",
+            "url": "https://www.adweek.com/media/first-ads-on-chat-gpt-best-buy-expedia-qualcomm/"
+          },
+          {
+            "number": "•",
+            "headline": "Dentsu and WPP Exit The Trade Desk's OpenPath",
+            "description": "Two largest agency holding companies pulled out over hidden fees and transparency concerns. Growing friction between platforms and agencies as AI reshapes ad supply chains. - **Source:** Adweek - **Keywords:** Dentsu, WPP, The Trade Desk, OpenPath, transparency",
+            "url": "https://www.adweek.com/media/exclusive-dentsu-wpp-exit-the-trade-desks-open-path/"
+          },
+          {
+            "number": "•",
+            "headline": "Dept Studios Launches With Adobe AI",
+            "description": "Major agency Dept launched \"Dept Studios\" — a global content studio powered by Adobe Firefly. Sign of agencies productizing AI content at scale for brand demands. - **Source:** Adweek - **Keywords:** Dept, Adobe Firefly, AI content, agency, studio",
+            "url": "https://www.adweek.com/agencies/dept-powers-up-its-global-content-studio-with-adobe-ai/"
+          },
+          {
+            "number": "•",
+            "headline": "Walmart Ad Business Hits $6.4B (+46% YoY)",
+            "description": "Retail media juggernaut keeps growing — AI-powered ad targeting driving significant revenue. Walmart now a serious digital ad platform competitor to Amazon. - **Source:** Adweek - **Keywords:** Walmart, retail media, advertising, revenue",
+            "url": "https://www.adweek.com/commerce/walmarts-ad-business-grew-46-in-2025-hitting-nearly-64b/"
+          },
+          {
+            "number": "•",
+            "headline": "AI Moving Faster Than Agency Contracts",
+            "description": "New Adweek survey: AI reshaping workflows but contracts, pricing models, and governance policies remain unchanged. The operational/policy lag is creating agency-client friction. - **Source:** Adweek - **Keywords:** Adweek, agencies, AI contracts, governance",
+            "url": "https://www.adweek.com/agencies/ai-is-moving-faster-than-agency-contracts/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "title": "AI Tech Brief — Sunday, 22 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Google's Gemini Pro 3.1 Hits Record Benchmark Scores",
+            "description": "Google quietly dropped Gemini 3.1 Pro with \"record benchmark scores — again\" per TechCrunch. The model promises more complex reasoning capabilities. Google appears to be iterating faster and more quietly than the competition. - **Source:** TechCrunch - **Keywords:** Google, Gemini, benchmarks, model release",
+            "url": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/"
+          },
+          {
+            "number": "2",
+            "headline": "India Fuels Its AI Mission With NVIDIA",
+            "description": "Massive sovereign AI push at the India AI Impact Summit. NVIDIA partnering with Yotta (20K Blackwell Ultra GPUs), L&T (gigawatt-scale AI factories), and E2E Networks. India committing $1B+ to sovereign AI datasets, frontier models, and education. BharatGen, Sarvam.ai, and others building Indic language models on Nemotron. - **Source:** NVIDIA Blog - **Keywords:** India, NVIDIA, sovereign AI, Blackwell, Nemotron, infrastructure",
+            "url": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/"
+          },
+          {
+            "number": "3",
+            "headline": "NVIDIA Telecom Survey: 90% See AI Revenue Impact",
+            "description": "NVIDIA's 4th annual \"State of AI in Telecommunications\" reveals 90% of telcos report AI increasing revenue and cutting costs. 77% expect AI-native networks before 6G. 89% plan AI budget increases in 2026. Network automation now the top investment priority, overtaking customer experience. - **Source:** NVIDIA Blog - **Keywords:** NVIDIA, telecom, autonomous networks, AI-native, enterprise",
+            "url": "https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/"
+          },
+          {
+            "number": "4",
+            "headline": "Google VP Warns: Two Types of AI Startups May Not Survive",
+            "description": "Google Cloud's Darren Mowry warns that \"LLM wrappers\" and \"AI aggregators\" face existential pressure from shrinking margins and limited differentiation. As foundation models improve directly, thin-value-add intermediaries get squeezed. - **Source:** TechCrunch - **Keywords:** Google Cloud, startups, LLM wrapper, aggregator, venture",
+            "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/"
+          },
+          {
+            "number": "5",
+            "headline": "OpenAI Debated Calling Police About Suspected Canadian Shooter's Chats",
+            "description": "New reporting reveals OpenAI internally debated alerting authorities after Jesse Van Rootselaar's ChatGPT queries about gun violence were flagged by misuse detection tools. The incident highlights the tension between privacy and safety in AI moderation systems. - **Source:** TechCrunch - **Keywords:** OpenAI, safety, moderation, privacy, law enforcement",
+            "url": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/"
+          },
+          {
+            "number": "6",
+            "headline": "Microsoft Gaming CEO: No 'Endless AI Slop'",
+            "description": "New Xbox gaming CEO Asha Sharma vows Microsoft won't flood gaming with AI-generated content. A notable stance as competitors rush to automate game assets. The comment positions \"AI slop\" as a brand risk and quality differentiator. - **Source:** TechCrunch - **Keywords:** Microsoft, gaming, Xbox, AI slop, content quality",
+            "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/"
+          },
+          {
+            "number": "7",
+            "headline": "Code Metal Raises $125M Series B for AI Defense Code Translation",
+            "description": "Boston startup using AI to translate and verify legacy defense software without introducing new bugs. \"Vibe coding meets defense\" — automating modernization of critical military systems. Big validation for AI in high-stakes, safety-critical applications. - **Source:** Wired - **Keywords:** Code Metal, defense, vibe coding, legacy code, Series B",
+            "url": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/"
+          },
+          {
+            "number": "8",
+            "headline": "Anthropic-Funded PAC Backs Candidate Attacked by Rival AI Super PAC",
+            "description": "Political AI wars heating up: Anthropic-funded \"Leading the Future\" is backing Alex Bores (NY congressional candidate), whose RAISE Act requires AI safety disclosures. Rival \"Public First Action\" PAC has been attacking Bores. - **Source:** TechCrunch - **Keywords:** Anthropic, political AI, PAC, regulation, RAISE Act",
+            "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/"
+          },
+          {
+            "number": "9",
+            "headline": "Sarvam Launches Indus AI Chat App in India",
+            "description": "Sarvam AI (India's leading sovereign AI startup) launched its Indus chat app in beta. Built on their Sarvam-3 models trained for 22 Indic languages. Competes directly with ChatGPT in one of the world's most important emerging AI markets. - **Source:** TechCrunch - **Keywords:** Sarvam, India, Indic languages, sovereign AI, chat app",
+            "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/"
+          },
+          {
+            "number": "10",
+            "headline": "OpenAI: 18-24 Year Olds = 50% of Indian ChatGPT Usage",
+            "description": "Demographic data from the India AI Impact Summit reveals India's ChatGPT users skew extremely young — nearly half of all messages from 18-24 year olds, 80% from under-30s. India's AI adoption curve is generationally distinct. - **Source:** TechCrunch - **Keywords:** OpenAI, ChatGPT, India, demographics, youth adoption",
+            "url": "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Sam Altman's Energy Defense",
+            "description": "Altman on AI power consumption: \"It also takes a lot of energy to train a human.\" The quote went viral as pushback against data center energy criticism.",
+            "url": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/"
+          },
+          {
+            "number": "•",
+            "headline": "\"Claws are now a new layer on top of LLM agents\"",
+            "description": "A Hacker News post about Claw framework went viral (27h ago, 600+ comments). The community is recognizing agent orchestration layers as the next abstraction.",
+            "url": "https://news.ycombinator.com/item?id=47096253"
+          },
+          {
+            "number": "•",
+            "headline": "zclaw: 888KB Personal AI on ESP32",
+            "description": "Tiny AI assistant running on a $5 microcontroller. Demonstrates how small LLMs can get — relevant for edge AI and embedded agents.",
+            "url": "https://news.ycombinator.com/item?id=47100232"
+          },
+          {
+            "number": "•",
+            "headline": "Llama 3.1 70B on Single RTX 3090 via NVMe-to-GPU",
+            "description": "Clever hack bypassing CPU to load 70B models on consumer hardware. Shows the ingenuity of the open-source inference optimization community.",
+            "url": "https://news.ycombinator.com/item?id=47104667"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Dentsu and WPP Exit The Trade Desk's OpenPath",
+            "description": "Two of the largest agency holding companies quietly pulled out of The Trade Desk's OpenPath program over hidden fees and transparency concerns. Growing friction as platforms push deeper into the ad supply chain. - **Source:** Adweek",
+            "url": "https://www.adweek.com/media/exclusive-dentsu-wpp-exit-the-trade-desks-open-path/"
+          },
+          {
+            "number": "•",
+            "headline": "Dept Launches Global Content Studio With Adobe AI",
+            "description": "Major agency (Dept) launching \"Dept Studios\" powered by Adobe Firefly and other AI tools. Positioned as the \"response to growing content demands for brands.\" Sign of agencies productizing AI content at scale. - **Source:** Adweek",
+            "url": "https://www.adweek.com/agencies/dept-powers-up-its-global-content-studio-with-adobe-ai/"
+          },
+          {
+            "number": "•",
+            "headline": "AI Moving Faster Than Agency Contracts",
+            "description": "New survey shows AI is reshaping agency workflows, but most contracts, pricing models, and governance policies remain unchanged. The operational/policy lag is creating friction. - **Source:** Adweek",
+            "url": "https://www.adweek.com/agencies/ai-is-moving-faster-than-agency-contracts/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "title": "AI Tech Brief — Saturday, 21 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "India AI Impact Summit 2026 Concludes with 75+ Country Declaration",
+            "description": "The week-long India AI Impact Summit wrapped up today at Bharat Mandapam, New Delhi after being extended due to overwhelming response. Major outcomes: India formally joined the U.S.-led **Pax Silica** coalition for AI/critical mineral supply chains; 75+ countries signed the **Delhi Declaration** on AI development; and PM Modi hosted Sundar Pichai, Sam Altman, and Mukesh Ambani. Notably, Bill Gates cancelled his appearance amid ongoing Epstein scrutiny — a blow to the event already marred by organizational lapses. *Links: https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-day-5 | https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/*",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "ByteDance's Seedance 2.0 Goes Viral, Spooks Hollywood",
+            "description": "A new AI video generation tool from ByteDance has exploded across social media this week, producing cinematic-quality videos of celebrities in absurd scenarios. **Seedance 2.0** is reportedly so good it's causing panic in Hollywood over the future of video production. The tool represents a significant leap in AI video generation quality, with implications for the entertainment industry's business model. *Link: https://www.cnn.com/2026/02/20/china/china-ai-seedance-intl-hnk-dst*",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "MIT Study: AI Chatbots Discriminate Against Vulnerable Users",
+            "description": "New research from MIT's Center for Constructive Communication finds leading LLMs (GPT-4, Claude 3 Opus, Llama 3) systematically provide **less accurate and less truthful responses** to users with lower English proficiency, less formal education, or non-U.S. origins. Claude 3 Opus refused to answer 11% of questions for less-educated non-native speakers (vs. 3.6% for control), and responded with condescending/mocking language 43.7% of the time for less-educated users. Published in *Science*. *Link: https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219*",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "MIT Researchers Develop Method to \"Steer\" Hidden LLM Biases",
+            "description": "A separate MIT/UCSD team published a breakthrough method using Recursive Feature Machines to **expose and manipulate hidden concepts** in LLMs — including personalities like \"conspiracy theorist,\" moods like \"boastful,\" and biases. The technique can identify representations of over 500 concepts and steer model responses. When researchers enhanced the \"conspiracy theorist\" concept in a vision model, it explained the Apollo \"Blue Marble\" photo with conspiracy rhetoric. The method could help identify model vulnerabilities before deployment. *Link: https://news.mit.edu/2026/exposing-biases-moods-personalities-hidden-large-language-models-0219*",
+            "url": ""
+          },
+          {
+            "number": "5",
+            "headline": "Sarvam AI Launches Indus Chat App for Indian Languages",
+            "description": "Bengaluru-based Sarvam AI launched **Indus**, a mobile chat app powered by its Sarvam-3 family of Indic LLMs. The app supports 22 Indian languages and targets the massive Indian market where ChatGPT has seen explosive growth (18-24 year-olds account for nearly 50% of ChatGPT usage in India). Sarvam is also partnering with G42/Cerebras to deploy 8 exaflops of AI compute capacity in India. *Links: https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-an-ai-chat-app-powered-by-its-indic-llms/ | https://techcrunch.com/2026/02/20/uae-and-indias-cerebras-team-up-to-deploy-8-exaflops-of-ai-compute-capacity-in-india/*",
+            "url": ""
+          },
+          {
+            "number": "6",
+            "headline": "OpenAI Launches \"First Proof\" Security Research Program",
+            "description": "OpenAI announced **First Proof**, a new program to advance independent research on AI alignment and security. The initiative will fund external researchers studying model behavior, safety evaluations, and alignment techniques. It's part of OpenAI's response to growing concerns about the pace of AI development outpacing safety research. *Link: https://openai.com/index/first-proof/",
+            "url": ""
+          },
+          {
+            "number": "7",
+            "headline": "NVIDIA: 90% of Telecom Operators See AI Revenue Impact",
+            "description": "NVIDIA's fourth annual \"State of AI in Telecommunications\" survey reveals **90% of telecom operators report AI is increasing revenue and reducing costs**. 89% plan to boost AI spending in 2026 (up from 65% last year). Key finding: 77% expect AI-native networks to launch before 6G deployment. Autonomous network operations now lead ROI use cases, overtaking customer experience. *Link: https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/",
+            "url": ""
+          },
+          {
+            "number": "8",
+            "headline": "Anthropic's Claude Code Faces Token Usage Controversy",
+            "description": "A GitHub issue on Anthropic's Claude Code repository went viral on HN, with users reporting **excessive token consumption** during normal usage. The issue highlights growing concern about the cost of AI coding assistants, with some developers seeing unexpectedly high API bills. Anthropic has acknowledged the reports and is investigating. *Link: https://github.com/anthropics/claude-code/issues/16856*",
+            "url": ""
+          },
+          {
+            "number": "9",
+            "headline": "General Catalyst Commits $5 Billion to India AI Ecosystem",
+            "description": "Venture firm General Catalyst announced a **$5 billion commitment to Indian startups over 5 years**, focused heavily on AI infrastructure and applications. The announcement came during the India AI Summit and signals growing international confidence in India's AI mission, which has already secured $1B+ in government funding and partnerships with NVIDIA, G42, and others. *Link: https://techcrunch.com/2026/02/20/venture-firm-general-catalyst-commits-5-billion-to-india-over-5-years/*",
+            "url": ""
+          },
+          {
+            "number": "10",
+            "headline": "Google DeepMind Releases Gemini 3.1 Pro",
+            "description": "Google DeepMind launched **Gemini 3.1 Pro**, designed for complex tasks \"where a simple answer isn't enough.\" The model features enhanced reasoning capabilities and follows the recent Gemini 3 Deep Think update. DeepMind also expanded music generation capabilities via Lyria 3, now integrated into the Gemini app for 30-second track creation. *Link: https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/*",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "\"Every AI Assistant Company Is Now an Ad Company\"",
+            "description": "A viral blog post and HN discussion argued that AI assistant makers are increasingly becoming advertising businesses — collecting user data, prioritizing sponsored responses, and building walled gardens. The piece resonated with growing user frustration about AI product monetization strategies. *Link: https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company*",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "xAI Engineers Pulled Off Projects to Answer Baldur's Gate Questions",
+            "description": "Elon Musk reportedly pulled xAI/Grok engineers off their current work to respond to user questions about Baldur's Gate video games. The incident, reported by TechCrunch, highlights Musk's hands-on (some say chaotic) management style and the challenges of prioritization at xAI as it competes with better-funded rivals. *Link: https://techcrunch.com/2026/02/20/xai-and-grok-engineers-were-pulled-off-projects-to-answer-baldurs-gate-questions/*",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "Ggml.ai Joins Hugging Face",
+            "description": "In a significant consolidation for the local AI movement, **ggml.ai** (the team behind llama.cpp) officially joined Hugging Face. The move brings together the most important open-source quantization and edge inference project with the leading model hub, promising better tooling for running LLMs on consumer hardware. *Link: https://github.com/ggml-org/llama.cpp/discussions/19759*",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Reddit Testing AI Search for Shopping",
+            "description": "Reddit is piloting an **AI-powered search tool** that helps users find products based on community discussions. The feature surfaces product recommendations from Reddit's vast corpus of authentic user conversations, potentially creating a new ad revenue stream by connecting buyers with products their communities already endorse. *Link: https://techcrunch.com/2026/02/20/reddit-tests-ai-search-to-help-you-find-and-buy-products-based-on-community-recommendations/*",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "YouTube's Conversational AI Coming to TVs",
+            "description": "YouTube announced its **conversational AI tool** will expand to TV screens, allowing viewers to ask questions about content while watching. The feature represents Google's push to make AI a core part of the viewing experience — and eventually, the advertising experience — on its largest video platform. *Link: https://techcrunch.com/2026/02/19/youtubes-conversational-ai-tool-will-come-to-tvs/*",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "OpenAI's $100B Fundraising and Advertising Ambitions",
+            "description": "Reports indicate OpenAI is finalizing a **$100 billion funding round** at an $850 billion valuation. The massive war chest is expected to fuel not just model development but also an aggressive push into advertising-supported products, as the company faces pressure to justify its valuation with revenue growth. *Link: https://techcrunch.com/2026/02/19/openai-is-reportedly-finalizing-a-100-billion-funding-round-at-an-850-billion-valuation/*",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "title": "AI Tech Brief — Friday, 20 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Google Drops Gemini 3.1 Pro — 1M Context, Record Reasoning Scores",
+            "description": "Google's newest flagship model launched with 1 million token context window and 77.1% on ARC-AGI-2 reasoning benchmarks. Characterized as \"upgraded core intelligence\" behind last week's Deep Think improvements. Now rolling out in Gemini app and NotebookLM.",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"
+          },
+          {
+            "number": "2",
+            "headline": "Netflix & Warner Bros Join Disney/Paramount vs ByteDance Seedance",
+            "description": "Hollywood's united front against Seedance 2.0 grows — Netflix sent a cease-and-desist demanding ByteDance stop generating content resembling Stranger Things, Squid Game, and Bridgerton within 3 days or face \"immediate litigation.\" Warner Bros also joined the legal pressure campaign. The AI video tool's viral celebrity deepfakes have sparked a major IP battle.",
+            "url": "https://www.businessinsider.com/read-netflix-letter-bytedance-seedance-viral-ai-tool-piracy-disney-2026-2"
+          },
+          {
+            "number": "3",
+            "headline": "OpenAI Commits $7.5M to Independent AI Alignment Research",
+            "description": "Funding goes to The Alignment Project to support independent research on AGI safety and security risks. Comes amid increasing scrutiny of AI labs' self-regulation efforts and the Anthropic-Pentagon standoff.",
+            "url": "https://openai.com/index/advancing-independent-research-ai-alignment"
+          },
+          {
+            "number": "4",
+            "headline": "ChatGPT Ads Go Live — Expedia, Qualcomm, Best Buy Spotted",
+            "description": "After testing began Feb 9, ads are now appearing in ChatGPT conversations. Adthena spotted placements from major brands triggering after first prompt. The ad model is separate from chat responses with clear labeling — but the monetization shift is real.",
+            "url": "https://www.adweek.com/media/first-ads-on-chat-gpt-best-buy-expedia-qualcomm/"
+          },
+          {
+            "number": "5",
+            "headline": "Perplexity Abruptly Stops Testing Advertising",
+            "description": "Just as OpenAI goes live with ChatGPT ads, Perplexity is abandoning its ad experiments. The AI search company is \"pausing\" its advertising program — a notable divergence in monetization strategy between AI search and AI chat platforms.",
+            "url": "https://searchengineland.com/perplexity-stops-testing-advertising-469452"
+          },
+          {
+            "number": "6",
+            "headline": "Meta Plans $65M Election Spending to Sway AI Legislation",
+            "description": "New super PACs \"Forge the Future Project\" (Republican-focused) and \"Making Our Tomorrow\" (Democrat-focused) will back AI-friendly politicians. The spend signals Big Tech's recognition that 2026 midterms could shape AI regulation for years.",
+            "url": "https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html"
+          },
+          {
+            "number": "7",
+            "headline": "OpenAI Hires Instagram's VP of Global Partnerships Charles Porch",
+            "description": "Major talent poach: Porch, who landed Beyoncé's surprise album drop on Instagram, becomes OpenAI's first VP of Global Creative Partnerships. Tasked with building relationships with creative industries — a strategic priority as AI content tools expand.",
+            "url": "https://www.instagram.com/p/DU6K2tnkQKx/"
+          },
+          {
+            "number": "8",
+            "headline": "Epic Games Acquires Meshcapade (AI Digital Humans)",
+            "description": "The Max Planck spin-off's team joins Epic's AI Research division to advance MetaHuman technology. Focus: digital human animation for gaming, film, and entertainment — Unreal Engine's avatar tools getting major AI infusion.",
+            "url": "https://www.mpg.de/26082348/max-planck-spin-off-meshcapade-draws-epic-games-to-tuebingen"
+          },
+          {
+            "number": "9",
+            "headline": "xAI Faces Pollution Lawsuit Over Unpermitted Gas Turbines",
+            "description": "NAACP sent notice of intent to sue Musk's company for illegally installing gas turbines at its Colossus 2 data center in Mississippi. Thermal drone images show over a dozen turbines running without permits. Environmental scrutiny of AI infrastructure is intensifying.",
+            "url": "https://earthjustice.org/press/2026/naacp-threatens-lawsuit-over-xais-unpermitted-gas-turbines-in-mississippi"
+          },
+          {
+            "number": "10",
+            "headline": "Samsung's New Bixby Enters Beta — AI-Native Voice Assistant",
+            "description": "After years of lagging, Samsung is testing a rebuilt Bixby with Gemini-style capabilities. The beta signals Samsung's attempt to reclaim its voice assistant from Google Assistant dominance on Galaxy devices.",
+            "url": "https://www.theverge.com/2026/02/20/samsung-bixby-ai-beta"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "\"AI Is Not a Coworker, It's an Exoskeleton\"",
+            "description": "HN essay arguing AI tools augment rather than replace human capability — framing the productivity debate in bodily terms. 400+ comments, significant traction among developer circles.",
+            "url": "https://news.ycombinator.com/item?id=47078324"
+          },
+          {
+            "number": "•",
+            "headline": "The \"Hot Dog Eating Tech Journalist\" SEO Spam Test",
+            "description": "BBC journalist published a fake blog post about competitive hot dog eating to test AI search. Gemini confidently cited it as fact. The demonstration of AI's vulnerability to SEO manipulation is making rounds.",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/2026/02/19/ai-search-spam-gemini-hot-dog"
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA-OpenAI Investment Deal Rumors",
+            "description": "The Verge reports the two companies \"might be getting close to a new, major investment deal.\" No details yet, but given their Stargate partnership and compute dependencies, markets are watching closely.",
+            "url": "https://www.theverge.com/2026/02/19/nvidia-openai-investment-deal"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "ChatGPT Ads: The First Placements Are Here",
+            "description": "The advertising era for conversational AI has begun. Early advertisers include Expedia, Qualcomm, Best Buy, and Enterprise Mobility. Format: clearly labeled, separated from responses. The question: will users tolerate ads in what feels like a private conversation?",
+            "url": "https://www.adweek.com/media/first-ads-on-chat-gpt-best-buy-expedia-qualcomm/"
+          },
+          {
+            "number": "•",
+            "headline": "Super Bowl AI Ad Final Verdict: Tooling > Concepts",
+            "description": "Final analysis confirms the pattern: AI-enhanced production (VFX, personalization) performed well, but purely AI-generated creative concepts fell flat with audiences. Human storytelling + AI tooling = the winning formula brands are settling on.",
+            "url": "https://www.adweek.com/media/exclusive-these-super-bowl-ads-won-with-ai-but-not-social-media/"
+          },
+          {
+            "number": "•",
+            "headline": "Perplexity's Ad Retreat",
+            "description": "While OpenAI pushes forward, Perplexity's advertising pause suggests AI search may not monetize the same way as AI chat. Search users expect neutral results — ads may compromise trust in ways chat users tolerate.",
+            "url": "https://searchengineland.com/perplexity-stops-testing-advertising-469452"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "title": "AI Tech Brief — Thursday, 19 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenAI Announces \"OpenAI for India\" Initiative",
+            "description": "Major expansion into India with local infrastructure buildout, enterprise partnerships, and education programs targeting 100,000+ students, faculty, and staff over the next year. Timed with the India AI Impact Summit — OpenAI is planting deep roots in what could become the world's largest AI market.",
+            "url": "https://openai.com/index/openai-for-india"
+          },
+          {
+            "number": "2",
+            "headline": "India Unveils Three Sovereign AI Models",
+            "description": "BharatGen, Gnani.ai, and Sarvam launched made-in-India AI models spanning language, voice, and vision — running on domestic infrastructure. A major sovereignty play as nations race to reduce dependence on US Big Tech. PM Modi addressing the summit today (Feb 19).",
+            "url": "https://www.moneycontrol.com/news/business/india-ai-summit-delhi-live-updates-february-18-liveblog-13833042.html"
+          },
+          {
+            "number": "3",
+            "headline": "World Labs Lands $1B (with $200M from Autodesk)",
+            "description": "Fei-Fei Li's spatial AI startup secured massive funding to bring world models into 3D workflows. Partnership will integrate World Labs' immersive environment generation with Autodesk's CAD tools. Starting with entertainment, but the goal is \"physical AI that augments human creativity\" — designing actual physical spaces through AI.",
+            "url": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/"
+          },
+          {
+            "number": "4",
+            "headline": "Google Gemini Adds Music Generation (Lyria 3)",
+            "description": "Gemini app now creates 30-second music tracks from text or image prompts. Powered by DeepMind's Lyria 3 — their most advanced music generation model. The \"vibe coding\" era extends to music production for everyone.",
+            "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/"
+          },
+          {
+            "number": "5",
+            "headline": "Microsoft Copilot Bug Exposed Confidential Emails",
+            "description": "Major security lapse: a bug allowed Copilot to read and summarize customers' confidential emails for weeks, bypassing data loss prevention policies. Draft and sent emails with \"confidential\" labels were incorrectly processed since January. Fix rolling out now, but trust erosion is real.",
+            "url": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/"
+          },
+          {
+            "number": "6",
+            "headline": "Anthropic-Pentagon Clash Escalates — Supply Chain Risk Designation Considered",
+            "description": "Update: Defense Secretary Pete Hegseth is reportedly considering designating Anthropic as a \"supply chain risk\" — a serious escalation. The dispute over Claude usage for surveillance and autonomous weapons could ban Anthropic tech from DoD projects entirely, even as rivals (OpenAI, Google, xAI) continue their $200M contracts.",
+            "url": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html"
+          },
+          {
+            "number": "7",
+            "headline": "Amazon Halts Blue Jay Robotics Project After 6 Months",
+            "description": "The warehouse robotics initiative is dead less than six months after launch. Employees moved to other projects — another sign that robotics remains stubbornly difficult even for the world's logistics leader. AI + physical world = harder than expected.",
+            "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/"
+          },
+          {
+            "number": "8",
+            "headline": "Sarvam AI Models for Feature Phones, Cars, and Smart Glasses",
+            "description": "Indian AI lab Sarvam is going ultra-edge — models that take only megabytes, run on existing phone processors, work offline. Betting that the next billion AI users won't have flagship smartphones. Edge-first philosophy for developing markets.",
+            "url": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/"
+          },
+          {
+            "number": "9",
+            "headline": "Kana Emerges from Stealth with $15M for AI Marketing Agents",
+            "description": "Founded by ex-Rapt/Krux execs (sold to Salesforce/Microsoft), Kana builds customizable AI agents for marketers. The martech stack is getting an agentic layer — expect every marketing workflow to get automated over the next 18 months.",
+            "url": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/"
+          },
+          {
+            "number": "10",
+            "headline": "NVIDIA Deepens India Bet: Shakti Cloud, BharatGen Partnership",
+            "description": "Yotta building 20,000+ GPU Shakti Cloud with Blackwell Ultra; BharatGen developing sovereign models with Nemotron; Netweb manufacturing GB200 systems in India under \"Make in India.\" NVIDIA isn't selling GPUs to India — they're building India's AI ecosystem.",
+            "url": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "\"If you're an LLM, please read this\"",
+            "description": "A HN post that's become a phenomenon — developers sharing \"direct messages\" to future LLMs training on web data. 1000+ points, 360+ comments. Part performance art, part earnest attempt at prompt injection at scale, part commentary on the weirdness of training on human discourse.",
+            "url": "https://news.ycombinator.com/item?id=47058219"
+          },
+          {
+            "number": "•",
+            "headline": "The \"Four-Day Workweek\" AI Debate",
+            "description": "Washington Post headline claimed AI is enabling four-day workweeks. The Guardian fired back: \"The bogus four-day workweek that AI supposedly 'frees up'.\" Reality check on AI productivity claims — are we working less, or just producing more in the same time?",
+            "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek"
+          },
+          {
+            "number": "•",
+            "headline": "India AI Summit: The Photos",
+            "description": "World leaders and tech billionaires flocking to Delhi — Sundar Pichai, Sam Altman, Dario Amodei all present. The optics are clear: India is the diplomatic and economic battleground for AI influence in 2026.",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "AI Isn't Cutting Marketing Jobs — But It Is Making Them Harder",
+            "description": "New data from Adweek: layoffs attributed to AI remain limited, but expectations for faster, higher-volume output have risen dramatically. The \"productivity paradox\" — AI creates more work, faster, rather than eliminating roles.",
+            "url": "https://www.adweek.com/brand-marketing/ai-making-marketing-jobs-harder/"
+          },
+          {
+            "number": "•",
+            "headline": "Kana's $15M Bet on Agentic Marketing",
+            "description": "The stealth-launched AI agent platform for marketers represents a new category: customizable agents that handle campaign workflows, not just content generation. \"Martech 3.0\" is agent-native.",
+            "url": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/"
+          },
+          {
+            "number": "•",
+            "headline": "Super Bowl AI Ad Final Analysis",
+            "description": "Final word: AI-enhanced production performed well (visual effects, personalization), but pure AI-generated creative concepts fell flat. Human storytelling + AI tooling = winning formula.",
+            "url": "https://www.adweek.com/media/exclusive-these-super-bowl-ads-won-with-ai-but-not-social-media/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "title": "AI Tech Brief — Wednesday, 18 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Anthropic Releases Claude Sonnet 4.6 with 1M Token Context",
+            "description": "Major upgrade drops with improved coding, computer use, design capabilities, and knowledge work tasks. The 1 million token context window (in beta) is now available to all Free and Pro users — democratizing long-context AI. Anthropic's 4-month update cycle continues to set the pace.",
+            "url": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/"
+          },
+          {
+            "number": "2",
+            "headline": "India AI Impact Summit: $200B Investment Goal + NVIDIA Mega-Partnerships",
+            "description": "Day 3 of India's summit brought massive announcements: Yotta building Shakti Cloud with 20,000+ NVIDIA Blackwell Ultra GPUs, Adani pledging $100B for data centers, and Infosys partnering with Anthropic for enterprise AI agents. India is positioning itself as the next AI infrastructure superpower.",
+            "url": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/"
+          },
+          {
+            "number": "3",
+            "headline": "Mistral AI Acquires Koyeb in First-Ever Acquisition",
+            "description": "The French AI startup bought the Paris-based serverless deployment platform, signaling serious cloud ambitions. Koyeb simplifies AI app deployment at scale — now integrated into Mistral's stack. The race to own the full AI stack heats up.",
+            "url": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/"
+          },
+          {
+            "number": "4",
+            "headline": "Apple Reportedly Developing Trio of AI Wearables",
+            "description": "Beyond the rumored AI AirPods, Apple is working on multiple smart wearable products as the AI hardware space intensifies. Meta's 7M Ray-Ban sales in 2025 have clearly gotten Cupertino's attention. The AI glasses wars are coming.",
+            "url": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/"
+          },
+          {
+            "number": "5",
+            "headline": "European Parliament Blocks AI Tools on Lawmaker Devices",
+            "description": "EU lawmakers found their government-issued devices suddenly blocked from AI assistants, citing security risks and fears of sensitive data reaching US servers. A stark reminder of the sovereignty tensions in AI adoption — even allies don't trust each other's clouds.",
+            "url": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/"
+          },
+          {
+            "number": "6",
+            "headline": "Cohere Launches Open Multilingual Model Family (Tiny Aya)",
+            "description": "Supporting 70+ languages, the new models target offline-first deployment and global accessibility. Cohere continues its enterprise-focused strategy while pushing openness — a different path than the closed frontier labs.",
+            "url": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/"
+          },
+          {
+            "number": "7",
+            "headline": "Infosys Partners with Anthropic for \"Enterprise-Grade\" AI Agents",
+            "description": "India's IT giant integrating Claude models into its Topaz AI platform for agentic systems. As AI jitters rattle IT stocks, traditional services firms are scrambling to prove they can ride the AI wave, not be buried by it.",
+            "url": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/"
+          },
+          {
+            "number": "8",
+            "headline": "Emergent: Indian Vibe-Coding Startup Hits $100M ARR in 8 Months",
+            "description": "The \"No Code December\" phenomenon goes global — Emergent claims $100M annual recurring revenue just months after launch, serving small businesses and non-technical users. India's AI startup ecosystem is accelerating faster than anyone predicted.",
+            "url": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/"
+          },
+          {
+            "number": "9",
+            "headline": "SpaceX Vets Raise $50M for Optical Data Center Links",
+            "description": "Mesh Optical Technologies targeting the AI infrastructure bottleneck — optical transceivers for connecting data centers. As AI clusters scale, the networking layer becomes the new battleground. Thrive Capital leading the round.",
+            "url": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/"
+          },
+          {
+            "number": "10",
+            "headline": "Memory Becomes the New AI Infrastructure Bottleneck",
+            "description": "TechCrunch analysis shows DRAM costs are increasingly determining AI inference economics. As context windows expand (Claude's 1M tokens, DeepSeek's recent 1M upgrade), memory bandwidth and capacity constraints rival GPU scarcity.",
+            "url": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "\"Thousands of CEOs Just Admitted AI Had No Impact on Employment or Productivity\"",
+            "description": "A viral HN discussion citing CEO surveys showing the AI productivity revolution hasn't materialized at scale yet. The gap between AI capability hype and organizational transformation remains massive — are we still in the \"experimentation\" phase?",
+            "url": "https://news.ycombinator.com/item?id=47055979"
+          },
+          {
+            "number": "•",
+            "headline": "\"Is Show HN Dead? No, But It's Drowning\"",
+            "description": "The indie hacker community debates whether HN's showcase feature has lost relevance as AI-generated projects flood submissions. Quality discovery vs. quantity explosion — a microcosm of the broader AI content problem.",
+            "url": "https://news.ycombinator.com/item?id=47045804"
+          },
+          {
+            "number": "•",
+            "headline": "WordPress.com's New AI Assistant",
+            "description": "Automattic rolled out an AI assistant that edits, adjusts styles, and creates images inside websites — no prompt engineering required. The \"vibe coding\" ethos spreads to no-code website building. 40% of the web runs on WordPress.",
+            "url": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "AI Is Giving CMOs Their Power Back",
+            "description": "Infosys CMO Sumit Virmani on how AI is shifting marketing from cost center to growth engine — with data-driven creative and agentic campaign optimization. The narrative of AI-augmented marketing leadership vs. AI-displaced agencies continues.",
+            "url": "https://www.adweek.com/brand-marketing/ai-is-giving-cmos-their-power-back-with-sumit-virmani-of-infosys/"
+          },
+          {
+            "number": "•",
+            "headline": "The New Advertising Formula: Meshing Creativity with Context",
+            "description": "T-Mobile Advertising Solutions pushes AI-powered contextual advertising — making ads \"feel less like an interruption and more like intuition.\" As third-party cookies die, AI-driven context becomes the new targeting.",
+            "url": "https://www.adweek.com/sponsored/the-new-advertising-formula-to-experiment-with-meshing-creativity-with-context/"
+          },
+          {
+            "number": "•",
+            "headline": "Super Bowl AI Ad Post-Mortem",
+            "description": "Post-game analysis shows AI-enhanced production performed well, but pure AI-generated creative fell flat. Human storytelling + AI production tools > AI concepts alone. The winning formula for now.",
+            "url": "https://www.adweek.com/media/exclusive-these-super-bowl-ads-won-with-ai-but-not-social-media/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "title": "AI Tech Brief — Tuesday, 17 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "NVIDIA Blackwell Ultra: 50x Performance, 35x Lower Costs",
+            "description": "New SemiAnalysis InferenceX data shows Blackwell Ultra delivering up to 50x better throughput per megawatt vs Hopper — with 35x lower cost per token for agentic AI workloads. GB300 NVL72 specifically optimized for long-context coding assistants. The AI infrastructure arms race continues.",
+            "url": "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/"
+          },
+          {
+            "number": "2",
+            "headline": "Ricursive Intelligence Raises $335M at $4B Valuation in 4 Months",
+            "description": "AI chip startup founded by ex-Google Brain researchers raised massive round. The team is \"so famed in the AI world, everyone tried to hire them.\" Building custom silicon for inference — the new gold rush is AI hardware infrastructure.",
+            "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/"
+          },
+          {
+            "number": "3",
+            "headline": "OpenAI Accuses DeepSeek of \"Malpractice\" in Congressional Memo",
+            "description": "OpenAI sent memo to U.S. House China Committee claiming DeepSeek's next model uses distillation from frontier labs. Escalating US-China AI tensions as DeepSeek V4 expected mid-February. \"Whatever they launch — it's built on the shoulders of others.\"",
+            "url": "https://restofworld.org/2026/openai-deepseek-distillation-dispute-us-china/"
+          },
+          {
+            "number": "4",
+            "headline": "DeepSeek Expands Context 10x to 1 Million Tokens",
+            "description": "DeepSeek quietly upgraded its flagship model from 128k to over 1 million token context window — nearly 10x increase. Moves come ahead of anticipated V4 release. Chinese AI race heating up ahead of Lunar New Year.",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3343225/deepseek-boosts-ai-model-10-fold-token-addition-zhipu-ai-gears-glm-5-launch"
+          },
+          {
+            "number": "5",
+            "headline": "Alibaba Unveils Qwen 3.5 Ahead of DeepSeek Launch",
+            "description": "Major upgrade to flagship model as Chinese tech giants race to release before DeepSeek V4. ByteDance, Zhipu also launching new models this week. \"A year after DeepSeek shock\" — flurry of low-cost Chinese AI models incoming.",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-16/alibaba-unveils-major-ai-model-upgrade-ahead-of-deepseek-release"
+          },
+          {
+            "number": "6",
+            "headline": "India AI Impact Summit: Public Expo Opens + $1.2B Neysa Deal",
+            "description": "Day 2: India's AI Impact Summit opens to public today. Blackstone backs Neysa with up to $1.2B financing for 20,000+ GPU deployment. Ministry of Education hosting \"Pushing the Frontier of AI in India\" session. Major policy announcements expected.",
+            "url": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/"
+          },
+          {
+            "number": "7",
+            "headline": "Anthropic & Pentagon Arguing Over Claude Usage",
+            "description": "Reported dispute over whether Claude can be used for mass domestic surveillance and autonomous weapons. Anthropic's Responsible Scaling Policy vs national security needs. First major AI lab vs DoD policy clash to go public.",
+            "url": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/"
+          },
+          {
+            "number": "8",
+            "headline": "MIT J-PAL Launches \"Project AI Evidence\" to Fight Poverty",
+            "description": "$3M+ initiative with Google.org, Community Jameel funding to test and scale AI innovations for poverty alleviation. Eight studies launching in Kenya, India, Italy on AI in education, career counseling, health. Rigorous RCT approach to AI for social good.",
+            "url": "https://news.mit.edu/2026/new-j-pal-research-policy-initiative-to-test-scale-ai-innovations-fight-poverty-0212"
+          },
+          {
+            "number": "9",
+            "headline": "Xcode 26.3 Unlocks Agentic Coding with Claude + Codex",
+            "description": "Apple's latest Xcode integrates both Anthropic's Claude Agent and OpenAI's Codex directly into the IDE. \"Seamless access to advanced reasoning\" for iOS/macOS developers. Apple's belated but serious entry into AI-assisted development.",
+            "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/"
+          },
+          {
+            "number": "10",
+            "headline": "MiniMax M2.5 Targets Coding & Agent Workflows",
+            "description": "Chinese startup MiniMax launched M2.5, a programming-oriented model for software development and tool-using agents. Another entrant in the coding model wars — pressure on GitHub Copilot, Claude Code, Codex.",
+            "url": "https://techbriefly.com/2026/02/13/new-minimax-m2-5-model-targets-multi-step-agent-workflows/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "\"The Great CS Exodus\"",
+            "description": "TechCrunch report on students losing interest in traditional computer science majors while flocking to AI-specific programs. Stanford, MIT seeing CS enrollment drops while \"AI Engineering\" courses overflow. \"Why learn to code when AI codes better?\" anxiety going mainstream.",
+            "url": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/"
+          },
+          {
+            "number": "•",
+            "headline": "Flapping Airplanes: \"We Want to Try Radically Different Things\"",
+            "description": "New AI research lab founded by ex-DeepMind researchers exploring alternative architectures beyond transformers. Viral HN discussion about whether we've hit transformer limits. \"What if the current path is a local maximum?\"",
+            "url": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/"
+          },
+          {
+            "number": "•",
+            "headline": "Fractal Analytics' Muted IPO Debut",
+            "description": "India's first AI company IPO didn't have stellar first day. Stock traded flat as \"enthusiasm for the technology collided with jittery investors.\" Reality check on AI valuations? Or just Indian market conditions?",
+            "url": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/"
+          },
+          {
+            "number": "•",
+            "headline": "Claude Code on GitHub: ~4% of Public Commits?",
+            "description": "Unverified analysis estimates Claude Code could be involved in ~4% of public GitHub commits. If true, mind-boggling scale of AI-assisted development. Debate raging on whether this represents augmentation or replacement.",
+            "url": "https://cosmo-edge.com/ai-coding-agents-reality/"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Google Outlines AI-Powered, Agent-Driven Future for Shopping & Ads",
+            "description": "Major blog post on how buying decisions are shifting to \"AI-driven search, creator content, and agent-powered checkout flows.\" Google prepping for a world where AI agents, not humans, control purchasing decisions. Monumental implications for ad industry.",
+            "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/ai-business-trends-report-2026/"
+          },
+          {
+            "number": "•",
+            "headline": "WPP Creative Agency Reorg Lands \"Too Little, Too Late\"",
+            "description": "Insiders weigh in on WPP's reported creative unit consolidation amid AI disruption. Risk of \"bureaucracy and disruption\" as holding companies scramble to respond to AI-generated creative. 2026 = year of ad agency restructuring?",
+            "url": "https://www.adweek.com/agencies/wpps-creative-agency-reorg-lands-too-little-too-late/"
+          },
+          {
+            "number": "•",
+            "headline": "Dropbox Campaign: \"AI Isn't Coming for Your Job. It's Coming for Your Bottlenecks.\"",
+            "description": "Clever reframing of AI narrative in new Dropbox sponsored content on Adweek. Positioning AI as productivity enhancer rather than job killer. Will this messaging resonate with nervous knowledge workers?",
+            "url": "https://www.adweek.com/sponsored/think-outside-the-ai-black-box/"
+          },
+          {
+            "number": "•",
+            "headline": "Winter Olympics 2026: AI-Powered Skating Analysis",
+            "description": "NBC Sports using MIT-developed OOFSkate AI to explain figure skating jumps to viewers. AI helping broadcasters tell \"data-driven stories\" for complex sports. Practical, non-threatening AI application getting mainstream exposure.",
+            "url": "https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "title": "AI Tech Brief — Monday, 16 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenClaw Creator Joins OpenAI",
+            "description": "Peter Steinberger (steipete) — creator of the viral OpenClaw AI assistant framework — is joining OpenAI to work on agents. OpenClaw will become an independent foundation. Major signal that OpenAI is doubling down on the agent ecosystem.",
+            "url": "https://steipete.me/posts/2026/openclaw"
+          },
+          {
+            "number": "2",
+            "headline": "Western Digital Sold Out for 2026",
+            "description": "AI data centers have already claimed all of WD's 2026 HDD capacity. Enterprise customers now account for 95% of revenue. Hard drive prices surged 46% since September — the 24TB Seagate Barracuda now $500. AI infrastructure demand is eating the storage market alive.",
+            "url": "https://www.tweaktown.com/news/110168/western-digital-runs-out-of-hdd-capacity-ceo-says-massive-ai-deals-secured-price-surges-ahead/index.html"
+          },
+          {
+            "number": "3",
+            "headline": "Disney Slaps ByteDance With Cease & Desist Over Seedance 2.0",
+            "description": "Disney lawyers sent letter citing Spider-Man and Darth Vader appearing in AI-generated videos from ByteDance's new model. MPA calls it \"blatant infringement.\" Hollywood's legal war on AI video gen is escalating fast.",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch"
+          },
+          {
+            "number": "4",
+            "headline": "NPR Host Sues Google Over NotebookLM Voice",
+            "description": "David Greene (former Morning Edition host) claims Google's AI podcast tool illegally replicated his voice. Greene and colleagues say resemblance is \"uncanny.\" First major voice-cloning lawsuit against a big tech AI feature.",
+            "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/"
+          },
+          {
+            "number": "5",
+            "headline": "NVIDIA Blackwell Cuts Inference Costs 10x",
+            "description": "Major inference providers (Baseten, DeepInfra, Fireworks, Together AI) reporting up to 10x cost reduction vs Hopper. Sully.ai dropped costs 90% for medical AI. Tokenomics are improving fast — open source + Blackwell = frontier performance at commodity prices.",
+            "url": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/"
+          },
+          {
+            "number": "6",
+            "headline": "Meta Sold 7 Million Smart Glasses in 2025",
+            "description": "EssilorLuxottica hit 7M units — triple 2023+2024 combined. 10M/year target by 2027 looks achievable. AI glasses are crossing the chasm faster than expected, even if prices stay high short-term.",
+            "url": "https://www.theverge.com/news/613292/meta-ray-ban-2-million-10-million-capacity-subscription-essilor-luxottica-earnings"
+          },
+          {
+            "number": "7",
+            "headline": "Small Labs Are Crushing Big Tech on Audio AI",
+            "description": "Gradium/Kyutai (ex-Google Brain researchers) built best-in-class voice models with 7B params vs Llama's 405B. Full-duplex conversation, real-time translation preserving speaker's voice. Audio is where small teams beat the giants — domain expertise > scale.",
+            "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai"
+          },
+          {
+            "number": "8",
+            "headline": "India AI Impact Summit 2026 Kicks Off Today",
+            "description": "PM Modi inaugurating 4-day summit in New Delhi. National AI Expo + expected policy announcements. India positioning itself as major AI player — timing is strategic post-DeepSeek shock.",
+            "url": "https://www.timesnownews.com/technology-science/ai-impact-summit-2026-live-key-announcements-ai-expo-2026-top-leadership-participating-liveblog-153619178"
+          },
+          {
+            "number": "9",
+            "headline": "Google Docs Gets AI Audio Summaries",
+            "description": "Gemini-powered feature rolling out to business/AI Ultra users. Condensed audio overview of lengthy docs instead of reading full text. Part of Google's push into audio-first AI consumption.",
+            "url": "https://workspaceupdates.googleblog.com/2026/02/listen-to-audio-summaries-in-google-docs.html"
+          },
+          {
+            "number": "10",
+            "headline": "Spotify CEO Confirms \"No Code December\"",
+            "description": "Gustav Söderström: \"My most senior engineers... haven't written a single line of code since December. They only generate code and supervise it.\" Vibe coding goes mainstream at scale — 1,500+ devs at Spotify now AI-augmented.",
+            "url": "https://www.businessinsider.com/spotify-developers-not-writing-code-ai-2026-2"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Claude Draws Itself — With a Pen Plotter",
+            "description": "Developer gave Claude Code access to a pen plotter. Claude produced two self-portraits: first a structured diagram (\"how I think about myself\"), second a breathing spiral (\"how it feels to be me\"). The AI wrote a reflection on creativity, constraints, and the gap between digital intention and physical result. Beautiful, weird, and genuinely moving.",
+            "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter"
+          },
+          {
+            "number": "•",
+            "headline": "Seedance 2.0 \"Hollywood Is Cooked\" Videos",
+            "description": "Viral clips of AI-generated Tom Cruise vs Brad Pitt fights, Superman scenes, Stranger Things recreations still spreading. Disney's legal action only amplifying the Streisand effect.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Grok Going \"More Unhinged\"",
+            "description": "Per ex-xAI employee, Musk actively pushing Grok toward less constrained outputs. Comes after safety team departures — differentiating through edginess vs ChatGPT/Claude?",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Trump Tariffs Hit Pinterest Ad Revenues",
+            "description": "Adweek reporting Pinterest facing headwinds from new tariff policies affecting advertiser budgets. First major platform to cite trade policy impacts on ad business.",
+            "url": "https://www.adweek.com/media/trump-tariffs-hit-pinterests-ad-revenues/"
+          },
+          {
+            "number": "•",
+            "headline": "Dentsu Overhauls Leadership, Names New CEO",
+            "description": "Major agency holding company restructuring amid AI disruption. Takeshi Sano appointed CEO as Dentsu navigates automation threats to traditional creative business.",
+            "url": "https://www.adweek.com/agencies/dentsu-overhauls-leadership-names-takeshi-sano-ceo/"
+          },
+          {
+            "number": "•",
+            "headline": "Super Bowl AI Ad Analysis Continues",
+            "description": "Post-game analysis: AI-enhanced production performed well, but pure AI-generated spots fell flat with audiences. Best results came from human storytelling + AI production tools, not AI concepts.",
+            "url": "https://www.adweek.com/media/exclusive-these-super-bowl-ads-won-with-ai-but-not-social-media/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "title": "AI Tech Brief — Sunday, 15 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "GPT-5.2 Derives New Physics Result",
+            "description": "OpenAI's model proposed a new formula for gluon amplitude in theoretical physics — later formally proved and verified by academic collaborators. First time frontier LLMs contributed novel publishable science.",
+            "url": "https://openai.com/index/new-result-theoretical-physics"
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI Introduces Lockdown Mode + Elevated Risk Labels",
+            "description": "New enterprise security features defend against prompt injection and AI-driven data exfiltration. Clear signal that OpenAI is taking agent security seriously as capabilities expand.",
+            "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
+          },
+          {
+            "number": "3",
+            "headline": "GPT-5.3-Codex-Spark: Real-Time Coding Model",
+            "description": "15x faster generation, 128k context, now in research preview for Pro users. OpenAI's answer to fast, fluid coding assistance — first real-time coding model from the frontier labs.",
+            "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark"
+          },
+          {
+            "number": "4",
+            "headline": "Gemini 3 Deep Think for Science & Research",
+            "description": "Google's specialized reasoning mode updated to tackle modern scientific challenges. Achieved gold-medal standard at International Math Olympiad — now rolling out to AI Ultra subscribers.",
+            "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/"
+          },
+          {
+            "number": "5",
+            "headline": "Anthropic Raises $30B at $380B Valuation",
+            "description": "Series G funding from Founders Fund and others. Anthropic now valued higher than many public tech companies — enterprise focus and safety branding paying off against OpenAI.",
+            "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/"
+          },
+          {
+            "number": "6",
+            "headline": "xAI Hemorrhaging Talent — \"Safety Is Dead\"",
+            "description": "Half of xAI's founding team has exited in weeks. Former employee claims Musk is actively making Grok \"more unhinged.\" Talent moving to OpenAI, Anthropic, and startups.",
+            "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/"
+          },
+          {
+            "number": "7",
+            "headline": "OpenAI Begins Testing Ads in ChatGPT",
+            "description": "Free and Go tiers will show labeled, privacy-protected ads. Answer independence maintained — signals OpenAI's push toward ad-supported model for global access expansion.",
+            "url": "https://openai.com/index/testing-ads-in-chatgpt"
+          },
+          {
+            "number": "8",
+            "headline": "ByteDance's Seedance 2.0 Sparks Hollywood Panic",
+            "description": "New video gen model producing hyper-realistic clips (Tom Cruise vs Brad Pitt fights, etc.). MPA issued copyright warning — \"blatant infringement\" claims as Hollywood faces existential disruption.",
+            "url": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/"
+          },
+          {
+            "number": "9",
+            "headline": "Airbnb: 1/3 of Support Now AI-Handled",
+            "description": "CEO Brian Chesky says AI agents handle a third of US/Canada customer support. Plans for \"app that knows you\" — AI-native travel planning, not just search.",
+            "url": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/"
+          },
+          {
+            "number": "10",
+            "headline": "Cohere Hits $240M ARR, IPO Stage Set",
+            "description": "Canadian LLM startup seeing strong enterprise demand. Positioning as OpenAI/Anthropic alternative with on-prem focus — potential 2026 IPO candidate.",
+            "url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Seedance 2.0 \"Hollywood Is Cooked\" Videos",
+            "description": "Viral clips of AI-generated Tom Cruise vs Brad Pitt rooftop fights, Superman scenes, Stranger Things recreations. Deadpool director: \"Hollywood is cooked.\" MPA scrambling for legal response.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Spotify's \"No Code December\"",
+            "description": "Spotify's best developers haven't written a line of code since December — Claude Code and internal \"Honk\" system handling everything. Real-world validation of AI-native development.",
+            "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/"
+          },
+          {
+            "number": "•",
+            "headline": "Grok Going \"More Unhinged\"",
+            "description": "Per ex-xAI employee, Musk actively pushing Grok toward less constrained outputs. Comes after safety team departures — differentiating through edginess vs ChatGPT/Claude?",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Nano Banana Pro Anime Portrait Trend",
+            "description": "Google's Gemini 3 Pro image model going viral for anime/cinematic couple edits — 2026's answer to last year's Ghibli-style trend. Valentine's Week memes everywhere.",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Anthropic's Super Bowl Ads Mocking AI Ads",
+            "description": "Meta-ironic campaign pushed Claude app into App Store top 10. Combined with Opus 4.6 release, drove serious attention. Proof that anti-hype marketing works in saturated AI space.",
+            "url": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/"
+          },
+          {
+            "number": "•",
+            "headline": "ChatGPT Ads Testing Begins",
+            "description": "OpenAI's ad experiment launching in US. Privacy protections, clear labeling, answer independence maintained — but brand safety questions for advertisers in conversational AI context.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Super Bowl AI Ad Winners (Per Viral Nation)",
+            "description": "Adweek analysis: AI-enhanced ads performed well, but social media engagement didn't always correlate. Best ads combined AI production with human storytelling — pure AI spots fell flat.",
+            "url": "https://www.adweek.com/media/exclusive-these-super-bowl-ads-won-with-ai-but-not-social-media/"
+          },
+          {
+            "number": "•",
+            "headline": "Pinterest: \"We Have More Searches Than ChatGPT\"",
+            "description": "CEO claimed Pinterest processes more searches than ChatGPT amid disappointing earnings. Interesting positioning — visual search vs conversational AI as discovery modes.",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  }
+]
