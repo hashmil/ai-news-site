@@ -6,13 +6,18 @@ import briefings from '../../data/briefings.json';
 import imageMap from '../../data/image-map.json';
 
 export function getStaticPaths() {
-  return briefings.map((b) => ({
+  return briefings.map((b, i) => ({
     params: { date: b.date },
-    props: { briefing: b },
+    props: {
+      briefing: b,
+      newer: briefings[i - 1] ?? null,
+      older: briefings[i + 1] ?? null,
+      isLatest: i === 0,
+    },
   }));
 }
 
-const { briefing } = Astro.props;
+const { briefing, newer, older, isLatest } = Astro.props;
 ---
 <Base title={briefing.date}>
   <span class="date-header">{briefing.title}</span>
@@ -30,4 +35,12 @@ const { briefing } = Astro.props;
       ))}
     </Section>
   ))}
+  <nav class="issue-nav">
+    {newer ? (
+      <a href={isLatest ? '/' : `/issue/${newer.date}/`} class="issue-nav-link">&larr; Newer</a>
+    ) : <span></span>}
+    {older ? (
+      <a href={`/issue/${older.date}/`} class="issue-nav-link">Older &rarr;</a>
+    ) : <span></span>}
+  </nav>
 </Base>

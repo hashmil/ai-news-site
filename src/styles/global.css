@@ -62,6 +62,10 @@ main { max-width: 720px; margin: 0 auto; padding: 64px 20px; }
 .archive-date { font-size: 18px; font-weight: 600; color: var(--accent); margin-bottom: 4px; }
 .archive-meta { color: var(--muted); font-size: 14px; }
 
+.issue-nav { display: flex; justify-content: space-between; align-items: center; margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--border); }
+.issue-nav-link { color: var(--muted); text-decoration: none; font-size: 14px; font-weight: 500; padding: 8px 16px; background: #18181b; border-radius: 6px; border: 1px solid var(--border); transition: all 0.2s; }
+.issue-nav-link:hover { background: #27272a; color: var(--text); border-color: #3f3f46; }
+
 footer { text-align: center; padding: 48px 20px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--border); margin-top: 64px; }
 
 @media (max-width: 600px) {
