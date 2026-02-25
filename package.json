@@ -4,7 +4,6 @@
   "scripts": {
     "load": "node scripts/load-briefings.mjs",
     "images": "node scripts/fetch-og-images.mjs",
-    "prebuild": "npm run load && npm run images",
     "dev": "astro dev",
     "build": "astro build",
     "publish": "bash scripts/build-and-publish.sh"
