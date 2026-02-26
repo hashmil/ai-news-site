@@ -98,10 +98,13 @@ function parseBriefing(text, date) {
       continue;
     }
 
-    // URL line — handle bare URLs, 🔗 prefixed, - **URL:** prefixed, angle-bracketed
+    // URL line — handle bare URLs, 🔗 prefixed, - **URL:** prefixed, angle-bracketed, Link: prefixed, or (URL) wrapped
     const urlLine = trimmed
       .replace(/^[-*]\s+\*\*URL:?\*\*:?\s*/i, '')
+      .replace(/^Link:?\s*/i, '')
       .replace(/^🔗\s*/, '')
+      .replace(/^\(/, '')
+      .replace(/\)$/, '')
       .replace(/^</, '')
       .replace(/>$/, '');
 
