@@ -40,14 +40,18 @@ function parseBriefing(text, date) {
     if (!trimmed) continue;
     if (trimmed === '---') continue;
 
-    // Title: # AI Tech Brief ...
-    if (trimmed.startsWith('# ') && !trimmed.startsWith('## ') && !trimmed.startsWith('### ')) {
+    // Title: # AI Tech Brief ... or just start with emoji
+    if ((trimmed.startsWith('# ') && !trimmed.startsWith('## ') && !trimmed.startsWith('### ')) ||
+        (trimmed.startsWith('🤖') && !title)) {
       title = trimmed.replace(/^#\s+/, '').replace(/^🤖\s*/, '');
       continue;
     }
 
-    // Section: ## 📰 TOP 10 ...
-    if (trimmed.startsWith('## ')) {
+    // Section: ## 📰 TOP 10 ... or just start with emoji
+    if (trimmed.startsWith('## ') || 
+        (trimmed.startsWith('📰') && !currentSection) ||
+        (trimmed.startsWith('🔥') && !currentSection) ||
+        (trimmed.startsWith('📢') && !currentSection)) {
       flushSection();
       const heading = trimmed.replace(/^##\s+/, '');
       currentSection = {

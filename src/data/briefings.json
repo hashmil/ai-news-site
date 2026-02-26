@@ -1,8 +1,105 @@
 [
   {
     "date": "2026-02-26",
-    "title": "",
-    "sections": []
+    "title": "AI Tech Brief — Thursday, 26 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Anthropic Acquires Computer-Use AI Startup Vercept",
+            "description": "Why it matters: Consolidating its lead in computer-use agents after Meta poached a Vercept co-founder. A massive move for foundational UI automation.",
+            "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/"
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI COO Admits Enterprise AI Adoption is Lagging",
+            "description": "Why it matters: Despite the recent launch of OpenAI Frontier, Brad Lightcap says businesses haven't yet seen AI penetration in core processes at scale.",
+            "url": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/"
+          },
+          {
+            "number": "3",
+            "headline": "Multiverse Computing Drops HyperNova 60B",
+            "description": "Why it matters: The Spanish \"soonicorn\" released a free compressed model that reportedly beats Mistral Large 3, showing Europe's growing open-weights muscle.",
+            "url": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/"
+          },
+          {
+            "number": "4",
+            "headline": "Google Cloud AI's Three New Frontiers",
+            "description": "Why it matters: Google's AI lead outlines the next competitive vectors—pushing beyond raw intelligence to focus heavily on response time and model \"extensibility\".",
+            "url": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/"
+          },
+          {
+            "number": "5",
+            "headline": "The First Fully General Computer Action Model",
+            "description": "Why it matters: Surging on Hacker News, a new foundation model trained purely on general computer actions takes us closer to universal UI-based agents.",
+            "url": "https://news.ycombinator.com/item?id=47125014"
+          },
+          {
+            "number": "6",
+            "headline": "Comp Raises Backing to Replace Legacy HR with AI",
+            "description": "Why it matters: Keith Rabois-backed startup Comp is taking on incumbents like Mercer by fully automating compensation strategy.",
+            "url": "https://techcrunch.com/2026/02/25/khoslas-keith-rabois-backs-comp-which-wants-to-bolster-hr-teams-with-ai/"
+          },
+          {
+            "number": "7",
+            "headline": "Making the Model Context Protocol (MCP) Cheaper",
+            "description": "Why it matters: Developers are building CLI tooling to slash the cost of MCP, making file-access and agentic workflows much more viable locally.",
+            "url": "https://news.ycombinator.com/item?id=47157398"
+          },
+          {
+            "number": "8",
+            "headline": "Learnings from 4 Months of Image-Video VAE Experiments",
+            "description": "Why it matters: A highly regarded open-source dev log detailing the brutal reality and technical bottlenecks of building latent spaces for video generation.",
+            "url": "https://news.ycombinator.com/item?id=47141107"
+          },
+          {
+            "number": "9",
+            "headline": "Show HN: Respectify – The AI Comment Moderator",
+            "description": "Why it matters: A new tool that doesn't just block toxic comments, but actively uses AI to teach people how to argue better online.",
+            "url": "https://news.ycombinator.com/item?id=47151842"
+          },
+          {
+            "number": "10",
+            "headline": "The Om Programming Language for AI Workflows",
+            "description": "Why it matters: A new programming language gaining traction for natively handling modern, complex systems and potentially AI integration pipelines. 🔥 VIRAL MOMENTS",
+            "url": "https://news.ycombinator.com/item?id=47154971"
+          },
+          {
+            "number": "•",
+            "headline": "Large-Scale Online Deanonymization with LLMs:",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Windows 11 Notepad Finally Supports Markdown:",
+            "description": "📢 AI ADVERTISING",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "The Post-Subscription AI Economy:",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Netflix's In-House Ad Platform Doubles Spend:",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Adweek Brands Go All-In on Image Generation:",
+            "description": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
   },
   {
     "date": "2026-02-25",
