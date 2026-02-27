@@ -1,5 +1,131 @@
 [
   {
+    "date": "2026-02-27",
+    "title": "AI Tech Brief — Friday, 27 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Google's Nano Banana 2: Pro Capabilities at Flash Speed",
+            "description": "Why it matters: Google's latest image generation model combines Pro-tier capabilities with Flash-level speed, and it's becoming the default in Gemini. Speed + quality tradeoff just got a lot less painful.",
+            "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/"
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI Codex + Figma: Seamless Code-to-Design Experience",
+            "description": "Why it matters: Figma integrates OpenAI's coding assistant Codex, a week after adding Claude Code. Design tools are becoming the battleground where AI coding agents meet creative workflows.",
+            "url": "https://openai.com/index/figma-partnership"
+          },
+          {
+            "number": "3",
+            "headline": "Anthropic CEO Dario Amodei Stands Firm on Pentagon Access Demands",
+            "description": "Why it matters: Update: As Pentagon deadline looms, Amodei released a statement saying he \"cannot in good conscience accede\" to demands for unrestricted military access to Claude. The standoff escalates.",
+            "url": "https://news.ycombinator.com/item?id=47173121"
+          },
+          {
+            "number": "4",
+            "headline": "Lilly Launches World's Most Powerful AI Factory for Pharma Discovery",
+            "description": "Why it matters: The pharmaceutical giant deployed the first NVIDIA DGX SuperPOD with DGX B300 systems owned and operated by a pharma company. Healthcare AI infrastructure just leveled up.",
+            "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/"
+          },
+          {
+            "number": "5",
+            "headline": "OpenAI + PNNL: Accelerating Federal Permitting with AI",
+            "description": "Why it matters: New DraftNEPABench shows AI coding agents can reduce NEPA drafting time by up to 15% and modernize infrastructure reviews. AI meeting government bureaucracy where it hurts.",
+            "url": "https://openai.com/index/pacific-northwest-national-laboratory"
+          },
+          {
+            "number": "6",
+            "headline": "Mistral AI Partners with Accenture for Enterprise Push",
+            "description": "Why it matters: Another European AI player lands a major consulting partnership—Accenture now works with OpenAI, Anthropic, and Mistral. The enterprise channel wars are heating up.",
+            "url": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/"
+          },
+          {
+            "number": "7",
+            "headline": "Trace Raises $3M to Solve AI Agent Adoption Problem",
+            "description": "Why it matters: Enterprise has a pilot-to-production gap, and Trace is betting $3M from Y Combinator that the barrier isn't tech—it's getting teams to actually use agents. Real problem, real money.",
+            "url": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/"
+          },
+          {
+            "number": "8",
+            "headline": "Read AI Launches Email-Based 'Digital Twin' Assistant",
+            "description": "Why it matters: Ada can reply with your availability and extract answers from company knowledge and web. Email is becoming the entry point for personalized AI agents that live in your communication flow.",
+            "url": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/"
+          },
+          {
+            "number": "9",
+            "headline": "Bumble Adds AI-Powered Photo Feedback and Profile Guidance",
+            "description": "Why it matters: Dating apps are going all-in on AI for everything from photo selection to profile optimization. Another category where AI features are becoming table stakes.",
+            "url": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/"
+          },
+          {
+            "number": "10",
+            "headline": "NVIDIA Healthcare AI Survey: Clear ROI, 70% Adoption",
+            "description": "Why it matters: Second annual survey shows AI in healthcare moved from experimentation to execution—69% using generative AI, 85% of execs say it's increasing revenue. The ROI narrative is landing.",
+            "url": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Prada x Meta AI Glasses?",
+            "description": "",
+            "url": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/"
+          },
+          {
+            "number": "•",
+            "headline": "Jack Dorsey Halves Block's Employee Base",
+            "description": "",
+            "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/"
+          },
+          {
+            "number": "•",
+            "headline": "Palantir AI Tracking Gaza Aid Deliveries",
+            "description": "",
+            "url": "https://news.ycombinator.com/item?id=47174777"
+          },
+          {
+            "number": "•",
+            "headline": "Launch HN: Cardboard (YC W26) – Agentic Video Editor",
+            "description": "",
+            "url": "https://news.ycombinator.com/item?id=47170174"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "ChatGPT Ads Rollout Reshapes AI Trust Contract",
+            "description": "",
+            "url": "https://www.adweek.com/brand-marketing/10-ai-marketing-trends-for-2026-agentic-ai-and-search-shifts/"
+          },
+          {
+            "number": "•",
+            "headline": "AI-Generated Super Bowl Spots Hit Critical Mass",
+            "description": "",
+            "url": "https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/"
+          },
+          {
+            "number": "•",
+            "headline": "TV Advertising Gets AI-Driven Reset in 2026",
+            "description": "",
+            "url": "https://www.adweek.com/convergent-tv/experts-say-tv-advertising-will-get-an-ai-driven-reset-in-2026/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-02-26",
     "title": "AI Tech Brief — Thursday, 26 Feb 2026 (Dubai)",
     "sections": [
