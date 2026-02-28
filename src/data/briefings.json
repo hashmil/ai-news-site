@@ -1,5 +1,148 @@
 [
   {
+    "date": "2026-02-28",
+    "title": "AI Tech Brief — Saturday, 28 Feb 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Pentagon Designates Anthropic as Supply-Chain Risk",
+            "description": "Department of War labels Anthropic a national security risk, escalating the standoff over military AI use. \"We don't need it, we don't want it, and will not do business with them again,\" President Trump wrote. This is the first time a major AI lab has been formally designated as a supply-chain threat by the U.S. government.",
+            "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/"
+          },
+          {
+            "number": "2",
+            "headline": "\"We Will Not Be Divided\" — Anthropic Releases Pentagon Stand Statement",
+            "description": "Anthropic releases \"We Will Not Be Divided\" statement, reaffirming refusal to provide unrestricted military access to Claude systems. Dario Amodei says company \"cannot in good conscience accede\" to Pentagon demands for autonomous weapons and surveillance use.",
+            "url": "https://news.ycombinator.com/item?id=47188497"
+          },
+          {
+            "number": "3",
+            "headline": "Google and OpenAI Employees Back Anthropic in Open Letter",
+            "description": "Hundreds of employees from Google and OpenAI signed an open letter supporting Anthropic's refusal to enable offensive military AI. Cross-company solidarity shows growing concern about AI weaponization and corporate responsibility amid the Pentagon standoff.",
+            "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/"
+          },
+          {
+            "number": "4",
+            "headline": "ChatGPT Hits 900M Weekly Active Users",
+            "description": "OpenAI announced ChatGPT reached 900 million weekly active users alongside its $110B funding round. Massive user base validates ChatGPT's dominance despite increased competition from Claude, Gemini, and xAI's Grok.",
+            "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/"
+          },
+          {
+            "number": "5",
+            "headline": "Suno Hits 2M Paid Subscribers, $300M ARR",
+            "description": "AI music generator Suno reached 2 million paid subscribers and $300 million in annual recurring revenue. Natural language-to-music is proving to be one of GenAI's strongest commercial verticals, with Suno outpacing expectations.",
+            "url": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/"
+          },
+          {
+            "number": "6",
+            "headline": "Perplexity Launches \"Computer\" — Multi-Model Agentic Interface",
+            "description": "Perplexity debuted \"Computer,\" unifying multiple AI capabilities into a single agentic system. Bet is that users want orchestration across models rather than picking one provider. Shows the \"meta-aggregator\" trend maturing as users get tired of switching between Claude, GPT, Gemini, etc.",
+            "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/"
+          },
+          {
+            "number": "7",
+            "headline": "Free Claude Max 20x for Open-Source Maintainers",
+            "description": "Anthropic launched a program giving open-source maintainers up to 20x free Claude usage. Smart move to build goodwill with the developer community while OpenAI pushes enterprise deals. Community-first approach contrasts with OpenAI's enterprise-first go-to-market.",
+            "url": "https://news.ycombinator.com/item?id=47178371"
+          },
+          {
+            "number": "8",
+            "headline": "Mistral AI Signs Deal with Accenture",
+            "description": "French AI lab Mistral partnered with global consulting giant Accenture, which also recently announced partnerships with OpenAI and Anthropic. Accenture is betting on being model-agnostic, offering clients choice across frontier labs. Shows the consulting layer becoming a critical distribution channel.",
+            "url": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/"
+          },
+          {
+            "number": "9",
+            "headline": "California Proposes Age Verification for All Operating Systems",
+            "description": "New California law would require age verification on all operating systems, impacting AI accessibility for teens and young adults. If passed, this could force age-gating across ChatGPT, Claude, and other AI platforms, with major privacy and implementation challenges.",
+            "url": "https://news.ycombinator.com/item?id=47181208"
+          },
+          {
+            "number": "10",
+            "headline": "Musk: \"Nobody Committed Suicide Because of Grok\" in Deposition",
+            "description": "Elon Musk defended xAI's Grok safety in deposition against OpenAI, claiming \"nobody committed suicide because of Grok\" despite Grok previously flooding X with nonconsensual nude images. Legal posture shift as Musk vs. Altman case escalates.",
+            "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Chinese Official's ChatGPT Use Revealed Intimidation Operation",
+            "description": "",
+            "url": "https://news.ycombinator.com/item?id=47181944"
+          },
+          {
+            "number": "•",
+            "headline": "Z80/Spectrum Emulator Built with Claude Code",
+            "description": "",
+            "url": "https://news.ycombinator.com/item?id=47149829"
+          },
+          {
+            "number": "•",
+            "headline": "We Gave Terabytes of CI Logs to an LLM",
+            "description": "",
+            "url": "https://news.ycombinator.com/item?id=47181801"
+          },
+          {
+            "number": "•",
+            "headline": "OpenAI Agrees with Dept. of War for Classified Network Deployment",
+            "description": "",
+            "url": "https://news.ycombinator.com/item?id=47189650"
+          },
+          {
+            "number": "•",
+            "headline": "Smallest Transformer That Can Add Two 10-Digit Numbers",
+            "description": "",
+            "url": "https://news.ycombinator.com/item?id=47170030"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "ChatGPT Ads Continue Rolling Out",
+            "description": "",
+            "url": "https://www.adweek.com/media/first-ads-on-chat-gpt-best-buy-expedia-qualcomm/"
+          },
+          {
+            "number": "•",
+            "headline": "Super Bowl 60 Sets Ad Sales Record",
+            "description": "",
+            "url": "https://www.adweek.com/convergent-tv/super-bowl-60-sets-ad-sales-record-nbcu/"
+          },
+          {
+            "number": "•",
+            "headline": "Performance Gap Widening in 2026",
+            "description": "",
+            "url": "https://www.adweek.com/resource-library/the-performance-gap-is-widening-in-2026/"
+          },
+          {
+            "number": "•",
+            "headline": "WPP Turnaround Plan Emphasizes AI",
+            "description": "",
+            "url": "https://www.adweek.com/agencies/5-key-takeaways-from-wpps-turnaround-plan/"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📎 Read online: https://ai-news-site-azd.pages.dev/",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-02-27",
     "title": "AI Tech Brief — Friday, 27 Feb 2026 (Dubai)",
     "sections": [
