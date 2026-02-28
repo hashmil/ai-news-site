@@ -6,42 +6,35 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PUBLIC = join(__dirname, '..', 'public');
 
-const SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+const SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#c084fc"/>
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#4FACFE" />
     </linearGradient>
   </defs>
-  <!-- Background -->
-  <rect width="512" height="512" rx="96" fill="#09090b"/>
-  <rect x="4" y="4" width="504" height="504" rx="92" fill="none" stroke="#a855f7" stroke-width="4" opacity="0.5"/>
-  <!-- Brain left hemisphere -->
-  <path d="M256 110 C195 110, 125 165, 125 240 C125 285, 148 310, 178 332 C200 348, 218 372, 228 400 C236 420, 248 432, 256 438"
-        fill="none" stroke="url(#g)" stroke-width="14" stroke-linecap="round"/>
-  <path d="M256 155 C215 155, 160 190, 160 245 C160 278, 182 302, 210 318"
-        fill="none" stroke="url(#g)" stroke-width="9" stroke-linecap="round" opacity="0.55"/>
-  <!-- Brain right hemisphere -->
-  <path d="M256 110 C317 110, 387 165, 387 240 C387 285, 364 310, 334 332 C312 348, 294 372, 284 400 C276 420, 264 432, 256 438"
-        fill="none" stroke="url(#g)" stroke-width="14" stroke-linecap="round"/>
-  <path d="M256 155 C297 155, 352 190, 352 245 C352 278, 330 302, 302 318"
-        fill="none" stroke="url(#g)" stroke-width="9" stroke-linecap="round" opacity="0.55"/>
-  <!-- Neural nodes -->
-  <circle cx="175" cy="210" r="12" fill="#a855f7"/>
-  <circle cx="337" cy="210" r="12" fill="#a855f7"/>
-  <circle cx="198" cy="295" r="9" fill="#c084fc"/>
-  <circle cx="314" cy="295" r="9" fill="#c084fc"/>
-  <circle cx="256" cy="170" r="10" fill="#a855f7"/>
-  <circle cx="228" cy="365" r="7" fill="#c084fc" opacity="0.8"/>
-  <circle cx="284" cy="365" r="7" fill="#c084fc" opacity="0.8"/>
-  <circle cx="256" cy="130" r="7" fill="#a855f7" opacity="0.6"/>
-  <!-- Connections -->
-  <line x1="175" y1="210" x2="256" y2="170" stroke="#a855f7" stroke-width="3" opacity="0.35"/>
-  <line x1="337" y1="210" x2="256" y2="170" stroke="#a855f7" stroke-width="3" opacity="0.35"/>
-  <line x1="198" y1="295" x2="228" y2="365" stroke="#c084fc" stroke-width="2" opacity="0.3"/>
-  <line x1="314" y1="295" x2="284" y2="365" stroke="#c084fc" stroke-width="2" opacity="0.3"/>
-  <line x1="175" y1="210" x2="198" y2="295" stroke="#a855f7" stroke-width="2" opacity="0.3"/>
-  <line x1="337" y1="210" x2="314" y2="295" stroke="#a855f7" stroke-width="2" opacity="0.3"/>
+
+  <rect width="200" height="200" rx="40" fill="#0B132B" />
+
+  <path d="M50 40 C50 34.477 54.477 30 60 30 L110 30 L160 80 L160 160 C160 165.523 155.523 170 150 170 L60 170 C54.477 170 50 165.523 50 160 Z" stroke="url(#neonCyan)" stroke-width="8" fill="none" />
+
+  <path d="M110 30 L110 70 C110 75.523 114.477 80 120 80 L160 80" stroke="url(#neonCyan)" stroke-width="8" fill="none" stroke-linejoin="round" />
+
+  <path d="M65 45 Q65 55 75 55 Q65 55 65 65 Q65 55 55 55 Q65 55 65 45 Z" fill="#00F2FE" />
+
+  <g stroke="url(#neonCyan)" stroke-width="8" stroke-linecap="round">
+    <path d="M70 95 L105 95" />
+    <path d="M70 125 L135 125" />
+    <path d="M70 155 L115 155" />
+  </g>
+
+  <g fill="#0B132B" stroke="url(#neonCyan)" stroke-width="4">
+    <circle cx="105" cy="95" r="5" />
+    <circle cx="135" cy="125" r="5" />
+    <circle cx="115" cy="155" r="5" />
+  </g>
+
+  <path d="M105 95 L135 125 L115 155" stroke="#00F2FE" stroke-width="2" fill="none" stroke-dasharray="4" />
 </svg>`;
 
 const sizes = [
