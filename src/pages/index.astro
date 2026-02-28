@@ -9,7 +9,7 @@ const latest = briefings[0];
 if (!latest) throw new Error('No briefings found');
 const older = briefings[1] ?? null;
 ---
-<Base title="Latest News" activeNav="latest">
+<Base title="Latest News" activeNav="latest" description={`${latest.title} — Top AI and tech stories curated daily.`} canonicalPath="/">
   <span class="date-header">{latest.title}</span>
   {latest.sections.map((section) => (
     <Section heading={section.heading}>

@@ -2,18 +2,65 @@
 interface Props {
   title: string;
   activeNav?: 'latest' | 'archive';
+  description?: string;
+  ogImage?: string;
+  canonicalPath?: string;
 }
-const { title, activeNav = 'latest' } = Astro.props;
+const {
+  title,
+  activeNav = 'latest',
+  description = 'Daily AI and tech news briefing. Signal over noise.',
+  ogImage = '/icon-512.png',
+  canonicalPath,
+} = Astro.props;
+
+const siteName = 'Oracle Brief';
+const siteUrl = 'https://ai-news-site-azd.pages.dev';
+const fullTitle = `${title} | ${siteName}`;
+const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+const canonicalUrl = canonicalPath ? `${siteUrl}${canonicalPath}` : undefined;
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{title} | AI Tech Brief</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <title>{fullTitle}</title>
+  <meta name="description" content={description}>
+  <meta name="theme-color" content="#a855f7">
+
+  <!-- Favicons -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+  <!-- PWA -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Oracle Brief">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content={siteName}>
+  <meta property="og:title" content={fullTitle}>
+  <meta property="og:description" content={description}>
+  <meta property="og:image" content={ogImageUrl}>
+  {canonicalUrl && <meta property="og:url" content={canonicalUrl} />}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content={fullTitle}>
+  <meta name="twitter:description" content={description}>
+  <meta name="twitter:image" content={ogImageUrl}>
+
+  {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <nav>
@@ -29,6 +76,11 @@ const { title, activeNav = 'latest' } = Astro.props;
     <slot />
   </main>
   <footer><p>Compiled by Oracle · Signal over noise.</p></footer>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js');
+    }
+  </script>
 </body>
 </html>
 

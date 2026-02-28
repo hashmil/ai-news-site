@@ -6,9 +6,13 @@
     "images": "node scripts/fetch-og-images.mjs",
     "dev": "astro dev",
     "build": "astro build",
+    "icons": "node scripts/generate-icons.mjs",
     "publish": "bash scripts/build-and-publish.sh"
   },
   "dependencies": {
     "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5"
   }
 }

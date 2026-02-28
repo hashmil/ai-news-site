@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+import sharp from 'sharp';
+import { writeFileSync } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const PUBLIC = join(__dirname, '..', 'public');
+
+const SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#a855f7"/>
@@ -34,4 +42,24 @@
   <line x1="314" y1="295" x2="284" y2="365" stroke="#c084fc" stroke-width="2" opacity="0.3"/>
   <line x1="175" y1="210" x2="198" y2="295" stroke="#a855f7" stroke-width="2" opacity="0.3"/>
   <line x1="337" y1="210" x2="314" y2="295" stroke="#a855f7" stroke-width="2" opacity="0.3"/>
-</svg>
+</svg>`;
+
+const sizes = [
+  { name: 'icon-192.png', size: 192 },
+  { name: 'icon-512.png', size: 512 },
+  { name: 'apple-touch-icon.png', size: 180 },
+  { name: 'favicon-32.png', size: 32 },
+  { name: 'favicon-16.png', size: 16 },
+];
+
+for (const { name, size } of sizes) {
+  await sharp(Buffer.from(SVG))
+    .resize(size, size)
+    .png()
+    .toFile(join(PUBLIC, name));
+  console.log(`Generated ${name} (${size}x${size})`);
+}
+
+writeFileSync(join(PUBLIC, 'favicon.svg'), SVG);
+console.log('Updated favicon.svg');
+console.log('Done!');

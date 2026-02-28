@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  // site will be set by Cloudflare Pages
+  site: 'https://ai-news-site-azd.pages.dev',
   output: 'static',
   compressHTML: true,
 });

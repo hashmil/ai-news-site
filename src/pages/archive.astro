@@ -13,7 +13,7 @@ function formatDate(dateStr: string) {
   return d.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'short', year: 'numeric' });
 }
 ---
-<Base title="Archive" activeNav="archive">
+<Base title="Archive" activeNav="archive" description="Browse all past Oracle Brief issues — daily AI and tech news." canonicalPath="/archive/">
   <h1 class="section-title" style="margin-top: 0;">Archive</h1>
   <div class="archive-list">
     {briefings.map((b, i) => (
