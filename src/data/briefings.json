@@ -1,5 +1,131 @@
 [
   {
+    "date": "2026-03-01",
+    "title": "AI Tech Brief — Sunday, 01 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Alibaba releases Qwen3.5 122B/35B models matching Sonnet 4.5 performance on local hardware",
+            "description": "Why it matters: Open-source models are closing the gap with frontier models. Qwen3.5-122B-A10B supports 1M+ context on server-grade GPUs, while 35B-A3B targets local deployment. Alibaba claims parity with Claude Sonnet 4.5 on multiple benchmarks.",
+            "url": "https://github.com/QwenLM/Qwen3.5 | https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance"
+          },
+          {
+            "number": "•",
+            "headline": "OpenAI announces Pentagon agreement with \"technical safeguards\"",
+            "description": "Why it matters: OpenAI signs defense contract with Department of War, claiming protections addressing issues that caused Anthropic's dispute. Red lines include no autonomous weapons and classified handling requirements.",
+            "url": "https://openai.com/index/our-agreement-with-the-department-of-war | https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards"
+          },
+          {
+            "number": "•",
+            "headline": "Anthropic's Claude surges to No. 2 in App Store following Pentagon dispute",
+            "description": "Why it matters: Claude app ranking boost shows consumers reward perceived ethical stance. Public attention around Anthropic's refusal to support autonomous weapons drove downloads.",
+            "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute"
+          },
+          {
+            "number": "•",
+            "headline": "China's humanoid robot industry winning early market over US competitors",
+            "description": "Why it matters: Chinese firms shipping more units, iterating faster than Boston Dynamics and US rivals. Unitree, Fourier Intelligence, Galbot, and Engine AI leading domestic humanoid push with commercial deployments.",
+            "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market"
+          },
+          {
+            "number": "•",
+            "headline": "India blocks access to Supabase developer platform with government order",
+            "description": "Why it matters: One of Supabase's biggest markets seeing patchy access. Developer community disrupted as government issues blocking order without clear explanation.",
+            "url": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order"
+          },
+          {
+            "number": "•",
+            "headline": "OpenAI fires employee for using confidential info on prediction markets",
+            "description": "Why it matters: Internal policy breach as employee traded on prediction markets using non-public info. Raises questions about prediction market integrity around AI company developments.",
+            "url": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets"
+          },
+          {
+            "number": "•",
+            "headline": "MCP server reduces Claude Code context consumption by 98%",
+            "description": "Why it matters: Major optimization for Claude Code workflows. Model Context Protocol server dramatically cuts token usage for agent-assisted coding, making long sessions cheaper.",
+            "url": "https://news.ycombinator.com/item?id=47193064"
+          },
+          {
+            "number": "•",
+            "headline": "Unsloth releases Dynamic 2.0 GGUFs",
+            "description": "Why it matters: Fine-tuning efficiency gains for open-source LLMs. Dynamic quantization and GGUF improvements make local model training faster and more resource-efficient.",
+            "url": "https://news.ycombinator.com/item?id=47192505"
+          },
+          {
+            "number": "•",
+            "headline": "\"The trap Anthropic built for itself\" – TechCrunch analysis",
+            "description": "Why it matters: Anthropic's principled stance against autonomous weapons and surveillance created leverage problem. With Pentagon threatening supply-chain designation, company faces pressure without clear regulatory protections.",
+            "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself"
+          },
+          {
+            "number": "•",
+            "headline": "Billion-dollar AI infrastructure deals powering the boom",
+            "description": "Why it matters: Meta, Microsoft, Google, Oracle, and OpenAI collectively spending tens of billions on data centers. Stargate and other mega-projects fueling GPU demand and energy concerns.",
+            "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "\"The whole thing was a scam\" – HN viral thread",
+            "description": "Wait what: Massive viral thread exposing some scam/project failure. Details sparse but 770+ points and 180+ comments in 11 hours shows community attention.",
+            "url": "https://news.ycombinator.com/item?id=47197505"
+          },
+          {
+            "number": "•",
+            "headline": "Obsidian Sync now has a headless client",
+            "description": "Why devs care: Popular note-taking app's sync service gets CLI/headless support. Enables automated backups, scripting, and integration without GUI.",
+            "url": "https://news.ycombinator.com/item?id=47197267"
+          },
+          {
+            "number": "•",
+            "headline": "Qwen3.5 benchmark claims go viral",
+            "description": "HN discussion: Alibaba's open-source models claiming Sonnet 4.5 parity sparked debate. Real benchmarks vs hype questions dominate thread.",
+            "url": "https://news.ycombinator.com/item?id=47199781"
+          },
+          {
+            "number": "•",
+            "headline": "Google addressing Antigravity bans",
+            "description": "Context: HN thread on reinstating access after Antigravity platform bans. Unclear if this is Google's AI platform or something else entirely.",
+            "url": "https://news.ycombinator.com/item?id=47195371"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Super Bowl 2026: AI-generated creative tests brand limits",
+            "description": "Context: Svedka running AI-generated Super Bowl spot. Brands pushing AI creative boundaries as 2026 becomes \"AI ad-pocalypse\" year according to Verge.",
+            "url": "https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/ | https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity"
+          },
+          {
+            "number": "•",
+            "headline": "Reddit accelerates ad business with generative AI",
+            "description": "Update: Generative AI helping Reddit narrow gap with legacy platforms. AI-powered tools improving ad targeting and creative for the social platform.",
+            "url": "https://www.thecurrent.com/culture/ces-2026-marketers-agentic-ai-creators-retail-media"
+          },
+          {
+            "number": "•",
+            "headline": "Meta: 4M advertisers using generative AI tools, 15M AI-enhanced ads monthly",
+            "description": "Scale: Meta's automated ad tools generating massive volume. 2026 sees consolidation of legacy controls in favor of AI-first workflows. **Briefing compiled:** Sunday, March 1, 2026 | 4:00 AM UTC **Sources:** Hacker News, TechCrunch, OpenAI Blog, GitHub, VentureBeat, Marketing Dive, The Verge",
+            "url": "https://www.digitalapplied.com/blog/meta-ai-automated-ads-2026-marketing-guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-02-28",
     "title": "AI Tech Brief — Saturday, 28 Feb 2026 (Dubai)",
     "sections": [
