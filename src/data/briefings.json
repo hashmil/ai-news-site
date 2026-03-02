@@ -1,5 +1,106 @@
 [
   {
+    "date": "2026-03-02",
+    "title": "AI Tech Brief — Monday, 02 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "NVIDIA unveils Nemotron 3 Large Telco Model for autonomous networks",
+            "description": "Why it matters: Open-source 30B model fine-tuned on telecom data lets operators build AI agents for network operations on-premises. Industry shifting from automation to autonomy requires domain-specific reasoning.",
+            "url": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/"
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA and Nokia show software-defined AI-RAN going live with multiple operators",
+            "description": "Why it matters: AI-RAN moving from lab to production. T-Mobile, SoftBank, IOH, SynaXG all demonstrated over-the-air AI-powered 5G, with some hitting 36 Gbps throughput. Sets foundation for AI-native 6G.",
+            "url": "https://blogs.nvidia.com/blog/software-defined-ai-ran/"
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA AI-powered OT/ICS cybersecurity framework",
+            "description": "Why it matters: Operational technology and industrial control systems are digitizing but weren't built for modern AI-driven attacks. Partners with Akamai, ForeScout, Palo Alto, Siemens bringing AI threat detection to critical infrastructure.",
+            "url": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/"
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA State of AI in Healthcare report: 70% adoption, 69% using genAI",
+            "description": "Why it matters: Healthcare moving from experimentation to execution. 85% of execs say AI increasing revenue, 80% say reducing costs. Medical imaging and drug discovery leading ROI use cases.",
+            "url": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/"
+          },
+          {
+            "number": "•",
+            "headline": "Ghostty terminal emulator gains traction on HN",
+            "description": "Why it matters: Not AI-specific, but trending in dev circles. Terminal emulator with modern features—relevant as AI coding workflows increasingly happen in CLI environments.",
+            "url": "https://news.ycombinator.com/item?id=47206009"
+          },
+          {
+            "number": "•",
+            "headline": "When does MCP make sense vs CLI? (HN discussion)",
+            "description": "Why it matters: Developers debating when to use Model Context Protocol (Claude's interop standard) vs traditional CLIs. Signals growing conversation about AI-native workflows vs legacy tooling.",
+            "url": "https://news.ycombinator.com/item?id=47208398"
+          },
+          {
+            "number": "•",
+            "headline": "WebMCP early preview released",
+            "description": "Why it matters: New MCP implementation for web browsing/automation. Expanding the MCP ecosystem gives agents more ways to interact with external systems.",
+            "url": "https://news.ycombinator.com/item?id=47211249"
+          },
+          {
+            "number": "•",
+            "headline": "Show HN: Audio Toolkit for Agents",
+            "description": "Why it matters: New tools for AI agents to handle audio. As agents go multi-modal, audio input/output support becomes increasingly important.",
+            "url": "https://news.ycombinator.com/item?id=47207806"
+          },
+          {
+            "number": "•",
+            "headline": "Decision trees and nested decision rules gain attention",
+            "description": "Why it matters: Technical discussion about complexity in decision-making systems. Relevant as AI agents need to reason through multi-step decisions reliably.",
+            "url": "https://news.ycombinator.com/item?id=47204964"
+          },
+          {
+            "number": "•",
+            "headline": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
+            "description": "Why it matters: Scientific breakthrough using iron-based nanoparticles. Not directly AI, but showcases intersection of nanotech and potential AI-enabled drug discovery workflows.",
+            "url": "https://news.ycombinator.com/item?id=47207404"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Microgpt demo goes viral on HN",
+            "description": "Wait what: Microgpt (not to be confused with OpenAI) is getting attention. Details unclear but 1900+ points on HN suggests strong community interest.",
+            "url": "https://news.ycombinator.com/item?id=47202708"
+          },
+          {
+            "number": "•",
+            "headline": "Free AI chat demo sparks discussion about ad-supported models",
+            "description": "Context: Demo showing what \"free\" ad-supported AI might look like. Debate around sustainability of free tiers, privacy, and user experience.",
+            "url": "https://news.ycombinator.com/item?id=47205890"
+          },
+          {
+            "number": "•",
+            "headline": "Little Free Library discussion gains traction",
+            "description": "Wait what: Non-AI item trending alongside tech posts. Community valuing free knowledge sharing—interesting cultural signal alongside AI hype cycles.",
+            "url": "https://news.ycombinator.com/item?id=47211280"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-03-01",
     "title": "AI Tech Brief — Sunday, 01 Mar 2026 (Dubai)",
     "sections": [
