@@ -1,5 +1,119 @@
 [
   {
+    "date": "2026-03-03",
+    "title": "AI Tech Brief — Tuesday, 03 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Cursor has reportedly surpassed $2B in annualized revenue",
+            "description": "Why it matters: The AI coding assistant startup is now in unicorn territory with revenue doubling over 3 months. Signals that developer-focused AI tools are building real businesses, not just hype.",
+            "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/"
+          },
+          {
+            "number": "•",
+            "headline": "ChatGPT uninstalls surged by 295% after DoD deal",
+            "description": "Why it matters: Real user backlash to OpenAI's Pentagon agreement. People are voting with their thumbs—Claude's downloads rose accordingly. Trust matters more than features in the AI chatbot market.",
+            "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"
+          },
+          {
+            "number": "•",
+            "headline": "No one has a good plan for how AI companies should work with government",
+            "description": "Why it matters: OpenAI's rushed Pentagon deal shows the labs aren't equipped for national security infrastructure. Without clear rules, self-governance is breaking down under pressure.",
+            "url": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/"
+          },
+          {
+            "number": "•",
+            "headline": "Users are ditching ChatGPT for Claude — here's how to make the switch",
+            "description": "Why it matters: The DoD controversy is driving real user migration. Practical guides on switching AI assistants signal sustained platform shifts, not temporary outrage.",
+            "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/"
+          },
+          {
+            "number": "•",
+            "headline": "Tech workers urge DOD, Congress to withdraw Anthropic label as supply-chain risk",
+            "description": "Why it matters: Open letter from tech workers calls for quiet resolution to the Pentagon standoff. Signals growing internal dissent over treating AI labs like security threats when they won't comply with military demands.",
+            "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"
+          },
+          {
+            "number": "•",
+            "headline": "14.ai replaces customer support teams at startups",
+            "description": "Why it matters: Married founders built an AI agent handling full customer support workflows. Not just chat, but action—replacing human teams at scale. Agents eating jobs is no longer theoretical.",
+            "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"
+          },
+          {
+            "number": "•",
+            "headline": "Anthropic's Claude reports widespread outage",
+            "description": "Why it matters: As Claude gains users from ChatGPT exodus, reliability becomes critical. Outages during migration windows hurt trust in the alternative platform.",
+            "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/"
+          },
+          {
+            "number": "•",
+            "headline": "Meta's AI smart glasses data privacy concerns",
+            "description": "Why it matters: Workers behind the glasses can access camera streams and location data. Privacy implications always-on cameras in public spaces are alarming regulators and users alike.",
+            "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"
+          },
+          {
+            "number": "•",
+            "headline": "Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?",
+            "description": "Why it matters: Silicon Snark's annual SaaSpocalypse analysis. The market is flooded with agent startups, but actual revenue is scarce. The bubble question for 2026 isn't AI—it's agent monetization.",
+            "url": "https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/"
+          },
+          {
+            "number": "•",
+            "headline": "Inside M4 Apple Neural Engine, Part 1: Reverse Engineering",
+            "description": "Why it matters: Deep technical analysis of Apple's on-device AI silicon. As edge AI becomes default, understanding the hardware running it matters for performance and privacy tradeoffs.",
+            "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Sub-500ms latency voice agent built from scratch",
+            "description": "Wait what: Someone built a voice agent with sub-500ms latency—the kind of speed usually reserved for Google's edge infrastructure. Shows what's possible when latency is the first constraint.",
+            "url": "https://www.ntik.me/posts/voice-agent"
+          },
+          {
+            "number": "•",
+            "headline": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+            "description": "Context: New tool tracks how bills transform into media narratives. AI-generated content makes legislative tracking both harder and more critical.",
+            "url": "https://govbase.com"
+          },
+          {
+            "number": "•",
+            "headline": "Simple Screw Counter",
+            "description": "Wait what: A project that literally just counts screws using AI. Sometimes the right tool is absurdly specific—and that's why it works.",
+            "url": "https://mitxela.com/projects/screwcounter"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "X pitches Grok for brand safety after deepfake flood",
+            "description": "Why it matters: Elon Musk's platform is selling advertisers on Grok's safety features weeks after it flooded X with nonconsensual deepfakes of real users. Chutzpah is not a strategy.",
+            "url": "https://www.adweek.com/media/exclusive-a-new-pitch-deck-reveals-x-is-using-grok-to-sell-brand-safety/"
+          },
+          {
+            "number": "•",
+            "headline": "Advertisers will soon be able to buy ChatGPT ads through Criteo",
+            "description": "Why it matters: Programmatic buying for ChatGPT inventory is opening. As AI platforms become ad channels, the ad tech stack is adapting. **Briefing compiled:** Tuesday, March 3, 2026 | 4:00 AM UTC **Sources:** TechCrunch, Hacker News, Adweek",
+            "url": "https://www.adweek.com/commerce/advertisers-will-soon-be-able-to-buy-chatgpt-ads-through-criteo/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-02",
     "title": "AI Tech Brief — Monday, 02 Mar 2026 (Dubai)",
     "sections": [
