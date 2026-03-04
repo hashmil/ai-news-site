@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-03-04",
+    "title": "AI Tech Brief — Wednesday, 04 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenAI releases GPT-5.3 Instant: less \"cringe,\" fewer refusals, more hallucinations",
+            "description": "Major update to ChatGPT's everyday model reduces unnecessary dead ends, caveats, and overly declarative phrasing. Cuts hallucinations by 26.8% with web access, 19.7% without. Replaces GPT-5.2 Instant (retiring June 3, 2026).",
+            "url": "https://openai.com/index/gpt-5-3-instant"
+          },
+          {
+            "number": "2",
+            "headline": "Anthropic launches Voice Mode for Claude Code",
+            "description": "Gradual rollout (5% of users, ramping up) brings hands-free, conversational coding workflows.",
+            "url": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/"
+          },
+          {
+            "number": "3",
+            "headline": "Alibaba's Qwen tech lead steps down after major model launch",
+            "description": "Key technical lead Junyang Lin exits after Qwen 3.5 launch.",
+            "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/"
+          },
+          {
+            "number": "4",
+            "headline": "AI startups using dual-pricing equity to manufacture unicorn status",
+            "description": "Startups reportedly selling the same equity at two prices to claim $1B+ headlines.",
+            "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/"
+          },
+          {
+            "number": "5",
+            "headline": "AI companies spending millions to thwart Alex Bores' congressional bid",
+            "description": "AI-aligned PAC activity escalates around regulation politics.",
+            "url": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/"
+          },
+          {
+            "number": "6",
+            "headline": "Viral HN: Sub-500ms voice agent built from scratch",
+            "description": "Builder reports ~400ms end-to-end latency in a practical voice stack.",
+            "url": "https://www.ntik.me/posts/voice-agent"
+          },
+          {
+            "number": "7",
+            "headline": "GenFlux raises $4.2M as brands race to \"own the AI answer\"",
+            "description": "New tooling category focused on tracking brand visibility in AI answers.",
+            "url": "https://www.globenewswire.com/news-release/2026/03/03/3248844/0/en/GenFlux-Raises-4-2M-as-Brands-Race-to-Own-the-AI-Answer.html"
+          },
+          {
+            "number": "8",
+            "headline": "India's Supreme Court angry after junior judge cites fake AI-generated orders",
+            "description": "Another legal-system warning on hallucinations in high-stakes contexts.",
+            "url": "https://www.bbc.com/news/articles/c178zzw780xo"
+          },
+          {
+            "number": "9",
+            "headline": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+            "description": "Newsroom trust and AI usage rules under renewed scrutiny.",
+            "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes"
+          },
+          {
+            "number": "10",
+            "headline": "Cekura (YC F24) launches monitoring for voice/chat AI agents",
+            "description": "Observability for conversational agents continues emerging as a core infra layer.",
+            "url": "https://news.ycombinator.com/item?id=47232903"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "X interactive xkcd visualization goes viral",
+            "description": "",
+            "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs"
+          },
+          {
+            "number": "•",
+            "headline": "\"I'm reluctant to verify my identity for online services\" trends on HN",
+            "description": "",
+            "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/"
+          },
+          {
+            "number": "•",
+            "headline": "Ars Technica AI firing debate spreads",
+            "description": "",
+            "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "GenFlux raises $4.2M to monitor brands in AI answers",
+            "description": "",
+            "url": "https://www.globenewswire.com/news-release/2026/03/03/3248844/0/en/GenFlux-Raises-4-2M-as-Brands-Race-to-Own-the-AI-Answer.html"
+          },
+          {
+            "number": "•",
+            "headline": "Campaign Convene 2026: marketers discuss AI's ripple effect",
+            "description": "",
+            "url": "https://www.campaignlive.com/article/campaign-convene-2026-marketers-discuss-ripple-effect-ai/1950408"
+          },
+          {
+            "number": "•",
+            "headline": "Marketing predictions for 2026: AI fuels polarity",
+            "description": "",
+            "url": "https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-03",
     "title": "AI Tech Brief — Tuesday, 03 Mar 2026 (Dubai)",
     "sections": [
