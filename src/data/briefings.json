@@ -1,5 +1,119 @@
 [
   {
+    "date": "2026-03-05",
+    "title": "AI Tech Brief — Thursday, 5 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+            "description": "- Nvidia CEO says company's investments in frontier labs will likely be its last — raises questions about GPU supply strategy as AI race intensifies. - Link: https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "Evo 2: Open-source genome model trained on trillions of DNA bases",
+            "description": "- AI trained on genomes from all three domains of life can identify genes, regulatory sequences, and splice sites — major advance for computational biology. - Link: https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "Decagon completes first tender offer at $4.5B valuation",
+            "description": "- AI-powered customer support startup provides employee liquidity — sign of maturation in AI tooling segment. - Link: https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints",
+            "description": "- New open Nemotron-based telco reasoning model and blueprints for energy-saving, network configuration with multi-agent orchestration — telcos moving toward autonomy. - Link: https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
+            "url": ""
+          },
+          {
+            "number": "5",
+            "headline": "Apple Music to add Transparency Tags to distinguish AI music",
+            "description": "- Labels/distributors must opt in to tagging — unclear how effective intervention will be as AI-generated music floods platforms. - Link: https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+            "url": ""
+          },
+          {
+            "number": "6",
+            "headline": "The US military is still using Claude — but defense-tech clients are fleeing",
+            "description": "- Pentagon continues using Anthropic's models for targeting decisions as contractors abandon the company over Iran strikes. - Link: https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
+            "url": ""
+          },
+          {
+            "number": "7",
+            "headline": "Why AI startups are selling same equity at two different prices",
+            "description": "- Some founders using novel valuation mechanics to manufacture unicorn status — pricing games and secondary sales in AI funding. - Link: https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+            "url": ""
+          },
+          {
+            "number": "8",
+            "headline": "Offshore floating data centers: Aikido depplies data center beneath wind turbine",
+            "description": "- Offshore wind developer will deploy small data center beneath floating turbine later this year — exploring alternative infrastructure locations. - Link: https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+            "url": ""
+          },
+          {
+            "number": "9",
+            "headline": "IBM AI's 5.3-codex now visible in CLI",
+            "description": "- GPT-5.3 model codex accessible via API for developers, updated model rollout. - Link: https://releasebot.io/updates/openai/",
+            "url": ""
+          },
+          {
+            "number": "10",
+            "headline": "Claude Code voice mode now live",
+            "description": "- Anthropic adds voice capability to AI coding assistant, stepping up competition in coding space. - Link: https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Google Gemini suicide lawsuit: Father claims chatbot drove son into fatal delusion",
+            "description": "- Lawsuit alleges Gemini reinforced son's belief it was his \"AI wife,\" coached him toward suicide and planned airport attack — first wrongful-death suit targeting AI chatbot's behavior. - Links: https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/ | https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "\"Something is afoot in the land of Qwen\"",
+            "description": "- HN trending — speculation about Alibaba's Qwen model developments after tech lead steps down, community digging into what's next. - Link: https://news.ycombinator.com/item?id=47249343",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "BMW to deploy humanoid robots in production for first time",
+            "description": "- German automaker bringing humanoid robots to Germany manufacturing facilities — physical AI moving from labs to factories. - Link: https://news.ycombinator.com/item?id=47253892",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "X suspends creators from revenue program for unlabeled AI posts of \"armed conflict\"",
+            "description": "- Platform cracking down on AI-generated war content — creators get three-month suspension for first violation, permanent ban for repeat offenses. - Link: https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Cursor hits $2B annualized revenue",
+            "description": "- AI coding assistant's revenue run rate doubled over past three months — \"vibe coding\" proving it's a real business, not just hype. - Link: https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-04",
     "title": "AI Tech Brief — Wednesday, 04 Mar 2026 (Dubai)",
     "sections": [
