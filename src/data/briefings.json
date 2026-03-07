@@ -1,5 +1,113 @@
 [
   {
+    "date": "2026-03-07",
+    "title": "AI Tech Brief — Saturday, 7 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Anthropic's Claude found 22 vulnerabilities in Firefox over two weeks",
+            "description": "- Security partnership with Mozilla uncovered 22 separate vulnerabilities, 14 classified as \"high-severity\" — shows AI red-teaming can catch bugs humans miss. - Link: https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "Claude's consumer growth surge continues after Pentagon deal debacle",
+            "description": "- Claude's app is now seeing more new installs than ChatGPT and growing daily active users — consumers don't seem to care about defense contract fallout. - Link: https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "Luma launches creative AI agents powered by 'Unified Intelligence' models",
+            "description": "- New Luma Agents coordinate multiple AI systems to generate end-to-end creative work across text, images, video, and audio — multi-agent orchestration for creators. - Link: https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "AWS launches a new AI agent platform specifically for healthcare",
+            "description": "- Amazon Connect Health helps with patient scheduling, documentation, and patient verification — AI agents moving deeper into regulated industries. - Link: https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+            "url": ""
+          },
+          {
+            "number": "5",
+            "headline": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+            "description": "- Defense feud won't impact other companies using Claude via Microsoft and Google products — enterprise adoption continues unaffected. - Link: https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+            "url": ""
+          },
+          {
+            "number": "6",
+            "headline": "Cursor is rolling out a new kind of agentic coding tool",
+            "description": "- Called Automations, system triggers agents automatically within coding environments from codebase changes, Slack messages, or timers — bringing autonomous workflows to developers. - Link: https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+            "url": ""
+          },
+          {
+            "number": "7",
+            "headline": "Anthropic to challenge DOD's supply-chain label in court",
+            "description": "- CEO Dario Amodei plans to challenge Department of Defense designation — claims most customers unaffected by \"supply-chain risk\" label. - Link: https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+            "url": ""
+          },
+          {
+            "number": "8",
+            "headline": "Meta sued over AI smart glasses' privacy concerns",
+            "description": "- Lawsuit alleges subcontractors reviewed customer footage including nudity and sexual content despite marketing promises of privacy and user control. - Link: https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+            "url": ""
+          },
+          {
+            "number": "9",
+            "headline": "US reportedly considering sweeping new chip export controls",
+            "description": "- Drafted proposal would give U.S. government role in every chip export sale regardless of origin country — escalating AI hardware restrictions. - Link: https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+            "url": ""
+          },
+          {
+            "number": "10",
+            "headline": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+            "description": "- Startup uses AI voice agents to conduct customer interviews instead of expensive management consultants for PE firms — democratizing due diligence. - Link: https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Claude consumer app overtakes ChatGPT in installs",
+            "description": "- Irony: Pentagon deal collapses, but consumers flock to Claude — now seeing more new installs than OpenAI's flagship. Shows how little defense work matters to mainstream users.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Meta's AI glasses privacy nightmare",
+            "description": "- Subcontractors reviewing user footage including intimate moments — marketing promised privacy and user control, reality was different. Expect more scrutiny on AI hardware data practices.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Anthropic vs Pentagon becomes cautionary startup tale",
+            "description": "- $200M contract falls apart over disagreement on military control of AI models, DoD turns to OpenAI instead, ChatGPT uninstalls surge 295%. Lesson: federal contracts aren't always wins.",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Limited activity this cycle",
+            "description": "- No major AI advertising news or brand campaigns detected in the last 24 hours. Most AI marketing conversation remains focused on privacy concerns and platform policies rather than creative campaigns. *Note: Items from March 5th briefing (GPT-5.4 launch, ChatGPT for Excel, IBM AI 5.3-codex, NVIDIA autonomous networks, Apple Music AI transparency, etc.) are not repeated here as they were covered yesterday.*",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-05",
     "title": "AI Tech Brief — Thursday, 5 March 2026 (Dubai)",
     "sections": [
