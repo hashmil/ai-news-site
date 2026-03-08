@@ -1,5 +1,137 @@
 [
   {
+    "date": "2026-03-08",
+    "title": "AI Tech Brief — Sunday, 08 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Google gives Sundar Pichai a $692M pay package",
+            "description": "- Most tied to performance, including new stock incentives linked to Waymo and Wing - https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI robotics lead quits over Pentagon deal",
+            "description": "- Hardware executive Caitlin Kalinowski resigns in response to controversial Department of Defense agreement - https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "OpenAI delays ChatGPT's 'adult mode' again",
+            "description": "- Feature giving verified adult users access to erotica and adult content delayed beyond original December timeline - https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "Grammarly's 'expert review' missing actual experts",
+            "description": "- Controversial feature claims to use great writers and thinkers, but implementation raises questions - https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+            "url": ""
+          },
+          {
+            "number": "5",
+            "headline": "MIT develops \"ChatGPT for spreadsheets\" for engineering",
+            "description": "- New approach uses tabular foundation models for Bayesian optimization, 10-100x faster than existing methods - https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304",
+            "url": ""
+          },
+          {
+            "number": "6",
+            "headline": "MIT method doubles LLM training efficiency",
+            "description": "- Leverages idle computing time during reasoning model training, preserves accuracy while accelerating - https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226",
+            "url": ""
+          },
+          {
+            "number": "7",
+            "headline": "Google launches Gemini 3.1 Flash-Lite",
+            "description": "- Fastest and most cost-efficient Gemini 3 series model yet, built for intelligence at scale - https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+            "url": ""
+          },
+          {
+            "number": "8",
+            "headline": "Descript scales multilingual video dubbing with OpenAI",
+            "description": "- Uses OpenAI models to optimize translations for meaning and timing, enabling natural dubbed speech across languages - https://openai.com/index/descript",
+            "url": ""
+          },
+          {
+            "number": "9",
+            "headline": "Codex Security enters research preview",
+            "description": "- AI application security agent analyzes project context to detect, validate, and patch complex vulnerabilities - https://openai.com/index/codex-security-now-in-research-preview",
+            "url": ""
+          },
+          {
+            "number": "10",
+            "headline": "Balyasny builds AI research engine with GPT-5.4",
+            "description": "- Asset manager combines GPT-5.4 with rigorous model evaluation and agent workflows for investment analysis - https://openai.com/index/balyasny-asset-management",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Robotics resignation rocks OpenAI",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "Claude's growth accelerates after Pentagon fallout",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "$692M CEO package raises eyebrows",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "Adult mode delays continue",
+            "description": "",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "ChatGPT ad testing reshapes trust contract",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "AI contextual targeting delivers 2x ROI",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "Google AI Max text guidelines boost performance",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "Agentic AI transforms marketing in 2026",
+            "description": "*Stories filtered against last 7 days of briefings to avoid duplicates*",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-07",
     "title": "AI Tech Brief — Saturday, 7 March 2026 (Dubai)",
     "sections": [
