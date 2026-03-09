@@ -1,5 +1,89 @@
 [
   {
+    "date": "2026-03-09",
+    "title": "AI Tech Brief — Monday, 9 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 5 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Samsung SDI to unveil all-solid-state battery prototype for physical AI hardware",
+            "description": "- Samsung plans to showcase pouch-type all-solid-state battery at InterBattery 2026, designed for humanoids, robotics, and wearables with mass production set for H2 2027. - Why it matters: Physical AI (robots, humanoids) needs better power density and safety than current lithium-ion can deliver. Samsung's pivot from EV-only to physical AI signals where the hardware battle is heading next. - Link: https://en.yna.co.kr/view/AEN20260309001000320",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Anthropic's Pentagon refusal paying off in downloads, brand trust and enterprise deals",
+            "description": "- The $200M contract Anthropic walked away from is turning out to be marketing gold — driving a surge in users and enterprise interest as consumers respond to the visible stand against Pentagon demands. - Why it matters: Realpolitik meets tech. Users reward visible principled stands even when companies quietly loosen safety commitments elsewhere. The moral line being drawn between Anthropic and OpenAI is now a market differentiator. - Link: https://digiday.com/marketing/in-graphic-detail-how-anthropics-pentagon-refusal-is-paying-off-in-downloads-brand-trust-and-enterprise-deals/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AI chatbots could disrupt retail media's $38B search ad market",
+            "description": "- As ChatGPT and other AI bots become go-to shopping destinations, traditional search volume is expected to drop 25% this year — putting retail media networks' sponsored and search ad dollars at risk. - Why it matters: Retail media (Amazon, Walmart, Target) built a $38B search empire on consumers starting product searches on their sites. If that behavior shifts to chatbots, the entire ad plumbing gets rewritten. Gartner predicts the shift accelerates in 2026. - Link: https://digiday.com/marketing/how-ai-could-disrupt-retail-medias-38-billion-search-ad-market/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Owner of ICE detention facility sees big opportunity in AI man camps",
+            "description": "- Target Hospitality, which runs an ICE detention center in Georgia, is positioning itself to build housing for AI data center workers — adapting the remote oil field camp model to the AI boom. - Why it matters: The physical infrastructure needed to support AI training centers is becoming a real estate and labor story. \"AI man camps\" — temporary housing in remote locations for data center construction and operations workers — are an emerging subsector as training demand explodes. - Link: https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AI-RAN commercialization milestones: T-Mobile, SoftBank, IOH go live",
+            "description": "- Multiple telecom operators have taken NVIDIA-powered AI-RAN from lab to field, with T-Mobile demonstrating concurrent AI and RAN processing in over-the-air environment, SoftBank achieving 16-layer massive MIMO with fully software-defined 5G, and IOH completing Southeast Asia's first AI-powered 5G call. - Why it matters: AI-RAN (AI-powered radio access networks) is the bridge between AI compute and wireless infrastructure. Going live means the hardware convergence is real — same GPUs running 5G base stations also handle agentic AI workloads. This is foundational for AI-native 6G. - Link: https://blogs.nvidia.com/blog/software-defined-ai-ran/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "The Pentagon moral split is now a brand loyalty driver",
+            "description": "- Users are responding to Anthropic vs. OpenAI like it's a consumer preference decision. One marketing agency's CEO summed it up: \"you've changed since you started hanging out with the military\" as a breakup line to ChatGPT. The optics of which side of the AI-military line you're on have never mattered more to ordinary users. - Source: Multiple social platforms",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "\"AI man camps\" becomes a meme",
+            "description": "- The concept of temporary housing for data center workers — adapted from oil field camps — is getting attention as a sign of how far the AI boom has penetrated physical infrastructure. Twitter is making jokes about \"Will you accept the terms and conditions of your AI man camp stay?\" - Source: Twitter/X",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Retail media's $38B search market under threat from AI chatbots",
+            "description": "- ChatGPT and other AI assistants are positioning themselves as primary shopping destinations, threatening to divert users away from retailer websites. Traditional search volume expected to drop 25% in 2026 as AI chatbots gain adoption. - What's happening: Retail media networks built their empires on consumers starting product searches directly on Amazon, Walmart, Target. If that behavior shifts to chatbots, the sponsored search ad model breaks. - Link: https://digiday.com/marketing/how-ai-could-disrupt-retail-medias-38-billion-search-ad-market/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Criteo begins selling ChatGPT ad inventory to advertisers",
+            "description": "- OpenAI and ad tech partner Criteo are pitching \"conversational advertising\" — a format long-promised but rarely delivered at scale. Pitch decks are landing in advertiser inboxes days after the partnership announcement. - What's happening: ChatGPT ads are real, and Criteo is the sales channel. The pitch frames the inventory as a new conversational format that blends commerce and chat. - Link: https://digiday.com/marketing/pitch-deck-how-chatgpt-ads-are-being-sold-to-criteo-advertisers/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "IAB Tech Lab names agentic advertising framework \"AAMP\"",
+            "description": "- The Interactive Advertising Bureau has formally named its agentic advertising initiative \"Agentic Advertising Management Protocols\" (AAMP), providing a structured framework for how AI agents will manage advertising workflows. - What's happening: As marketing work shifts to AI agents, the industry is standardizing how those agents operate within ad systems. AAMP is the first attempt to codify agent behavior at scale. - Source: MarketingProfs AI Update",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-08",
     "title": "AI Tech Brief — Sunday, 08 Mar 2026 (Dubai)",
     "sections": [
