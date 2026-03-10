@@ -1,5 +1,83 @@
 [
   {
+    "date": "2026-03-10",
+    "title": "AI Tech Brief — Tuesday, 10 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 6 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "OpenAI acquires Promptfoo to secure its AI agents",
+            "description": "- OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems. Promptfoo's tools are used by over 25% of Fortune 500 companies and include an open-source CLI for red-teaming LLM applications. - Why it matters: As AI agents move into real-world workflows with access to sensitive data and systems, security and compliance are becoming foundational requirements. This acquisition signals frontier labs are scrambling to prove their technology can be deployed safely in critical business operations. The deal integrates automated security testing and red-teaming into OpenAI Frontier. - Link: https://openai.com/index/openai-to-acquire-promptfoo",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "OpenAI and Google employees file amicus brief supporting Anthropic in DOD lawsuit",
+            "description": "- More than 30 employees from OpenAI and Google DeepMind, including Google DeepMind chief scientist Jeff Dean, filed an amicus brief Monday in support of Anthropic's legal fight against the Department of Defense. The brief argues that punishing Anthropic could hurt US industrial and scientific competitiveness in AI. - Why it matters: This is an extraordinary display of AI researcher solidarity across company lines. When OpenAI and Google's own employees back Anthropic against their government's actions, it signals how controversial the Pentagon's supply-chain risk designation has become within the AI community. - Link: https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Anthropic launches Code Review tool to manage flood of AI-generated code",
+            "description": "- Anthropic introduced Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and integrates with GitHub to leave comments directly on pull requests. The tool uses color-coded severity (red/yellow/purple) and focuses on logical errors over style nitpicks. - Why it matters: \"Vibe coding\" has dramatically increased code output, creating pull request review bottlenecks. Enterprises like Uber, Salesforce, and Accenture are drowning in AI-generated code that needs human review. Anthropic's solution uses multiple agents in parallel to catch the highest-priority bugs quickly. - Link: https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Anthropic sues Defense Department over supply-chain risk designation",
+            "description": "- Anthropic filed two lawsuits against the DOD in California and Washington, D.C., after the agency labeled it a supply-chain risk. The company calls the designation \"unprecedented and unlawful\" and accuses the administration of retaliation over its protected speech on AI safety and limitations on autonomous weapons use. - Why it matters: This is a constitutional showdown over AI and military power. The supply-chain risk label is typically reserved for foreign adversaries, yet here it's being used against a US company that set red lines against mass surveillance and fully autonomous weapons. - Link: https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Nscale hits $14.6B valuation with Sandberg and Clegg joining board",
+            "description": "- Nvidia-backed British AI infrastructure startup Nscale raised a $2 billion Series C (largest in European history according to the company) bringing its valuation to $14.6 billion. Former Meta COO Sheryl Sandberg, former Yahoo president Susan Decker, and former UK deputy PM Nick Clegg are joining the board. - Why it matters: The AI infrastructure boom is minting European decacorns. Nscale's \"Stargate Norway\" project aims to run 100,000 Nvidia GPUs by end of 2026 with OpenAI as an initial customer. High-profile board additions suggest serious IPO ambitions. - Link: https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Qualcomm partners with Neura Robotics to build next-generation physical AI",
+            "description": "- German robotics startup Neura Robotics partnered with Qualcomm to use the Dragonwing Robotics IQ10 processors as reference designs in its robots. Neura will use its Neuraverse simulation platform to test robots running on Qualcomm's chips for humanoid and general-purpose deployments. - Why it matters: Physical AI (robots, humanoids) needs better hardware-software integration. This partnership model — robotics startups coupling with chip giants — is becoming the preferred path to market as it lets companies leverage proven hardware while focusing on their AI and control systems. - Link: https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "\"Your AI Slop Bores Me\" meme game goes viral",
+            "description": "- A website simulating AI chat applications with real humans went viral in early March 2026. Users share screenshots of their interactions as they \"play\" the role of AI chatbots, roasting the repetitive, hallucinatory, and shallow nature of AI-generated responses. - Why it's blowing up: It captures the collective exhaustion with AI slop while gamifying the critique. The meme format — turn the tables, make the AI respond to you instead — has resonated because everyone's experienced a conversation where the bot missed the point or confidently lied. - Source: https://knowyourmeme.com/memes/sites/your-ai-slop-bores-me",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "AI agents beginning to take over strategy-to-execution workflows",
+            "description": "- A January 2026 survey of 100 ad leaders found that AI agents are starting to handle end-to-end strategy-to-execution workflows, putting pressure on traditional staffing and account management models in advertising agencies. - What's happening: Agencies are deploying AI to move from task automation to workflow orchestration. The shift means fewer humans in mid-level planning and strategy roles, with more focus on creative direction and oversight. - Source: https://www.jumpfly.com/blog/ai-in-online-advertising-5-key-trends-from-february-2026/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AI Mode features reshaping brand information discovery",
+            "description": "- As AI Mode features expand in search interfaces, users can complete research, writing, and coding tasks directly within search results. This is fundamentally changing how brands surface information and reach audiences — the search interface itself becomes the destination rather than just a pathway. - What's happening: When users don't need to click through to external sites, the traditional search ad model (clicks-to-site → impressions → conversions) breaks down. Brands must rethink how they capture attention in an AI-first search paradigm. - Source: https://www.marketingprofs.com/opinions/2026/54379/ai-update-march-6-2026-ai-news-and-views-from-past-week",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-09",
     "title": "AI Tech Brief — Monday, 9 March 2026 (Dubai)",
     "sections": [
