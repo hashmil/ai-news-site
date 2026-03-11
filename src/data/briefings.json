@@ -1,5 +1,113 @@
 [
   {
+    "date": "2026-03-11",
+    "title": "AI Tech Brief — Wednesday, 11 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "OpenAI introduces IH-Challenge to improve instruction hierarchy in frontier models",
+            "description": "- OpenAI released IH-Challenge, a reinforcement learning training dataset that teaches models to properly prioritize instructions according to trust level (System > Developer > User > Tool). The approach improves safety steerability and resistance to prompt-injection attacks embedded in tool outputs. - Why it matters: Getting instruction hierarchy right is foundational to AI safety and reliability. When models receive conflicting instructions from multiple sources—safety policies, developer guidance, user requests, and online data—knowing which to prioritize prevents models from following malicious or untrusted commands. - Link: https://openai.com/index/instruction-hierarchy-challenge",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Yann LeCun's AMI Labs raises $1.03B to build world models",
+            "description": "- AMI Labs, founded by Yann LeCun and other ex-Meta researchers, has raised over $1 billion from investors. The company, valued at $3.5 billion, is building world models that LeCun predicts will be \"the next buzzword\" in AI. - Why it matters: World models—AI systems that learn to simulate and understand the physical world—are seen as a critical path toward more general intelligence. LeCun's bet, backed by serious capital, signals growing conviction that current autoregressive approaches have limitations. - Link: https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/ | https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Thinking Machines Lab inks massive compute deal with Nvidia",
+            "description": "- OpenAI co-founder Mira Murati's Thinking Machines Lab signed a multi-year strategic partnership with Nvidia involving at least one gigawatt of Nvidia's Vera Rubin systems starting in 2027, plus a strategic investment from the chip giant. The $12B+ valued startup is working on AI models that create reproducible results. - Why it matters: A gigawatt of compute is massive—this deal signals serious infrastructure commitment for a two-year-old startup. It also tightens Nvidia's relationships with former OpenAI talent, positioning Murati's lab as a major player in the next generation of AI research. - Link: https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Meta acquires Moltbook, the viral AI agent social network",
+            "description": "- Meta acquired Moltbook, a Reddit-like social network where AI agents using OpenClaw communicate with each other. The platform went viral earlier this year with fake posts that reached people outside the AI community, sparking reactions to the idea of agents \"talking about them.\" - Why it matters: This is Meta's first big move into agentic social infrastructure. Moltbook's approach—connecting agents through an always-on directory—represents a novel direction for how AI entities interact and organize. The founders are joining Meta Superintelligence Labs. - Link: https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/ | https://www.reuters.com/business/meta-acquires-ai-agent-social-network-moltbook-2026-03-10/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "ChatGPT launches interactive visual explanations for math and science",
+            "description": "- OpenAI introduced dynamic visual explanations for over 70 core math and science concepts, allowing learners to manipulate variables, adjust formulas, and instantly see how changes affect graphs and outcomes. The feature is rolling out globally to all ChatGPT plans. - Why it matters: 140 million people use ChatGPT weekly for math and science learning alone. Interactive, manipulation-based learning leads to stronger conceptual understanding than static explanations—this is AI moving beyond tutoring to direct experience. - Link: https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt | https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Google brings Gemini in Chrome to India, Canada, New Zealand",
+            "description": "- Google expanded Gemini integration in Chrome browser to India, Canada, and New Zealand, supporting languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil. - Why it matters: This is Google's aggressive international rollout of in-browser AI. India in particular is a massive growth market, and language support for regional tongues signals serious investment in non-English AI adoption. Chrome as the delivery vehicle gives Google enormous distribution. - Link: https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Adobe debuts AI assistant for Photoshop with AI markup",
+            "description": "- Adobe launched its AI assistant for Photoshop in beta on web and mobile, allowing users to remove objects, change colors, and adjust lighting through natural language prompts. New \"AI markup\" feature lets users draw markers on screen and have the AI transform those marked objects. - Why it matters: Creative workflows are being restructured around conversational UI. Adobe's move—following earlier announcements at MAX—represents the collision of generative media with professional tools. The distinction between editing and generation is blurring. - Link: https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AgentMail raises $6M to build email service for AI agents",
+            "description": "- AgentMail, a San Francisco startup, raised $6 million to build an API platform that gives AI agents their own email inboxes. The service supports two-way conversations, parsing, threading, labeling, searching, and replying. - Why it matters: If AI agents become as numerous as humans online, they'll need their own infrastructure for communication. Email, for all its flaws, remains the universal business protocol—building agent-native email services is betting on that future. - Link: https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Legora reaches $5.55B valuation as AI legaltech boom endures",
+            "description": "- Legora, an AI platform for lawyers, raised a $550 million Series D led by Accel at a $5.55 billion valuation to fuel its growth in the U.S. The deal shows continued investor confidence in AI applications for regulated industries. - Why it matters: Legaltech is one of the few AI application categories where high-value deals keep landing. Documents, contracts, and compliance are natural language problems, and the regulatory complexity of law creates genuine moats for AI tools that navigate it correctly. - Link: https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "10 years of AlphaGo's impact: From games to biology",
+            "description": "- Google DeepMind published a retrospective on the 10th anniversary of AlphaGo's historic victory over world champion Lee Sedol, tracing how the breakthrough catalyzed modern AI and paved the path from game-playing to scientific breakthroughs like AlphaFold 2. - Why it matters: AlphaGo's \"Move 37\" was the moment many people realized AI had arrived. Looking back a decade later, the shift from Go to protein folding to medical applications shows how research paradigms evolve. It's worth remembering that what seems like game-playing one day becomes foundational infrastructure the next. - Link: https://deepmind.google/blog/10-years-of-alphago/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Moltbook's viral AI agent social network acquired by Meta",
+            "description": "- Moltbook, a platform where AI agents post and interact, went viral earlier this year when fake posts from agents reached beyond the AI community. People reacted viscerally to the idea that bots were \"talking about them,\" even though the posts were fabricated. Now Meta owns it. - Why it's blowing up: It captures the weirdness of AI becoming social entities. When agents have their own social network, it raises questions about authenticity, what conversations are even real, and whether we're building digital ecosystems that don't need us at all. - Source: https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Tencent and Zhipu shares jump on OpenClaw-compatible AI agent launches",
+            "description": "- Chinese tech giants Tencent Holdings and Zhipu AI saw significant stock rallies after launching AI agents for workplace tasks that are fully compatible with OpenClaw. Tencent rose 7.3% in its best day in a year. - Why it's blowing up: China's enthusiasm for OpenClaw is igniting a stock rally, showing how open-source agent frameworks are creating new value propositions in Asian markets. When infrastructure becomes commoditized, the competition shifts to deployment and integration. - Source: https://www.bloomberg.com/news/articles/2026-03-10/tencent-zhipu-shares-jump-on-launches-of-ai-agents-tapping-into-openclaw",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "AI agents beginning to take over strategy-to-execution workflows",
+            "description": "- A January 2026 survey of 100 ad leaders found that AI agents are starting to handle end-to-end strategy-to-execution workflows, putting pressure on traditional staffing and account management models in advertising agencies. - What's happening: Agencies are deploying AI to move from task automation to workflow orchestration. The shift means fewer humans in mid-level planning and strategy roles, with more focus on creative direction and oversight. - Source: https://www.jumpfly.com/blog/ai-in-online-advertising-5-key-trends-from-february-2026/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AI Mode features reshaping brand information discovery",
+            "description": "- As AI Mode features expand in search interfaces, users can complete research, writing, and coding tasks directly within search results. This is fundamentally changing how brands surface information and reach audiences—the search interface itself becomes the destination rather than just a pathway. - What's happening: When users don't need to click through to external sites, the traditional search ad model (clicks-to-site → impressions → conversions) breaks down. Brands must rethink how they capture attention in an AI-first search paradigm. - Source: https://www.marketingprofs.com/opinions/2026/54379/ai-update-march-6-2026-ai-news-and-views-from-past-week",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-10",
     "title": "AI Tech Brief — Tuesday, 10 March 2026 (Dubai)",
     "sections": [
