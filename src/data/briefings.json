@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-03-12",
+    "title": "AI Tech Brief — Thursday, 12 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Zendesk Acquires Agentic Customer Service Startup Forethought",
+            "description": "- Why it matters: Enterprise customer support goes multi-agent. Forethought's AI agents handle complex support workflows autonomously, and Zendesk's acquisition signals the race to embed AI agents into every customer touchpoint. - Link: https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "Ford Pro AI Assistant Monitors Fleet Seatbelt Usage",
+            "description": "- Why it matters: Real-time safety analytics at scale. The AI uses existing telematics cameras to detect seatbelt compliance without new hardware—practical applied AI reducing risk in commercial fleets. - Link: https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "Chinese Brain Interface Startup Gestala Raises $21M Just Two Months After Launch",
+            "description": "- Why it matters: Non-invasive ultrasound BCI is heating up. Gestala's ultrasound approach offers an alternative to Neuralink's implant route, and this is the largest early-stage funding in China's BCI industry to date. - Link: https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "Lovable Says It Added $100M in Revenue Last Month Alone, With Just 146 Employees",
+            "description": "- Why it matters: Vibe-coding unicorn's crazy growth rates. Swedish AI dev platform Lovable crossed $400M ARR in February, showing product-led growth is still working when the AI coding agent market consolidates. - Link: https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+            "url": ""
+          },
+          {
+            "number": "5",
+            "headline": "Teens Using AI-Fueled 'Slander Pages' to Mock Their Teachers",
+            "description": "- Why it matters: AI harassment goes systemic. Viral TikTok and Instagram accounts are using AI to generate memes comparing school faculty to controversial figures like Jeffrey Epstein and Benjamin Netanyahu—new frontier of AI-enabled bullying. - Link: https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
+            "url": ""
+          },
+          {
+            "number": "6",
+            "headline": "Trump Administration Won't Rule Out Further Action Against Anthropic",
+            "description": "- Why it matters: Regulatory uncertainty persists. The White House is preparing an executive order targeting the AI startup, even as earlier actions face a major court test—companies watching for compliance guidance. - Link: https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
+            "url": ""
+          },
+          {
+            "number": "7",
+            "headline": "Netflix May Have Paid $600 Million for Ben Affleck's AI Startup",
+            "description": "- Why it matters: Hollywood's AI race gets expensive. If the rumored price tag holds, this ranks among Netflix's largest acquisitions ever—betting big on AI for filmmaking and content production. - Link: https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+            "url": ""
+          },
+          {
+            "number": "8",
+            "headline": "Alternative App Store AltStore PAL Joins the Fediverse",
+            "description": "- Why it matters: iOS app ecosystem federates. AltStore PAL now supports Mastodon, Threads, and Bluesky interactions across its explore site—federated social web extending into app distribution. - Link: https://techcrunch.com/2026/03/11/alternative-app-store-altstore-pal-joins-the-fediverse/",
+            "url": ""
+          },
+          {
+            "number": "9",
+            "headline": "Quince Hits $10B Valuation With Giant $500M Round Led by Iconiq",
+            "description": "- Why it matters: E-commerce growth on steroids. Quince raised another massive round less than a year after its previous raise—AI-powered personalization and supply chain efficiency driving retail unicorns. - Link: https://techcrunch.com/2026/03/11/quince-series-e-10b-valuation-with-500m-round-led-by-iconiq/",
+            "url": ""
+          },
+          {
+            "number": "10",
+            "headline": "Breakout Ventures Raises $114M Fund to Back AI Science Startups",
+            "description": "- Why it matters: AI for science gets dedicated capital. The firm is betting on early-stage startups applying AI to biology and chemistry—specialized AI research vertical attracting focused VC dollars. - Link: https://techcrunch.com/2026/03/11/breakout-ventures-raises-114m-fund-to-back-ai-science-startups/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "AI 'Actor' Tilly Norwood Puts Out the Worst Song I've Ever Heard",
+            "description": "- AI-generated music takes a creative turn. An \"AI actor\" released a rallying cry to other AI actors urging them to keep going despite naysayers who doubt their humanity—literally no one can relate. - Link: https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "Teens' AI-Generated Teacher Slander Pages Go Viral",
+            "description": "- AI harassment meets high school drama. Student-run accounts using AI to mock school faculty with fake comparisons to Epstein and Netanyahu are spreading across TikTok and Instagram. - Link: https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📎 Read online: https://ai-news-site-azd.pages.dev/",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-03-11",
     "title": "AI Tech Brief — Wednesday, 11 March 2026 (Dubai)",
     "sections": [
