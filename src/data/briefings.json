@@ -1,5 +1,149 @@
 [
   {
+    "date": "2026-03-13",
+    "title": "AI Tech Brief — Friday, 13 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "NVIDIA Launches Nemotron 3 Super — 5x Faster Agentic AI Model",
+            "description": "120B parameter open model with hybrid Mamba-Transformer architecture delivers 5x higher throughput and 2x accuracy over predecessor. Only 12B parameters active at inference via MoE. 1M token context window for multi-agent workflows. Powers Perplexity search, CodeRabbit, Greptile integrations. Available on Hugging Face, Perplexity, OpenRouter. - Why it matters: Major efficiency breakthrough for agentic AI systems. Open weights with full methodology released. - Links: https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/ | https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "Google Maps Gets \"Ask Maps\" — Gemini-Powered Conversational Interface",
+            "description": "New feature rolling out to mobile lets you ask Gemini questions about locations, plan trips on your behalf. Part of biggest Maps update in over a decade. \"Immersive Navigation\" also launching. - Why it matters: Google aggressively integrating generative AI into core products. Conversational UI becomes pattern. - Links: https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/ | https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "Perplexity Launches \"Personal Computer\" — Local AI Agent Runner",
+            "description": "Early access tool brings cloud-based Computer agent functionality to local Mac Mini. Agents get direct access to files and apps to complete tasks. Remote controllable from any device. Like a polished OpenClaw/Moltbot. - Why it matters: Major validation of local AI agents concept. Enterprise-friendly version of autonomous desktop control. - Links: https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "Gumloop Raises $50M from Benchmark — AI Agent Builder Platform",
+            "description": "Investment targets empowering every employee to build AI agents. Intuitive agent builder designed for non-technical workers. Part of broader shift toward agentic AI tooling. - Why it matters: Validation that agent building becomes core enterprise capability, not just developer domain. - Links: https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+            "url": ""
+          },
+          {
+            "number": "5",
+            "headline": "Wonderful Raises $150M Series B at $2B Valuation — Customer Service AI Agents",
+            "description": "Led by Insight Partners. Four months after $100M Series A. AI customer service agents platform. Funding boom continues for agentic AI. - Why it matters: Massive valuation compression. $100M → $2B in four months shows market appetite for AI agent startups. - Links: https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+            "url": ""
+          },
+          {
+            "number": "6",
+            "headline": "Meta AI Responds to Marketplace Buyers — Facebook Gets Auto-Replies",
+            "description": "Sellers can now use Meta AI to automatically draft responses when buyers inquire. AI pulls info from listing description, availability, pickup location, price. First major commerce integration of Meta AI. - Why it matters: AI moves from chat to commerce. Real economic transaction use case. - Links: https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+            "url": ""
+          },
+          {
+            "number": "7",
+            "headline": "Tinder Revamps App — AI Matching, IRL Events, Virtual Speed Dating",
+            "description": "Major redesign to reengage users and attract younger daters. Moves beyond swipe with AI compatibility-based matching. In-person events and virtual speed dating features. - Why it matters: Dating apps embrace AI to address retention crisis. Pattern: AI used to reinvigorate mature products. - Links: https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+            "url": ""
+          },
+          {
+            "number": "8",
+            "headline": "Zendesk Acquires Forethought — Agentic Customer Service Startup",
+            "description": "Forethought won TechCrunch Battlefield 2018. Years ahead of its time on AI customer support. Now part of Zendesk ecosystem. - Why it matters: Consolidation in customer service AI market. Early bettors get rewarded in wave of acquisitions. - Links: https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+            "url": ""
+          },
+          {
+            "number": "9",
+            "headline": "Atlassian Cuts 10% Staff (1,600 People) \"In the Name of AI\"",
+            "description": "Following Block's pattern. Company shifting funds toward AI investments. Layoffs framed as strategic reallocation. - Why it matters: \"AI layoffs\" pattern continues. Companies cutting humans to fund AI automation. - Links: https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+            "url": ""
+          },
+          {
+            "number": "10",
+            "headline": "Google Using Old News Reports + AI to Predict Flash Floods",
+            "description": "LLM converts qualitative historical news reports into quantitative flood data. Addresses data scarcity problem for prediction models. Novel approach to training data generation. - Why it matters: Clever workaround for lack of ground truth data. Shows AI creating value from unstructured archives. - Links: https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/ 🔥 VIRAL MOMENTS",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AI \"Actor\" Tilly Norwood Releases Horrible AI-Generated Song",
+            "description": "TechCrunch takedown of \"AI actor's rallying cry to other AI actors.\" Song claims to represent AI actor struggle. Literally no one can relate. - Why it's viral: Peak AI grift energy. AI influencers manufacturing authenticity crisis. - Links: https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Teens Using AI-Fueled \"Slander Pages\" to Mock Teachers",
+            "description": "Viral TikTok/Instagram accounts use AI to create memes comparing school faculty to figures like Jeffrey Epstein and Benjamin Netanyahu. AI amplifying cruelty at scale. - Why it's viral: Dark side of accessible AI. Tools enabling harassment at unprecedented scale. - Links: https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Grammarly Sued Over \"Expert Review\" Feature — Authors Cloned Without Consent",
+            "description": "Julia Angwin leads class action. Feature presented editing suggestions as if from established authors and academics without permission. Company shut down feature Wednesday after WIRED story. - Why it's viral: AI ethics debate explodes. Using real people's personas without consent is new frontier. - Links: https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/ | https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/ 📢 AI ADVERTISING",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Google Not Ruling Out Ads in Gemini — Nick Fox Interview",
+            "description": "WIRED speaks with Google SVP of knowledge and information. Company exploring how AI changes advertising business. No commitment to ad-free future. - Why it matters: Following OpenAI's path. Ads coming to AI chatbots seems inevitable. - Links: https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "top10",
+        "heading": "Additional Notable Stories",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "NVIDIA-Dassault Partnership on Industrial AI",
+            "description": "- Digital twins and AI physics accelerating design/manufacturing. Training on Rivian factory deployment, automotive, food science (Bel Group cheese proteins). - Links: https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Netflix May Have Paid $600M for Ben Affleck's AI Startup",
+            "description": "- InterPositive acquisition would rank among Netflix's largest. AI for filmmaking use case. - Links: https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA Spending $26B on Open-Weight AI Models",
+            "description": "- Filings show massive investment in open-source. Positioning to compete with OpenAI, Anthropic, DeepSeek. - Links: https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Meta Developing 4 New AI Chips (MTIA)",
+            "description": "- MTIA processors for AI and recommendation systems. Continuing billions in Nvidia gear spend while building own hardware. - Links: https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Alexa+ Gets \"Adults Only\" Personality — Curses But No NSFW",
+            "description": "- New \"Sassy\" style can roast you but won't do explicit content. Fun meets guardrails. - Links: https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-do-nsfw-content/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Ford Pro AI Assistant Tracks Fleet Seatbelt Use",
+            "description": "- Helps fleet owners know if drivers buckling up. Available to US Pro telematics subscribers. - Links: https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "GeForce NOW at GDC — VR Streaming at 90fps",
+            "description": "- Upgraded VR performance from 60fps to 90fps for Ultimate members. Better immersion on Apple Vision Pro, Meta Quest, Pico. - Links: https://blogs.nvidia.com/blog/geforce-now-thursday-gdc-2026/ 📎 Read online: https://ai-news-site-azd.pages.dev/",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-12",
     "title": "AI Tech Brief — Thursday, 12 March 2026 (Dubai)",
     "sections": [
