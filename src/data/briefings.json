@@ -1,5 +1,190 @@
 [
   {
+    "date": "2026-03-14",
+    "title": "AI Tech Brief — Saturday, 14 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "**Anthropic Makes 1M Context Window GA at Standard Pricing**",
+            "description": "**Story:** Opus 4.6 and Sonnet 4.6 now have 1M token context available at standard API rates, removing long-context premium. Same per-token cost for 900K request as 9K. **Why it matters:** Massive context at regular pricing democratizes long-context AI for enterprise workflows. No more paying extra for deep analysis—enterprises can load entire codebases, financial reports, or document sets without token cost explosion.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://www.anthropic.com/news/claude-sonnet-4-6 - https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "**xAI Founder Exodus as Musk Vows \"Rebuild\"**",
+            "description": "**Story:** Multiple co-founders depart xAI; Elon Musk says he's rebuilding AI company as SpaceX takes over. High-level departures spark questions about xAI's direction amid competitive pressure from OpenAI, Anthropic, and Google. **Why it matters:** xAI leadership turbulence during critical period. \"Rebuilding\" narrative suggests strategy pivot or deeper issues. Raises questions about whether xAI can compete with frontier labs experiencing organizational churn.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html - https://www.businessinsider.com/xai-cofounders-guodong-zhang-zihang-dai-depart-elon-musk-company-2026-3",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "**NVIDIA & Dassault Systèmes Industrial AI Partnership**",
+            "description": "**Story:** Partnership combines Dassault's Virtual Twin platforms with NVIDIA AI physics open models and CUDA-X libraries. Brings PhD-level world models to industrial design, simulation, and optimization. **Why it matters:** Physics-based world models for industrial AI—testing operations from supply chains to manufacturing before real-world deployment. Accelerates automotive, life sciences, and aerospace workflows with virtual validation.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "**Spine Swarm Launches Multi-Agent Platform (YC S23)**",
+            "description": "**Story:** Visual canvas for AI agents to collaborate on complex non-coding projects: competitive analysis, financial modeling, SEO audits, pitch decks, interactive prototypes. **Why it matters:** Multi-agent orchestration is frontier. Spine approaches agents as a visual-first, parallel workforce rather than sequential tools. Real-time collaboration on shared canvas could change how teams work with AI.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://news.ycombinator.com/item?id=47364116 - https://www.getspine.ai/",
+            "url": ""
+          },
+          {
+            "number": "5",
+            "headline": "**Jetson Edge AI: Open Models Running Locally**",
+            "description": "**Story:** NVIDIA Jetson Thor runs Qwen3 4B and Nemotron speech models locally for Caterpillar in-cab AI assistant and Franka Robotics FR3 Duo end-to-end. No cloud required for speech, vision, and language. **Why it matters:** Physical AI needs real-time, low-latency, privacy-preserving inference. Edge deployment unlocks autonomous systems in harsh environments without connectivity—machines that think and act without internet.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/",
+            "url": ""
+          },
+          {
+            "number": "6",
+            "headline": "**OpenAI Wayfair Case: Ecommerce Catalog Accuracy**",
+            "description": "**Story:** Wayfair uses OpenAI models to automate ticket triage and enhance millions of product attributes at scale, improving catalog accuracy and support speed. **Why it matters:** Enterprise AI adoption in ecommerce—catalog enrichment at scale with structured product data is real money for retailers. Better attributes = better search = more sales.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://openai.com/index/wayfair",
+            "url": ""
+          },
+          {
+            "number": "7",
+            "headline": "**OpenAI Computer Environment for Agents**",
+            "description": "**Story:** Responses API now supports hosted containers, shell tools, and file access—enabling secure, scalable agents with stateful execution environments. **Why it matters:** Production agents need real compute environments, not just text generation. This is OpenAI's answer to multi-step workflows with files and tools—agents that can run code, persist state, and handle complex tasks.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://openai.com/index/equip-responses-api-computer-environment",
+            "url": ""
+          },
+          {
+            "number": "8",
+            "headline": "**DeepMind: 10 Years Since AlphaGo**",
+            "description": "**Story:** Reflects on AlphaGo's decade-long impact catalyzing scientific discovery and AGI research. From Lee Sedol to transforming biology with AlphaFold. **Why it matters:** Historical moment—shows how one breakthrough can reshape an entire field. AlphaGo proved AI could master domains humans thought were exclusive to them, opening path to AGI and scientific AI.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://deepmind.google/blog/10-years-of-alphago/",
+            "url": ""
+          },
+          {
+            "number": "9",
+            "headline": "**EU Council Streamlines AI Rules in \"Omnibus VII\"**",
+            "description": "**Story:** EU Council agrees position to streamline certain AI regulations as part of legislative package. Simplifies compliance path for some AI applications. **Why it matters:** Regulatory friction vs. innovation balance. EU moving toward targeted rules rather than blanket restrictions—could speed deployment of benign AI systems while maintaining oversight for high-risk applications.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://www.consilium.europa.eu/en/press/press-releases/2026/03/13/council-agrees-position-to-streamline-rules-on-artificial-intelligence/",
+            "url": ""
+          },
+          {
+            "number": "10",
+            "headline": "**GTC 2026: NVIDIA Live Updates**",
+            "description": "**Story:** Rolling coverage from San Jose including Jensen Huang's keynote, industrial AI demos, Omniverse, and robotics announcements through March 19. **Why it matters:** GTC is NVIDIA's flagship—signals next-gen hardware, partnerships, and AI infrastructure roadmap. Watch for Blackwell updates, Cosmos news, and robotics integrations.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://blogs.nvidia.com/blog/gtc-2026-news/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "**\"Can I run AI locally?\" blows up on Hacker News**",
+            "description": "Discussion about running LLMs on consumer hardware hits #1 with 1,187 points. Community hungry for private, offline AI with zero API costs—edge inference trend accelerating as models get efficient. **Link:** https://news.ycombinator.com/item?id=47363754",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "**Spine Swarm visual agents demo goes viral on YC launch**",
+            "description": "Video shows multi-agent system spinning up on canvas to generate financial models, pitch decks, and prototypes in parallel. \"Wait what\" moment for people used to sequential AI tools—visual-first multi-agent orchestration feels like workflow transformation.",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Links:",
+            "description": "- https://news.ycombinator.com/item?id=47364116 - https://youtu.be/R_2-ggpZz0Q",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "**Brands grapple with \"AI-first\" narrative while rewarding traditional metrics**",
+            "description": "Tension between AI-powered work and old signals of seniority (headcount, meetings, decks). Question: \"What does human expertise mean now?\" as agents draft narratives, pressure-test positioning, and spin 10 campaign variants before lunch. When AI does creative work faster, how do you measure contribution? **Link:** https://www.adweek.com/brand-marketing/10-ai-marketing-trends-for-2026-agentic-ai-and-search-shifts/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "**Zero-click search expands beyond Google to ChatGPT, Perplexity, Gemini, Bing, and Meta AI**",
+            "description": "Users ask questions inside AI tools, get instant answers, and often never reach websites. Marketers scrambling to adapt to AI-native search behavior—zero-click means traditional SEO and traffic models breaking. **Link:** https://www.wordstream.com/blog/2026-ai-marketing-trends",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "**Football's Super Bowl as AI creative litmus test**",
+            "description": "Brands push AI-generated content boundaries. Svedka announced Super Bowl spot made with AI; spirits makers won't be only advertisers showcasing AI-generated commercials. 2026 could be year AI-generated creative hits mainstream advertising's biggest stage. **Link:** https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📎 Read online",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-03-13",
     "title": "AI Tech Brief — Friday, 13 March 2026 (Dubai)",
     "sections": [
