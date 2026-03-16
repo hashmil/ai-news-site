@@ -1,5 +1,220 @@
 [
   {
+    "date": "2026-03-16",
+    "title": "AI Tech Brief — Monday, 16 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Google, Accel India accelerator chooses 5 startups and none are 'AI wrappers'",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "ByteDance pauses global launch of Seedance 2.0 video generator amid Hollywood legal backlash",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AI gets flummoxed by simple games like Nim",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA GTC 2026 kicks off today in San Jose",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "MIT develops PULSE-HF to predict heart failure deterioration up to a year in advance",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Nyne raises $5.3M to give AI agents human context",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "US Army awards Anduril contract worth up to $20B",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Meta reportedly considering layoffs affecting 20% of workforce",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "LLM Architecture Gallery gains traction on HN",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "ChatGPT expands app integrations with DoorDash, Spotify, Uber",
+            "description": "🔥 VIRAL MOMENTS",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Seedance 2.0 pirated Disney characters for training",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Can I run AI locally? Thread blows up on HN",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "What Is Agentic Engineering?",
+            "description": "📢 AI ADVERTISING",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Intent-based AI advertising emerges as new digital channel",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Zero-click search expands across AI platforms",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Google adds AI guardrails for Performance Max campaigns",
+            "description": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "title": "AI Tech Brief — Sunday, 15 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "US Army signs up to $20B enterprise contract with Anduril, consolidating 120+ procurement actions over a 10-year term (5-year base + 5-year option), spanning hardware, software, infrastructure and services.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "GitAgent launches an open standard to treat any Git repo as an AI agent, using agent.yaml/SOUL.md/SKILL.md and exporting to Claude Code, OpenAI Agents SDK, CrewAI, Google ADK, and LangChain.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA GTC 2026 opens March 16–19 in San Jose with a Build-a-Claw booth (8am–6pm) offering attendees a hands-on “claw” (always-on agent) via OpenClaw, using on-prem compute (DGX Spark/RTX) and a new OpenClaw Playbook for local-first agents.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Lawyer behind AI psychosis-linked cases warns of emerging mass-casualty risks tied to chatbot harms.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Nyne raises $5.3M to supply human context to AI agents, positioning as an infra layer for grounding/awareness across agent tooling.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "xAI reportedly restarts its coding tool (Macrohard) again, with new execs joining from Cursor.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Peacock expands into AI-driven video, vertical clips, mobile-first live sports, and gaming to drive growth.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Qutwo (founded by the ex-AMD AI CEO Peter Sarlin) targets enterprise readiness for quantum computing before quantum arrives.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Truecaller launches family admin features to detect and end scam calls on behalf of relatives.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Postscriptum (Peter Sarlin’s new quantum infra play) surfaces as post-AMD ($665M exit) bet.",
+            "description": "",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Build-a-Claw at GTC Park lets attendees spin up a personal OpenClaw agent in minutes—demo energy high as on-prem agent playbooks go mainstream.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "GitAgent’s repo-as-agent spec gets HN traction: “agent.yaml + SOUL.md + SKILL.md = portable agent across frameworks.”",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Truecaller’s family scam-defense feature—hang up on scammers for your parents—is resonating as an urgent, consumer-visible safety use case.",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "xAI’s Macrohard reboot chatter fuels “execution turbulence” meme as AI coding tools fight for product-market fit.",
+            "description": "",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-03-14",
     "title": "AI Tech Brief — Saturday, 14 March 2026 (Dubai)",
     "sections": [
