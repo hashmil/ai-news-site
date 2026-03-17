@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-03-17",
+    "title": "AI Tech Brief — Tuesday, 17 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Encyclopedia Britannica and Merriam-Webster sue OpenAI over copyright",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA announces NemoClaw enterprise AI agent platform",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Jensen Huang projects $1 trillion in AI chip orders through 2027",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Senator Warren presses Pentagon over xAI classified network access",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Memories.ai builds visual memory layer for wearables and robotics",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA DLSS 5 uses generative AI for photorealism in games",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Frore hits $1.64B valuation with liquid-cooling tech",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "xAI faces child porn lawsuit from minors alleging Grok undressed them",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA DSX Air accelerates AI factory deployment with simulation",
+            "description": "🔥 VIRAL MOMENTS",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Clawchain.ai launches on Chromia for next-gen AI agent systems",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Show HN: Claude Code skills that build complete Godot games",
+            "description": "📢 AI ADVERTISING",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "OpenAI testing ads manager as new ads business fights growing pains",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Mazda and Disney big winners at Oscars with cinematic ad takeover",
+            "description": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-16",
     "title": "AI Tech Brief — Monday, 16 Mar 2026 (Dubai)",
     "sections": [
