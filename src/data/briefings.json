@@ -1,5 +1,119 @@
 [
   {
+    "date": "2026-03-18",
+    "title": "AI Tech Brief — Wednesday, 18 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "OpenAI releases GPT-5.4 mini and nano",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Mistral Forge lets enterprises build custom AI from scratch",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA RTX computers connect directly to Apple Vision Pro",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Telecom giants build AI grids for distributed inference",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "OpenAI expands government footprint with AWS deal",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "The Pentagon developing alternatives to Anthropic",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Google's Personal Intelligence feature expands to all US users",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "World launches AgentKit to verify humans behind AI shopping agents",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Niv-AI exits stealth with $12M for GPU power management",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AI's 'boys club' could widen wealth gap for women, says Rana el Kaliouby",
+            "description": "🔥 VIRAL MOMENTS",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Garry Tan's Claude Code setup goes viral at SXSW",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "\"Get Shit Done\" meta-prompting system trends on HN",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "BuzzFeed launches BF Island and Conjure AI apps",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Mistral AI Release Forge hits HN front page",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "PewDiePie builds own AI to \"fix\" YouTube algorithm",
+            "description": "📢 AI ADVERTISING",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Publicis advises clients to avoid The Trade Desk",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "U.S. Bank uses AI to drive revenue and results",
+            "description": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-17",
     "title": "AI Tech Brief — Tuesday, 17 Mar 2026 (Dubai)",
     "sections": [
