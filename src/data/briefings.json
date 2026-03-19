@@ -1,5 +1,119 @@
 [
   {
+    "date": "2026-03-19",
+    "title": "AI Tech Brief — Thursday, 19 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Nvidia quietly building a multibillion-dollar networking empire",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "DOD labels Anthropic 'unacceptable risk to national security'",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Meta struggling with rogue AI agents",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Microsoft acquires Cove team, shuts down AI collaboration platform",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Sequen raises $16M for TikTok-style personalization at scale",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Eragon wants enterprise software to look like a prompt",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "DeepMind's AGI measurement framework sparks debate",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Rebel Audio launches AI podcasting tool for creators",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA's robotics stack moves from simulation to production",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Chatbot Arena's PhD judges become de facto AI industry arbiters",
+            "description": "🔥 VIRAL MOMENTS",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Sam Altman's \"thank you to coders\" gets meme treatment",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Nothing CEO: \"Smartphone apps will disappear\"",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "NVIDIA NemoClaw trends on HN",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "\"Vibe coded\" AI translation tool divides gaming preservationists",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "OpenAI's IPO focus leaks through HN",
+            "description": "📢 AI ADVERTISING",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "SXSW: AI everywhere but humanity still leads",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AI-generated content at SXSW creates buzz, not backlash",
+            "description": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-18",
     "title": "AI Tech Brief — Wednesday, 18 Mar 2026 (Dubai)",
     "sections": [
