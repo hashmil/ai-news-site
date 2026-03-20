@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-03-20",
+    "title": "AI Tech Brief — Friday, 20 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenAI to acquire Python toolmaker Astral",
+            "description": "Why it matters: OpenAI's move to acquire Astral (makers of popular Python tools) strengthens its coding tool portfolio against Anthropic's market lead, showing the race for developer tooling dominance continues via consolidation rather than just model releases.",
+            "url": "https://openai.com/index/openai-to-acquire-astral"
+          },
+          {
+            "number": "2",
+            "headline": "Jeff Bezos reportedly wants $100B to transform old manufacturing firms with AI",
+            "description": "Why it matters: If this Project Prometheus initiative happens, it would be one of the largest AI-driven industrial bets—targeting legacy manufacturing for AI modernization at scale. Raises questions about whether massive capital can actually fix fragmented industrial workflows.",
+            "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"
+          },
+          {
+            "number": "3",
+            "headline": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+            "description": "Why it matters: Matthew Prince's prediction at SXSW signals an inflection point—AI agents will flood the web within 2 years. Infrastructure demands, bot detection, and identity verification become existential problems for every platform.",
+            "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
+          },
+          {
+            "number": "4",
+            "headline": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+            "description": "Why it matters: Meta is bringing enforcement in-house with AI systems that detect violations with \"greater accuracy\" while cutting costs. Self-reliance on moderation tech is becoming standard across big platforms as regulators tighten scrutiny.",
+            "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"
+          },
+          {
+            "number": "5",
+            "headline": "Google DeepMind appoints Bridgewater AI head Jasjeet Sekhon as Chief Strategy Officer",
+            "description": "Why it matters: DeepMind's hire signals serious executive-level competition for AI leadership—Sekhon from Bridgewater/AIA Labs will shape strategy as Google tries to narrow the gap with OpenAI and Anthropic after early scrambling in the generative race.",
+            "url": "https://www.newsbytesapp.com/news/business/sekhon-joins-deepmind-amid-ai-race/tldr"
+          },
+          {
+            "number": "6",
+            "headline": "DoorDash launches Tasks app that pays couriers to submit videos to train AI",
+            "description": "Why it matters: This is a new data acquisition playbook—paying gig workers directly for training data instead of relying on passive collection or licensed datasets. Raises questions about consent and economic fairness in the AI supply chain.",
+            "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"
+          },
+          {
+            "number": "7",
+            "headline": "Multiverse Computing pushes compressed AI models into mainstream",
+            "description": "Why it matters: Multiverse's compactifAI compresses frontier models (OpenAI, Meta, DeepSeek, Mistral) for edge deployment. Model compression matters as enterprises push inference closer to users to cut costs and latency—this is the enabling infrastructure for that shift.",
+            "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/"
+          },
+          {
+            "number": "8",
+            "headline": "Amazon brings Alexa+ to the UK",
+            "description": "Why it matters: Alexa+ early access expands internationally, showing Amazon is still pushing for AI assistant relevance. But with Siri and Google Assistant integrating more tightly into device OSes, standalone voice assistants face an uphill battle.",
+            "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/"
+          },
+          {
+            "number": "9",
+            "headline": "NVIDIA GTC 2026: Live updates on what's next in AI",
+            "description": "Why it matters: NVIDIA's annual developer conference is where the AI infrastructure roadmap is set—Blackwell GPUs, robotics stacks (Isaac, Jetson), telecom AI grids, and VR integrations (Apple Vision Pro) all getting stage time. What NVIDIA announces here shapes what's buildable in AI for the next 12 months.",
+            "url": "https://blogs.nvidia.com/blog/gtc-2026-news/"
+          },
+          {
+            "number": "10",
+            "headline": "Three new Kitten TTS models—smallest under 25MB",
+            "description": "Why it matters: Text-to-speech models are finally getting small enough to run on-device without sacrificing quality. Opens up edge TTS applications—assistants, accessibility tools, voice interfaces—that don't require cloud connectivity or API costs.",
+            "url": "https://news.ycombinator.com/item?id=47441546"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "\"Astral to Join OpenAI\" trends on Hacker News",
+            "description": "The OpenAI-Astral acquisition announcement hit 1,700+ upvotes and 770+ comments. Developer community is debating consolidation in the Python tooling space and what it means for open-source alternatives.",
+            "url": "https://news.ycombinator.com/item?id=47438723"
+          },
+          {
+            "number": "•",
+            "headline": "\"The robots are talking to each other\"",
+            "description": "A viral opinion piece about watching AI-generated philosophy on a Reddit-like platform for robots. Captures the weirdness of emergent AI behavior—when agents start talking to each other in ways humans didn't explicitly program.",
+            "url": "https://www.news-press.com/story/opinion/2026/03/19/the-robots-are-talking-to-each-other-i-watched-opinion/89198646007/"
+          },
+          {
+            "number": "•",
+            "headline": "\"NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute\"",
+            "description": "Research paper making the rounds showing how to dramatically improve training efficiency. Technical but catching fire with researchers关心 squeezing more out of compute.",
+            "url": "https://news.ycombinator.com/item?id=47444072"
+          },
+          {
+            "number": "•",
+            "headline": "Scaling Karpathy's Autoresearch: What Happens When Agent Gets a GPU Cluster",
+            "description": "HN discussion around Andrej Karpathy's autoresearch concept—giving AI agents autonomous access to compute clusters to do their own research. Half cool, half terrifying.",
+            "url": "https://news.ycombinator.com/item?id=47442435"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Meta plans to fully automate ad creation by 2026",
+            "description": "Meta's roadmap includes end-to-end AI ad generation—creative, targeting, optimization—removing humans from the loop. Agencies and freelancers are watching this closely as their business model gets threatened.",
+            "url": "https://www.maximisemedia.in/blog/meta-ai-ad-automation-2026/"
+          },
+          {
+            "number": "•",
+            "headline": "AI tools digital marketers will actually use in 2026",
+            "description": "Industry survey showing AI has moved from \"sitting on sidelines\" to core marketing infrastructure. Search engines, content generation, and customer targeting now AI-first by default. *Briefing compiled by Oracle's AI News bot. Sources: OpenAI, TechCrunch, NVIDIA Blog, Hacker News, Google DeepMind, Reuters, Adweek, and industry trackers.*",
+            "url": "https://bostoninstituteofanalytics.org/blog/ai-tools-digital-marketers-will-actually-use-in-2026/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-19",
     "title": "AI Tech Brief — Thursday, 19 Mar 2026 (Dubai)",
     "sections": [
