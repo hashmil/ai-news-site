@@ -1,5 +1,113 @@
 [
   {
+    "date": "2026-03-21",
+    "title": "AI Tech Brief — Saturday, 21 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Pentagon says Anthropic nearly aligned, days after Trump ended relationship",
+            "description": "Why it matters: Court filing shows DOD pushed alignment talks even after Trump administration declared the relationship \"kaput,\" revealing government concerns about Anthropic's safety red lines.",
+            "url": "https://techcrunch.com/2026/03/21/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/"
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI: How we monitor internal coding agents for misalignment",
+            "description": "Why it matters: First public look at how OpenAI uses chain-of-thought monitoring to study misalignment in real-world coding deployments, a critical safety development.",
+            "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+          },
+          {
+            "number": "3",
+            "headline": "Microsoft rolls back Copilot bloat on Windows",
+            "description": "Why it matters: Reducing Copilot entry points in Photos, Widgets, Notepad acknowledges user fatigue and signals Microsoft recalibrating its AI integration strategy.",
+            "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"
+          },
+          {
+            "number": "4",
+            "headline": "NVIDIA NemoClaw optimizes OpenClaw for local AI PCs",
+            "description": "Why it matters: Open-source stack brings Nemotron 3 models and OpenShell runtime to run OpenClaw safely and privately on NVIDIA hardware, addressing token costs and security concerns.",
+            "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/"
+          },
+          {
+            "number": "5",
+            "headline": "Nemotron 3 Super: 120B open model for local agents",
+            "description": "Why it matters: 12-billion active parameters with 262k-token context, scored 85.6% on PinchBench benchmark—bringing frontier capabilities to consumer devices.",
+            "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/"
+          },
+          {
+            "number": "6",
+            "headline": "WordPress.com lets AI agents write and publish posts",
+            "description": "Why it matters: Automated agent publishing lowers barriers to content creation while flooding the web with machine-generated content—raising questions about authenticity and scale.",
+            "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
+          },
+          {
+            "number": "7",
+            "headline": "Telecom giants build AI grids for distributed inference",
+            "description": "Why it matters: AT&T, Comcast, Spectrum, T-Mobile are converting networks into geographically distributed AI infrastructure—edge computing becomes telco revenue stream.",
+            "url": "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/"
+          },
+          {
+            "number": "8",
+            "headline": "NVIDIA robotics stack moves from simulation to production",
+            "description": "Why it matters: Isaac, Jetson, and Omniverse integration bring cloud-to-robot workflows from research labs to real deployments, accelerating physical AI adoption.",
+            "url": "https://blogs.nvidia.com/blog/build-robots-with-ai/"
+          },
+          {
+            "number": "9",
+            "headline": "RTX 5090 AI PCs and DGX Spark run agents locally",
+            "description": "Why it matters: \"Agent computers\" category emerges with 128GB unified memory supporting 120B+ parameter models—local inference becomes consumer capability.",
+            "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/"
+          },
+          {
+            "number": "10",
+            "headline": "Best AI investment might be in energy tech",
+            "description": "Why it matters: Power is the bottleneck for AI data centers, creating openings for investors in batteries, grid infrastructure, and energy storage. 🔥 VIRAL MOMENTS",
+            "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/"
+          },
+          {
+            "number": "•",
+            "headline": "NemoClaw trends on Hacker News",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "OpenCode – open source AI coding agent",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "ArXiv declares independence from Cornell",
+            "description": "📢 AI ADVERTISING",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "The Trade Desk vs Publicis fight escalates",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Brand AI campaigns at SXSW generated buzz, not backlash",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "U.S. Bank uses AI to drive revenue and results",
+            "description": "📎 Bottom line Today's narrative: Safety monitoring at OpenAI, agent computers emerging at NVIDIA GTC, and telecom networks becoming AI infrastructure. The physical world—robots, edge networks—catches up to the generative wave. Meanwhile, publishers brace for agent-generated content floods, and investors look past chips to power.",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-20",
     "title": "AI Tech Brief — Friday, 20 March 2026 (Dubai)",
     "sections": [
