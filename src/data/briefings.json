@@ -1,5 +1,89 @@
 [
   {
+    "date": "2026-03-22",
+    "title": "AI Tech Brief — Sunday, 22 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenAI plans to nearly double workforce to 8,000 employees by end of 2026",
+            "description": "Why it matters: Massive expansion aimed at accelerating enterprise push and regaining ground from Anthropic in the competitive market, with both labs still operating at losses.",
+            "url": "https://www.latestly.com/technology/openai-to-double-workforce-to-8000-employees-by-late-2026-report-7363170.html"
+          },
+          {
+            "number": "2",
+            "headline": "Anthropic launches Claude Code Channels for remote development control",
+            "description": "Why it matters: New feature lets developers control Claude Code sessions from Telegram or Discord, executing commands and compiling apps from mobile—raising security and permission questions for enterprise adoption.",
+            "url": "https://www.diariobitcoin.com/ia/anthropic-lanza-claude-code-channels-y-lleva-la-programacion-desde-el-movil-a-entornos-locales/"
+          },
+          {
+            "number": "3",
+            "headline": "Publisher pulls horror novel 'Shy Girl' over AI concerns",
+            "description": "Why it matters: Hachette withdraws already-UK-published book amid AI-generated text speculation—author denies using AI, blaming editor, raising questions about publisher vetting processes for AI content.",
+            "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
+          },
+          {
+            "number": "4",
+            "headline": "Delve accused of misleading customers with 'fake compliance'",
+            "description": "Why it matters: Anonymous Substack post alleges YC-backed compliance startup fabricated evidence, rubber-stamped audit reports, and misled hundreds of customers—potentially exposing them to HIPAA and GDPR violations.",
+            "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/"
+          },
+          {
+            "number": "5",
+            "headline": "Xiaomi reveals MiMo-V2-Pro: 1 trillion-parameter model, free to use",
+            "description": "Why it matters: Former DeepSeek researcher's trillion-parameter model appeared on OpenRouter without fanfare—no press release, no company name, just frontier specs available for free. Speculation around DeepSeek origins confirmed wrong.",
+            "url": "https://www.labla.org/latest-ai-model-releases-past-24-hours/ai-model-releases-march-19-21-2026-the-48-hours-that-nobody-saw-coming/"
+          },
+          {
+            "number": "6",
+            "headline": "GPT-5.4 mini now free for everyone via ChatGPT Thinking",
+            "description": "Why it matters: OpenAI puts capable reasoning model into free tier—strategic move to increase daily active users, collect feedback, and make ChatGPT the default AI for non-paying users.",
+            "url": "https://www.labla.org/latest-ai-model-releases-past-24-hours/ai-model-releases-march-19-21-2026-the-48-hours-that-nobody-saw-coming/"
+          },
+          {
+            "number": "7",
+            "headline": "Trump's AI framework targets state laws, shifts child safety burden to parents",
+            "description": "Why it matters: Federal preemption of state AI regulations emphasizes innovation, lighter-touch rules for tech companies, and shifts child protection responsibility toward parents.",
+            "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
+          },
+          {
+            "number": "8",
+            "headline": "Tinybox – Offline AI device with 120B parameters trends on HN",
+            "description": "Why it matters: Bringing frontier-scale models to edge devices—offline, privacy-first, no API costs—trending with 500+ upvotes as developers hunger for local inference at scale.",
+            "url": "https://news.ycombinator.com/item?id=47470773"
+          },
+          {
+            "number": "9",
+            "headline": "AI notetaking devices help record and transcribe meetings",
+            "description": "Why it matters: New hardware category emerges—pins, pendants that transcribe audio, generate summaries and action items—bringing meeting productivity to physical form factors.",
+            "url": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/"
+          },
+          {
+            "number": "10",
+            "headline": "OpenAI and Google defend Anthropic in court against Pentagon claims",
+            "description": "Why it matters: Competitors backing Anthropic in legal filings signals shared concern about government overreach—when authorities label a major AI lab a national security risk, rivals understand the threat affects the whole industry. 🔥 VIRAL MOMENTS **\"Do Not Turn Child Protection into Internet Access Control\" (https://news.ycombinator.com/item?id=47470991) — Viral HN debate (729 upvotes) argues that child safety measures shouldn't become de facto censorship tools—critics warn against mission creep in online safety implementations. **\"The Impact of AI on Game Dev Jobs. Open to Work Crisis\" (https://news.ycombinator.com/item?id=47471943) — HN trending discussion (92 upvotes) on how AI-generated assets and tools are affecting game development employment, with developers weighing automation against job security. **Xiaomi's MiMo-V2-Pro mystery drops on OpenRouter** — Community went into full speculation mode when a 1-trillion-parameter model appeared without any attribution. Turns out it's from Xiaomi's AI division, led by former DeepSeek researcher—nobody saw it coming. 📢 AI ADVERTISING",
+            "url": "https://www.labla.org/latest-ai-model-releases-past-24-hours/ai-model-releases-march-19-21-2026-the-48-hours-that-nobody-saw-coming/"
+          },
+          {
+            "number": "•",
+            "headline": "Compliance startup Delve faces credibility crisis",
+            "description": "",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "AI-generated content at SXSW created buzz, not backlash",
+            "description": "📎 Bottom line Today's narrative: Workforce expansion at OpenAI, remote development control at Anthropic, and the quiet arrival of a trillion-parameter model from Xiaomi. Meanwhile, publishers grapple with AI-generated content, compliance startups face credibility crises, and the Pentagon-Anthropic drama takes an unexpected turn with competitors backing each other in court. The theme is positioning—labs doubling down on enterprise, hardware pushing frontier models to the edge, and regulators and industries trying to figure out where the lines actually are.",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-21",
     "title": "AI Tech Brief — Saturday, 21 March 2026 (Dubai)",
     "sections": [
