@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-03-23",
+    "title": "AI Tech Brief — Monday, 23 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Cursor admits its new coding model was built on top of Moonshot AI's Kimi",
+            "description": "Why it matters: A major coding AI startup is using a Chinese-developed foundation model, raising questions about US AI dependency on foreign models and the transparency of model architecture in the ecosystem.",
+            "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"
+          },
+          {
+            "number": "2",
+            "headline": "NVIDIA announces AI Grids partnership with AT&T, Comcast, Spectrum, Akamai, and others",
+            "description": "Why it matters: Telecom operators are transforming their distributed networks into AI inference platforms, running models at the edge to reduce latency and lower costs. This could fundamentally change how AI scales globally.",
+            "url": "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/"
+          },
+          {
+            "number": "3",
+            "headline": "NVIDIA debuts NemoClaw and Nemotron 3 models for local AI agents",
+            "description": "Why it matters: Open-source optimizations for OpenClaw and new open models (Nemotron 3 Nano 4B, Nemotron 3 Super 120B) make running autonomous agents on local hardware more practical, addressing privacy and cost concerns with cloud models.",
+            "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/"
+          },
+          {
+            "number": "4",
+            "headline": "Delve accused of misleading customers with 'fake compliance'",
+            "description": "Why it matters: A Y Combinator-backed AI compliance startup allegedly convinced hundreds of companies they were compliant with privacy and security regulations through deceptive marketing, highlighting the trust crisis in AI governance tools.",
+            "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/"
+          },
+          {
+            "number": "5",
+            "headline": "Hachette pulls horror novel 'Shy Girl' over AI concerns",
+            "description": "Why it matters: First major trade publisher to withdraw a book over AI allegations sets a precedent for how traditional publishing deals with AI-generated content and authenticity questions.",
+            "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
+          },
+          {
+            "number": "6",
+            "headline": "OpenAI to acquire Astral to accelerate Codex growth",
+            "description": "Why it matters: Acquisition signals OpenAI's continued investment in coding infrastructure and its competitive positioning against GitHub Copilot and other developer tools.",
+            "url": "https://openai.com/blog/anthropic-acquires-astral-for-codex"
+          },
+          {
+            "number": "7",
+            "headline": "Amazon Trainium chip gaining adoption from OpenAI, Anthropic, and Apple",
+            "description": "Why it matters: AWS's custom AI silicon is breaking NVIDIA's monopoly on training/inference, with OpenAI, Anthropic, and Apple all reportedly using Trainium chips.",
+            "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
+          },
+          {
+            "number": "8",
+            "headline": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+            "description": "Why it matters: Musk's hardware ambitions could accelerate vertical integration of AI infrastructure at SpaceX and Tesla, reducing dependence on NVIDIA and other chip suppliers.",
+            "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/"
+          },
+          {
+            "number": "9",
+            "headline": "DeepMind introduces cognitive framework for measuring AGI progress",
+            "description": "Why it matters: Provides a structured way to evaluate progress toward artificial general intelligence and includes a Kaggle hackathon to crowdsource benchmarks.",
+            "url": "https://deepmind.google/discover/blog/measuring-progress-toward-agi-a-cognitive-framework/"
+          },
+          {
+            "number": "10",
+            "headline": "OpenAI releases internal monitoring for coding agent misalignment",
+            "description": "Why it matters: New chain-of-thought monitoring system addresses safety concerns about autonomous code agents, a collaborative approach with Google DeepMind on guardrails.",
+            "url": "https://openai.com/blog/monitoring-internal-coding-agents-misalignment"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
+            "description": "A paper on efficiently running massive models on consumer hardware is blowing up on HN, showing that MoE architectures are making giant models locally accessible.",
+            "url": "https://news.ycombinator.com/item?id=47476422"
+          },
+          {
+            "number": "•",
+            "headline": "Gaming Alexandria AI translation tool sparks community controversy",
+            "description": "The creator apologized for using Patreon funds on a Gemini-powered translation tool for gaming magazine preservation, splitting the retro gaming community over AI ethics in cultural preservation.",
+            "url": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/"
+          },
+          {
+            "number": "•",
+            "headline": "\"Shy Girl\" controversy",
+            "description": "Author denies AI use, but publisher Hachette pulled the horror novel from UK market and canceled US plans after NYT investigation, igniting debate about AI detection and authorship.",
+            "url": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Google signals potential advertising in Gemini AI interface",
+            "description": "Marketing executives revealed Google may introduce ads into its AI assistant, which would represent a major monetization shift for AI platforms.",
+            "url": "https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week"
+          },
+          {
+            "number": "•",
+            "headline": "AI-generated political campaign ads featuring deepfakes",
+            "description": "Republicans recently released videos with AI-generated versions of candidates, raising concerns about AI's role in election integrity and the need for regulation.",
+            "url": "https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html"
+          },
+          {
+            "number": "•",
+            "headline": "Svedka announces Super Bowl spot created with AI",
+            "description": "The spirits maker committed to an AI-generated Super Bowl advertisement, signaling brands will continue pushing boundaries of AI-generated creative in 2026.",
+            "url": "https://www.marketingdive.com/news/marketing-predictions-in-2026-as-ai-fuels-polarity/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-22",
     "title": "AI Tech Brief — Sunday, 22 March 2026 (Dubai)",
     "sections": [
