@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-03-24",
+    "title": "AI Tech Brief — Tuesday, 24 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "iPhone 17 Pro successfully runs 400B parameter LLM on-device",
+            "description": "Why it matters: A new Flash-MoE inference engine enables massive models (that typically need 200GB RAM) to run on a phone with just 12GB RAM by streaming weights from SSD. This fundamentally changes what's possible for edge AI and could democratize powerful local inference.",
+            "url": "https://tweaktown.com/news/110610/the-iphone-17-pro-can-run-a-400b-parameter-large-language-model-on-device-by-streaming-weights-from-the-ssd/index.html"
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI publishes safety framework for Sora 2 and the Sora app",
+            "description": "Why it matters: As video generation becomes mainstream, OpenAI is building comprehensive guardrails—visible watermarks, C2PA metadata, strict rules for likeness/characters, teen protections, and audio safeguards—setting the template for responsible AI video platforms.",
+            "url": "https://openai.com/index/creating-with-sora-safely"
+          },
+          {
+            "number": "3",
+            "headline": "Gimlet Labs raises $80M Series A for multi-silicon AI inference",
+            "description": "Why it matters: First \"multi-silicon inference cloud\" that splits AI workloads across NVIDIA, AMD, Intel, ARM, Cerebras, and d-Matrix chips simultaneously. Claims 3-10x speedup while using hardware 15-30% more efficiently—potentially saving hundreds of billions in wasted compute.",
+            "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/"
+          },
+          {
+            "number": "4",
+            "headline": "Littlebird raises $11M for AI that reads your screen to build context",
+            "description": "Why it matters: Unlike Rewind/Microsoft Recall that store screenshots, Littlebird reads screen as text—lighter, less invasive, more searchable. Backed by productivity influencers who say it removes friction of remembering and retrieving work.",
+            "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/"
+          },
+          {
+            "number": "5",
+            "headline": "OpenAI sweetens private equity pitch amid enterprise war with Anthropic",
+            "description": "Why it matters: Both labs are courting PE firms to form joint ventures and raise capital ahead of potential IPOs. The joint venture structure could absorb heavy customization costs and provide clearer segment reporting—changing how frontier AI companies fund growth.",
+            "url": "https://www.reuters.com/business/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-2026-03-23/"
+          },
+          {
+            "number": "6",
+            "headline": "Apple sets June date for WWDC 2026, teasing \"AI advancements\"",
+            "description": "Why it matters: Apple expected to announce major Siri updates with advanced AI capabilities at WWDC week of June 8. iPhone 17 Pro running massive LLMs on-device suggests Apple's hardware is ready for serious AI integration.",
+            "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/"
+          },
+          {
+            "number": "7",
+            "headline": "Sam Altman steps down as Helion chair as fusion startup in talks to sell power to OpenAI",
+            "description": "Why it matters: Potential deal would see Helion sell 12.5% of power output to OpenAI, deepening Altman's dual role as OpenAI CEO and Helion investor while raising conflict-of-interest questions.",
+            "url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/"
+          },
+          {
+            "number": "8",
+            "headline": "Elizabeth Warren calls Pentagon's decision to bar Anthropic \"retaliation\"",
+            "description": "Why it matters: Senator Warren equated DOD labeling Anthropic a \"supply-chain risk\" as retaliation, arguing the Pentagon could simply have terminated the contract. Raises questions about how AI companies are treated in national security contexts.",
+            "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/"
+          },
+          {
+            "number": "9",
+            "headline": "China's open-source dominance threatens US AI lead, advisory body warns",
+            "description": "Why it matters: US companies like OpenAI and Anthropic have invested billions to stay ahead, but China's open-source strategy is accelerating global diffusion. Signals shifting geopolitical dynamics in AI development.",
+            "url": "https://www.reuters.com/business/autos-transportation/chinas-open-source-dominance-threatens-us-ai-lead-us-advisory-body-warns-2026-03-23/"
+          },
+          {
+            "number": "10",
+            "headline": "Lovable acquires teams as vibe-coding startup scales rapidly",
+            "description": "Why it matters: Fast-growing vibe-coding startup is actively hunting acquisitions, indicating consolidation in AI developer tools market as startups compete for mindshare among developers using AI to code.",
+            "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "iPhone 17 Pro runs 400B LLM - wait what?",
+            "description": "A developer demonstrated running a massive 400B-parameter model on an iPhone 17 Pro using Flash-MoE's SSD streaming technique. 0.6 tokens/second is slow, but it's on-device. The implications for edge AI are blowing minds.",
+            "url": "https://news.ycombinator.com/item?id=47490070"
+          },
+          {
+            "number": "•",
+            "headline": "Bernie Sanders' AI \"gotcha\" video flops, but memes are great",
+            "description": "Sen. Sanders thought he tricked Claude into revealing AI industry secrets, but really just exposed how agreeable chatbots can be. The resulting memes are the real story.",
+            "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/"
+          },
+          {
+            "number": "•",
+            "headline": "\"I built an AI receptionist for a mechanic shop\"",
+            "description": "Hacker loves practical AI demos: one developer built an AI receptionist handling bookings, answering questions, and managing workflows for a small auto repair shop. Real-world use cases winning over benchmarks.",
+            "url": "https://news.ycombinator.com/item?id=47487536"
+          },
+          {
+            "number": "•",
+            "headline": "Claude Code Cheat Sheet goes viral on HN",
+            "description": "A comprehensive cheat sheet for Anthropic's Claude Code is trending as developers rush to understand how to build effective AI coding workflows.",
+            "url": "https://news.ycombinator.com/item?id=47495527"
+          },
+          {
+            "number": "•",
+            "headline": "\"How I'm Productive with Claude Code\"",
+            "description": "Developers sharing real-world workflows for AI coding assistants are dominating tech discussion, with detailed guides on how to actually use these tools in daily work.",
+            "url": "https://news.ycombinator.com/item?id=47494890"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Apple Maps may be about to get ads",
+            "description": "Apple is reportedly planning to serve ads in top results when users search for terms like \"restaurants\" in Apple Maps. Would be another revenue stream for Apple as platforms monetize AI-powered search.",
+            "url": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-23",
     "title": "AI Tech Brief — Monday, 23 March 2026 (Dubai)",
     "sections": [
