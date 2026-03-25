@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-03-25",
+    "title": "AI Tech Brief — Wednesday, 25 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Kleiner Perkins raises $3.5B fund, going all-in on AI",
+            "description": "Why it matters: Massive new AI-focused fund signals continued investor confidence in the space, with $1B earmarked for early-stage startups and $2.5B for growth-stage companies. This capital influx will fuel the next wave of AI infrastructure and application development.",
+            "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI's Sora app shutting down after failed social experiment",
+            "description": "Why it matters: The AI-generated video social platform struggled to sustain user interest despite impressive underlying Sora 2 model. Shutdown reflects market resistance to AI-only social feeds and prompts rethinking of how video generation reaches consumers.",
+            "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"
+          },
+          {
+            "number": "3",
+            "headline": "NVIDIA donates Dynamic Resource Allocation Driver to Kubernetes community",
+            "description": "Why it matters: Major open source contribution gives developers better GPU resource management in Kubernetes, supporting Multi-Process Service and Multi-Instance GPU technologies. Moves critical AI infrastructure from vendor-governed to community-owned.",
+            "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/"
+          },
+          {
+            "number": "4",
+            "headline": "NVIDIA OpenShell secures autonomous AI agents by design",
+            "description": "Why it matters: New runtime applies security policies at system level, not prompt level—meaning agents can't override guardrails even if compromised. Addresses critical enterprise concern: application-layer risk as agents continuously improve and evolve.",
+            "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/"
+          },
+          {
+            "number": "5",
+            "headline": "OpenAI adds teen safety policies, open source tools for developers",
+            "description": "Why it matters: Prompt-based safety policies via gpt-oss-safeguard help developers build AI systems with age-specific protections. Moves safety guardrails upstream, making it easier to implement teen safeguards across the ecosystem.",
+            "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard"
+          },
+          {
+            "number": "6",
+            "headline": "ChatGPT introduces richer product discovery via Agentic Commerce Protocol",
+            "description": "Why it matters: New shopping experience features visually immersive product discovery, side-by-side comparisons, and merchant integration. Signals ChatGPT's evolution from chat interface to transactional platform—direct competition to e-commerce giants.",
+            "url": "https://openai.com/index/powering-product-discovery-in-chatgpt"
+          },
+          {
+            "number": "7",
+            "headline": "OpenAI Foundation pledges $1B for disease cure, economic opportunity",
+            "description": "Why it matters: Foundation announces plans to invest at least $1 billion across curing diseases, economic opportunity, AI resilience, and community programs. Massive philanthropic commitment that could direct AI progress toward public goods.",
+            "url": "https://openai.com/index/update-on-the-openai-foundation"
+          },
+          {
+            "number": "8",
+            "headline": "Anthropic gives Claude Code more autonomy, keeps it on a leash",
+            "description": "Why it matters: New auto mode reduces need for approvals but maintains safety guardrails—reflecting broader shift toward autonomous tools that balance speed with built-in safeguards. Developers get faster workflows without losing oversight.",
+            "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/"
+          },
+          {
+            "number": "9",
+            "headline": "Databricks acquires Antimatter and SiftD.ai for AI security product",
+            "description": "Why it matters: With $5B recent war chest, Databricks is aggressively buying to build enterprise-grade security capabilities. Consolidation trend continues as data platforms weaponize with AI-specific security and observability.",
+            "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/"
+          },
+          {
+            "number": "10",
+            "headline": "Spotify tests tool to stop AI slop from being attributed to real artists",
+            "description": "Why it matters: Platform moves to protect musicians from AI-generated tracks fraudulently claiming their identity. Tool could become template for how streaming platforms handle AI attribution issues as generative audio floods market.",
+            "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "\"Goodbye to Sora\" trends on Hacker News",
+            "description": "OpenAI's decision to shut down the Sora app dominated tech discussion. Consensus: impressive video tech, but social feed was always a weird concept that nobody actually wanted.",
+            "url": "https://news.ycombinator.com/item?id=47508246"
+          },
+          {
+            "number": "•",
+            "headline": "Wine 11 enables Windows games to run at Linux kernel speed",
+            "description": "Massive performance breakthrough for Linux gaming through kernel-level Windows translation. Dev community calling it one of the biggest Linux gaming advances in years.",
+            "url": "https://news.ycombinator.com/item?id=47507150"
+          },
+          {
+            "number": "•",
+            "headline": "Epoch confirms GPT-5.4 Pro solved frontier math open problem",
+            "description": "Independent verification that frontier model tackled a previously unsolved mathematical problem. Raises questions about whether frontier AI is silently solving open problems that humans haven't discovered yet.",
+            "url": "https://news.ycombinator.com/item?id=47497757"
+          },
+          {
+            "number": "•",
+            "headline": "Critical security alert: Litellm packages compromised on PyPI",
+            "description": "Malicious versions of popular LLM orchestration library uploaded to PyPI. Developers scrambling to audit dependencies and verify package integrity—supply chain attacks heating up in AI ecosystem.",
+            "url": "https://news.ycombinator.com/item?id=47501426"
+          },
+          {
+            "number": "•",
+            "headline": "Kentucky woman rejects $26M offer to turn farm into data center",
+            "description": "A \"major artificial intelligence company\" reportedly offered $26 million to build data center on family farmland. Story going viral for highlighting absurd tech money and rural landowner resistance.",
+            "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/"
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Spotify's AI attribution tool protects artists",
+            "description": "Not traditional advertising, but major platform move to prevent AI-generated slop from being associated with real artist names. Could reshape how platforms handle generative content attribution in music streaming.",
+            "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-24",
     "title": "AI Tech Brief — Tuesday, 24 March 2026 (Dubai)",
     "sections": [
