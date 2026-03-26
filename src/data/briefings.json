@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-03-26",
+    "title": "AI Tech Brief — Thursday, 26 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Google Launches Lyria 3 Pro Music Generation Model",
+            "description": "Why it matters: Google's new music generation model creates longer, more customizable tracks and expands AI music tools across Gemini and enterprise products, signaling intensifying competition in AI audio generation.",
+            "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/"
+          },
+          {
+            "number": "2",
+            "headline": "Google Unveils TurboQuant Memory Compression Algorithm",
+            "description": "Why it matters: New algorithm claims to shrink AI's \"working memory\" by up to 6x, potentially making large models more efficient and reducing inference costs—though it's still in lab experimentation phase.",
+            "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
+          },
+          {
+            "number": "3",
+            "headline": "NVIDIA Launches Nemotron Coalition with Open Frontier Models",
+            "description": "Why it matters: NVIDIA brings together Mistral AI and other global AI labs to advance open, frontier-level foundation models through shared expertise, data, and compute—first project is a base model codeveloped by Mistral and NVIDIA.",
+            "url": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/"
+          },
+          {
+            "number": "4",
+            "headline": "NVIDIA Donates Dynamic Resource Allocation Driver to Kubernetes",
+            "description": "Why it matters: Moves GPU orchestration from vendor-governed to open source community ownership, enabling smarter GPU resource sharing, multi-node NVLink connectivity, and dynamic hardware reconfiguration for AI workloads.",
+            "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/"
+          },
+          {
+            "number": "5",
+            "headline": "NVIDIA Introduces OpenShell for Secure Autonomous AI Agents",
+            "description": "Why it matters: New runtime addresses security risks from self-evolving agents by enforcing system-level policies separate from agent behavior—policies agents can't override, even if compromised.",
+            "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/"
+          },
+          {
+            "number": "6",
+            "headline": "Granola Raises $125M, Hits $1.5B Valuation",
+            "description": "Why it matters: Meeting-note-taking startup's valuation jumped from $250M to $1.5B, and it's adding AI agent support after user complaints—signals continued investor appetite for productivity AI.",
+            "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/"
+          },
+          {
+            "number": "7",
+            "headline": "Harvey Confirms $11B Valuation",
+            "description": "Why it matters: Legal tech startup's valuation tripled down for Sequoia, with backing from a16z, Kleiner Perkins, and Elad Gil—legal AI remains one of the hottest funding categories.",
+            "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/"
+          },
+          {
+            "number": "8",
+            "headline": "OpenAI Launches Safety Bug Bounty Program",
+            "description": "Why it matters: Program targets AI abuse risks including agentic vulnerabilities, prompt injection, and data exfiltration—signals growing focus on proactive security research for AI systems.",
+            "url": "https://openai.com/index/safety-bug-bounty"
+          },
+          {
+            "number": "9",
+            "headline": "Meta Powers Shopping with AI on Instagram and Facebook",
+            "description": "Why it matters: Meta uses generative AI to provide richer product and brand information during shopping, accelerating social commerce—but raises questions about data usage and ad transparency.",
+            "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/"
+          },
+          {
+            "number": "10",
+            "headline": "Kleiner Perkins Raises $3.5B Dedicated to AI",
+            "description": "Why it matters: Massive new fund ($1B for early-stage, $2.5B for late-stage) signals VC conviction that AI remains top investment priority despite broader market concerns. 🔥 VIRAL MOMENTS • **Reddit Implements Human Verification for Bot Accounts** — Platform requiring suspected automated accounts to prove they're human to curb spam and manipulation, part of broader platform fight against AI-generated content. • **China's Manus Crackdown Intensifies** — \"The least surprising chapter\" of the AI story continues as authorities escalate enforcement against unauthorized AI hardware and software access. • **Spotify Tests Tool to Stop AI \"Slop\" Artist Attribution** — New feature aims to give artists control over which tracks get associated with their name, addressing AI-generated music clutter on the platform. • **Melania Trump's Robot Homeschooling Proposal** — First lady wants AI and robotics to play prominent role in future American education—sparking debate about AI's place in schools. 📢 AI ADVERTISING • **Meta AI Shopping Rollout** — Instagram and Facebook now use generative AI to surface product info and brand details during shopping experiences, potentially boosting ad performance and conversion rates. • **Meta's Entrepreneurship Initiative** — CEO Mark Zuckerberg announced new effort to support small businesses using AI across Meta platforms, aiming to drive AI adoption among SMBs.",
+            "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-25",
     "title": "AI Tech Brief — Wednesday, 25 March 2026 (Dubai)",
     "sections": [
