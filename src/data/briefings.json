@@ -1,5 +1,119 @@
 [
   {
+    "date": "2026-03-27",
+    "title": "AI Tech Brief — Friday, 27 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Anthropic wins injunction against Trump administration over Defense Department saga",
+            "description": "Why it matters: A federal judge ordered the Trump administration to rescind restrictions placed on Anthropic, blocking Pentagon's effort to label the AI company as a supply chain risk. This sets a significant precedent for government-AI vendor relations.",
+            "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/"
+          },
+          {
+            "number": "2",
+            "headline": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+            "description": "Why it matters: Surprising benchmark results show consumer-grade hardware matching or exceeding frontier model performance, raising questions about the true cost efficiency frontier models deliver versus specialized local compute.",
+            "url": "https://news.ycombinator.com/item?id=47533297"
+          },
+          {
+            "number": "3",
+            "headline": "OpenAI extends ad pilot beyond April, expands internationally",
+            "description": "Why it matters: ChatGPT's sponsored message pilot continues growing, with the company locking in advertiser commitments and building toward a full ad stack. This could reshape how AI assistants monetize.",
+            "url": "https://www.adweek.com/media/openai-ads-pilot-extension/"
+          },
+          {
+            "number": "4",
+            "headline": "You can now transfer chats and personal information from other chatbots directly into Gemini",
+            "description": "Why it matters: Google's new \"switching tools\" make it easier to migrate from competing AI assistants, a clear signal that platform wars are moving to user lock-in battles through data portability features.",
+            "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+          },
+          {
+            "number": "5",
+            "headline": "ByteDance's Dreamina Seedance 2.0 video model comes to CapCut",
+            "description": "Why it matters: TikTok's parent company is bringing its latest AI video generation model to the popular editing app with built-in protections against deepfakes and IP violations, pushing AI video further into mainstream creator tools.",
+            "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/"
+          },
+          {
+            "number": "6",
+            "headline": "Conntour raises $7M for AI search engine for security video systems",
+            "description": "Why it matters: General Catalyst and Y Combinator-backed startup using AI to query security camera feeds with natural language shows continued VC appetite for specialized AI vertical applications in physical security.",
+            "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/"
+          },
+          {
+            "number": "7",
+            "headline": "Cohere launches open source voice model for transcription",
+            "description": "Why it matters: A lightweight 2B parameter model designed for consumer GPU self-hosting makes high-quality transcription more accessible, further democratizing audio AI capabilities beyond lab-controlled APIs.",
+            "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/"
+          },
+          {
+            "number": "8",
+            "headline": "Google rewriting news headlines alarms publishers",
+            "description": "Why it matters: Google's AI-driven headline changes are costing publishers traffic and setting what they call a dangerous precedent, escalating tensions between tech platforms and news organizations.",
+            "url": "https://www.adweek.com/media/google-is-rewriting-story-headlines-publishers-are-concerned/"
+          },
+          {
+            "number": "9",
+            "headline": "Lowe's fighting to prevent AI agent overload",
+            "description": "Why it matters: The home improvement retailer is deploying both customer-facing and employee-facing AI assistants but worrying about consistency and quality, reflecting early enterprise challenges with agent deployment at scale.",
+            "url": "https://digiday.com/marketing/lowes-is-fighting-to-prevent-ai-agent-overload/"
+          },
+          {
+            "number": "10",
+            "headline": "NVIDIA Nemotron Coalition unites open frontier model builders",
+            "description": "Why it matters: NVIDIA announced a coalition with Mistral, Thinking Machines Lab, Perplexity, and others to build open frontier-level foundation models collaboratively, signaling that open and proprietary models will coexist rather than compete to exclusion. 🔥 VIRAL MOMENTS",
+            "url": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/"
+          },
+          {
+            "number": "•",
+            "headline": "Show HN: AI agent on $7/month VPS with IRC transport layer",
+            "description": "",
+            "url": "https://news.ycombinator.com/item?id=47536761"
+          },
+          {
+            "number": "•",
+            "headline": "We rewrote JSONata with AI in a day, saved $500k/year",
+            "description": "",
+            "url": "https://news.ycombinator.com/item?id=47536712"
+          },
+          {
+            "number": "•",
+            "headline": "Google called \"TurboQuant\" gets Pied Piper comparisons",
+            "description": "📢 AI ADVERTISING",
+            "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
+          },
+          {
+            "number": "•",
+            "headline": "OpenAI ad pilot extending beyond April",
+            "description": "",
+            "url": "https://www.adweek.com/media/openai-ads-pilot-extension/"
+          },
+          {
+            "number": "•",
+            "headline": "TikTok rebrands advertiser pitch around \"full-funnel\" ambition",
+            "description": "",
+            "url": "https://digiday.com/marketing/tiktok-rebrands-its-advertiser-pitch-around-full-funnel-ambition/"
+          },
+          {
+            "number": "•",
+            "headline": "Reddit shopping ads targeting beauty brands",
+            "description": "",
+            "url": "https://digiday.com/marketing/reddits-new-shopping-ads-are-a-play-for-beauty-brands-business/"
+          },
+          {
+            "number": "•",
+            "headline": "E.l.f. Beauty says AI answer engines changing shopping",
+            "description": "",
+            "url": "https://www.adweek.com/commerce/elf-beauty-says-agentic-commerce-is-already-changing-how-people-shop/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-26",
     "title": "AI Tech Brief — Thursday, 26 March 2026 (Dubai)",
     "sections": [
