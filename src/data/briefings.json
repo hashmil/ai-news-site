@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-03-28",
+    "title": "AI Tech Brief — Saturday, 28 Mar 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "SoftBank's $40B Loan Signals 2026 OpenAI IPO Push",
+            "description": "**Why it matters:** Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month unsecured loan to SoftBank, positioning the Japanese conglomerate to back OpenAI's potential 2026 public offering. This signals renewed confidence in OpenAI's commercial trajectory despite recent product rollbacks. **Link:** https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+            "url": ""
+          },
+          {
+            "number": "2",
+            "headline": "SK hynix's $10-14B US IPO Targets AI Memory Crunch",
+            "description": "**Why it matters:** The memory chip giant's potential blockbuster listing aims to raise capacity and help end the \"RAMmageddon\" shortage constraining AI infrastructure buildout. More capacity could accelerate data center deployments globally. **Link:** https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+            "url": ""
+          },
+          {
+            "number": "3",
+            "headline": "OpenAI Shutters Sora Amid Strategic Pivot",
+            "description": "**Why it matters:** The video generation platform shutdown marks another side project retreat as OpenAI focuses resources on core ChatGPT business. Contrast with Meta's continued video AI push highlights different strategic bets. **Link:** https://techcrunch.com/2026/03/27/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+            "url": ""
+          },
+          {
+            "number": "4",
+            "headline": "Cohere Releases Open Source 2B Parameter Voice Transcription Model",
+            "description": "**Why it matters:** Lightweight model designed for consumer GPU self-hosting, supports 14 languages. Democratizes speech-to-text access for developers without cloud dependency. **Link:** https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+            "url": ""
+          },
+          {
+            "number": "5",
+            "headline": "Mistral Launches Open Source Speech Generation Model",
+            "description": "**Why it matters:** Puts Mistral in direct competition with ElevenLabs, Deepgram, and OpenAI in the enterprise voice agent market. Enterprise voice agents for sales and customer engagement are heating up. **Link:** https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+            "url": ""
+          },
+          {
+            "number": "6",
+            "headline": "ByteDance Deploys Dreamina Seedance 2.0 in CapCut",
+            "description": "**Why it matters:** New AI video generation model with built-in protections against generating video from real faces or unauthorized IP. Balances creative power with content safety in consumer video editing tools. **Link:** https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+            "url": ""
+          },
+          {
+            "number": "7",
+            "headline": "Wikipedia Cracks Down on AI-Generated Content",
+            "description": "**Why it matters:** Platform tightening policies around AI writing amid quality concerns. Signals growing tension between AI content generation and human-curated knowledge preservation. **Link:** https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+            "url": ""
+          },
+          {
+            "number": "8",
+            "headline": "NVIDIA GTC: Physical AI Data Factory Blueprint",
+            "description": "**Why it matters:** Open reference architecture transforms compute into high-quality training data for robotics, vision AI agents, and autonomous vehicles. \"Compute is data\" — NVIDIA positioning synthetic data generation as the new moat. **Link:** https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+            "url": ""
+          },
+          {
+            "number": "9",
+            "headline": "NVIDIA Announces Nemotron Coalition for Open Frontier Models",
+            "description": "**Why it matters:** Global collaboration with Mistral AI and other labs to advance open foundation models through shared expertise, data, and compute. First project: base model co-developed by Mistral and NVIDIA. **Link:** https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
+            "url": ""
+          },
+          {
+            "number": "10",
+            "headline": "Google's TurboQuant: 6x AI Memory Compression",
+            "description": "**Why it matters:** New algorithm shrinks AI's \"working memory\" by up to 6x. Internet already calling it \"Pied Piper\" — if real, could dramatically reduce inference costs and enable larger context windows on existing hardware. Still lab experiment. **Link:** https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "OpenAI Abandons ChatGPT \"Erotic Mode\"",
+            "description": "Another side project shutdown joins Sora on the scrap heap. Labs chasing everything vs. focusing on what works. **Link:** https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "\"Pied Piper\" Memes Explode Around Google's TurboQuant",
+            "description": "The HBO Silicon Valley reference is too perfect. Internet doing what it does best. **Link:** https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "OpenAI Extends Ad Pilot Beyond April",
+            "description": "ChatGPT maker expanding sponsored message pilot internationally and locking in advertiser commitments as it builds toward full ad stack. Advertisers say pilot is extending past April. **Link:** https://www.adweek.com/media/openai-ads-pilot-extension/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Brands Virtue Signal Around AI Amid Backlash",
+            "description": "From Equinox to Almond Breeze, advertisers taking clear stances on AI technology as consumer skepticism grows. Some leaning into \"human-made\" positioning as differentiation. **Link:** https://www.adweek.com/creativity/in-2026-brands-are-virtue-signaling-about-ai/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "e.l.f. Beauty: AI Answer Engines Changing Shopping Behavior",
+            "description": "Agentic commerce already disrupting how people discover products. LLM answer engines upending traditional retail media and ecommerce systems. **Link:** https://www.adweek.com/commerce/elf-beauty-says-agentic-commerce-is-already-changing-how-people-shop/",
+            "url": ""
+          },
+          {
+            "number": "•",
+            "headline": "Marketers Shift Search Budgets to GEO (Generative Engine Optimization)",
+            "description": "SEO isn't dead, but budgets are moving toward visibility in AI-generated answers. LLM bot crawlers pull from press releases, news, social posts to generate responses. Brand visibility now means structured data + Reddit threads. **Link:** https://digiday.com/marketing/marketers-shift-growing-shares-of-search-spending-to-geo/ **Read online:** https://ai-news-site-azd.pages.dev/",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-03-27",
     "title": "AI Tech Brief — Friday, 27 March 2026 (Dubai)",
     "sections": [
