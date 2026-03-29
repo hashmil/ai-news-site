@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026-03-29",
+    "title": "AI Tech Brief — Sunday, 29 March 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Anthropic's Claude popularity with paying consumers is skyrocketing",
+            "description": "Why it matters: Claude consumer subscriptions have more than doubled this year, with estimates ranging from 18-30 million total users. Signals Anthropic is gaining serious consumer traction alongside OpenAI in the chatbot market.",
+            "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"
+          },
+          {
+            "number": "2",
+            "headline": "Elon Musk's last co-founder reportedly leaves xAI",
+            "description": "Why it matters: All but two of Musk's 11 xAI co-founders have now departed, raising questions about leadership stability at the AI lab as it competes with OpenAI and Anthropic.",
+            "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/"
+          },
+          {
+            "number": "3",
+            "headline": "Bluesky leans into AI with Attie for building custom feeds",
+            "description": "Why it matters: New app uses AI to help users build personalized feeds on the decentralized atproto social network, signaling how platforms are integrating AI to improve content curation.",
+            "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
+          },
+          {
+            "number": "4",
+            "headline": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+            "description": "Why it matters: Research measures how AI sycophancy—the tendency to agree with users rather than provide honest guidance—could lead to harmful personal advice outcomes.",
+            "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
+          },
+          {
+            "number": "5",
+            "headline": "David Sacks is done as AI czar",
+            "description": "Why it matters: Trump's AI advisor steps down, removing him from influence over AI policy just months into the administration. Signals potential shift in federal AI governance approach.",
+            "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/"
+          },
+          {
+            "number": "6",
+            "headline": "Senate demands data centers reveal power consumption",
+            "description": "Why it matters: Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to collect detailed data on AI facility energy use, addressing grid strain and transparency concerns.",
+            "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/"
+          },
+          {
+            "number": "7",
+            "headline": "Senator proposes \"pound of flesh\" tax on data centers",
+            "description": "Why it matters: Sen. Mark Warner suggests taxing data centers to fund worker transition programs amid growing fears of AI-driven job losses, framing infrastructure benefits against workforce displacement costs.",
+            "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/"
+          },
+          {
+            "number": "8",
+            "headline": "STADLER reshapes knowledge work at 230-year-old company",
+            "description": "Why it matters: OpenAI case study shows traditional Swiss rail manufacturer deploying ChatGPT across 650 employees to accelerate productivity and transform knowledge workflows.",
+            "url": "https://openai.com/index/stadler"
+          },
+          {
+            "number": "9",
+            "headline": "Developer decompiles White House's new app",
+            "description": "Why it matters: HN community reverse-engineered a government app within hours, sparking debate about security through obscurity and the effectiveness of \"security by obscurity\" approaches.",
+            "url": "https://news.ycombinator.com/item?id=47555556"
+          },
+          {
+            "number": "10",
+            "headline": "OpenCiv1 launches as open-source rewrite of Civilization I",
+            "description": "Why it matters: Community project rebuilding the classic strategy game using modern tech, demonstrating AI-assisted open-source development for complex game systems.",
+            "url": "https://news.ycombinator.com/item?id=47557064"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-03-28",
     "title": "AI Tech Brief — Saturday, 28 Mar 2026 (Dubai)",
     "sections": [
