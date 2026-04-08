@@ -1,5 +1,205 @@
 [
   {
+    "date": "2026-04-08",
+    "title": "AI Tech Brief — Wednesday, 08 April 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenAI announces Safety Fellowship program",
+            "description": "Why it matters: New pilot funding independent safety/alignment research, signaling OpenAI's continued investment in AI safety talent development amid frontier model scaling.",
+            "url": "https://openai.com/index/introducing-openai-safety-fellowship"
+          },
+          {
+            "number": "2",
+            "headline": "Google DeepMind releases Gemma 4 open models",
+            "description": "Why it matters: \"Byte for byte, the most capable open models\" with improved reasoning and agentic workflows—direct pressure on proprietary frontier labs.",
+            "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/"
+          },
+          {
+            "number": "3",
+            "headline": "Claude Mythos Preview System Card released",
+            "description": "Why it matters: Transparency document for Anthropic's preview model, offering insights into safety approaches and capabilities ahead of wider release.",
+            "url": "https://news.ycombinator.com/item?id=47679258"
+          },
+          {
+            "number": "4",
+            "headline": "NVIDIA accelerates Gemma 4 for local agentic AI",
+            "description": "Why it matters: Hardware optimization for open models on RTX/DGX Spark/Jetson, enabling efficient edge deployment—pushing compute boundaries for local agents.",
+            "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/"
+          },
+          {
+            "number": "5",
+            "headline": "Project Glasswing: Securing critical software for the AI era",
+            "description": "Why it matters: HN-trending security framework for protecting critical infrastructure software as AI-augmented code becomes standard.",
+            "url": "https://news.ycombinator.com/item?id=47679121"
+          },
+          {
+            "number": "6",
+            "headline": "CNN builds in-house agent infrastructure for AI-driven media trading",
+            "description": "Why it matters: Major publisher preparing for agent-to-agent media transactions by 2027—early signal of agentic commerce shift in ad tech.",
+            "url": "https://digiday.com/media/cnn-builds-in-house-agent-infrastructure-as-it-prepares-for-ai-driven-media-trading/"
+          },
+          {
+            "number": "7",
+            "headline": "Ozone launches simulation platform for AI answer engine optimization",
+            "description": "Why it matters: Publishers can now model how their content surfaces in ChatGPT/Perplexity answers, closing the LLM optimization gap.",
+            "url": "https://digiday.com/media/ozones-simulation-platform-tries-to-predict-how-publisher-content-appears-in-ai-answers/"
+          },
+          {
+            "number": "8",
+            "headline": "Mondelez overhauls $3.5B digital commerce strategy for agentic search",
+            "description": "Why it matters: CPG giant restructuring its entire presence for AI-driven search—retailers expect 30% traffic to be agentic by 2028.",
+            "url": "https://digiday.com/podcasts/mondelez-overhauls-its-3-5-billion-digital-commerce-strategy-in-era-of-ai-search/"
+          },
+          {
+            "number": "9",
+            "headline": "TikTok North America business lead exits",
+            "description": "Why it matters: Khartoon Weiss departure adds uncertainty to TikTok's North American ad operations during policy scrutiny.",
+            "url": "https://digiday.com/marketing/tiktoks-khartoon-weiss-to-exit-the-platform-as-its-head-of-global-business/"
+          },
+          {
+            "number": "10",
+            "headline": "National Robotics Week: Physical AI research spotlight",
+            "description": "Why it matters: NVIDIA showcases robotics breakthroughs—Isaac Sim, synthetic data, and robot learning bringing AI into physical deployment.",
+            "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": [
+          {
+            "number": "•",
+            "headline": "Cloudflare and GoDaddy partner to give businesses control over AI agents",
+            "description": "Why it matters: 20M small businesses get tools to block/control AI agent access—a defensive play as AI scrapers intensify.",
+            "url": "https://www.adweek.com/media/cloudflare-and-godaddy-ai-agent-monitor-partnership/"
+          },
+          {
+            "number": "•",
+            "headline": "Zeta Global touts AI code for next-gen martech",
+            "description": "Why it matters: Growing at 30% YoY in a 10% growth category—AI-first martech stacking showing real results.",
+            "url": "https://www.adweek.com/brand-marketing/data-dominion-how-zeta-global-cracked-the-ai-code-for-the-next-generation-of-martech/"
+          },
+          {
+            "number": "•",
+            "headline": "Three Trade Desk executives depart amid audit row",
+            "description": "Why it matters: Leadership exits post-Publicis transparency clash signal ongoing turbulence at the programmatic giant.",
+            "url": "https://www.adweek.com/media/exclusive-ian-colley-three-executives-depart-trade-desk/"
+          },
+          {
+            "number": "•",
+            "headline": "The Trade Desk tests new \"Trading Modes\" that bundle costs",
+            "description": "Why it matters: Automation bundles media/data/tech fees into one CPM—simplification for advertisers but less transparency.",
+            "url": "https://digiday.com/marketing/the-trade-desk-is-changing-how-advertisers-buy-and-what-they-can-see/"
+          },
+          {
+            "number": "•",
+            "headline": "Estée Lauder names WPP first global media partner",
+            "description": "Why it matters: Centralization push mirrors broader trend of advertisers consolidating global media amid AI-driven efficiency gains.",
+            "url": "https://www.marketingdive.com/news/estee-lauder-names-wpp-first-global-media-partner-to-centralize-media-effor/816680/"
+          }
+        ]
+      },
+      {
+        "type": "other",
+        "heading": "⚠️ Collection Note",
+        "stories": []
+      }
+    ]
+  },
+  {
+    "date": "2026-04-04",
+    "title": "AI Tech Brief — Saturday, 4 Apr 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenAI raises $122B at $852B valuation, launches retail investor offering",
+            "description": "Why it matters: Largest AI funding round ever, led by Amazon, NVIDIA, and SoftBank. OpenAI also raised $3B from retail investors—a first for the pre-IPO giant. Signals IPO acceleration and massive compute buildout ahead.",
+            "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI acquires TBPN, the cult-favorite tech podcast",
+            "description": "Why it matters: OpenAI buying media assets now? TBPN (formerly \"All-In\") will operate independently under chief political operative Chris Lehane. Looks like a play to build influence with founders and policy circles, not just code.",
+            "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"
+          },
+          {
+            "number": "3",
+            "headline": "Anthropic acquires biotech AI startup Coefficient Bio for $400M",
+            "description": "Why it matters: Anthropic's first major acquisition moves into AI for drug discovery and biological research. Claude's maker is betting biotech will be a massive AI use case—and they're probably right.",
+            "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
+          },
+          {
+            "number": "4",
+            "headline": "Microsoft launches three new foundational AI models",
+            "description": "Why it matters: Microsoft AI (MAI) just dropped its own speech-to-text, audio generation, and image models—six months after forming. Less reliant on OpenAI, more vertical integration. The AI decoupling continues.",
+            "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
+          },
+          {
+            "number": "5",
+            "headline": "Anthropic accidentally took down thousands of GitHub repos",
+            "description": "Why it matters: Overzealous DMCA takedowns hit legitimate repositories while trying to remove leaked Claude code. Anthropic called it an \"accident\" and retracted most notices. PR nightmare, but also: their code leaked.",
+            "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/"
+          },
+          {
+            "number": "6",
+            "headline": "OpenAI executive shuffle: Brad Lightcap moves to \"special projects,\" CMO Kate Rouch steps away",
+            "description": "Why it matters: Major org changes as OpenAI scales. Lightcap handling special initiatives, Rouch stepping back for cancer recovery. Fidji Simo (ex-Meta) and others taking bigger roles. Transition pains at $852B.",
+            "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/"
+          },
+          {
+            "number": "7",
+            "headline": "Salesforce gives Slack an AI-heavy makeover with 30 new features",
+            "description": "Why it matters: Slack's becoming an AI agent hub with autonomous agents, memory, and deeper workflow automation. Benioff's AI obsession continues—this is how enterprise software actually gets rebuilt around agents.",
+            "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
+          },
+          {
+            "number": "8",
+            "headline": "Meta, Google, Microsoft betting on massive natural gas plants for AI data centers",
+            "description": "Why it matters: The climate promises are officially out the window. Big Tech is locking in 10+ year natural gas contracts to power AI infrastructure. Energy constraints are real, and they're choosing uptime over emissions.",
+            "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/"
+          },
+          {
+            "number": "9",
+            "headline": "Anthropic launches political PAC ahead of midterms",
+            "description": "Why it matters: Anthropic's getting political with \"AnthroPAC\" to back AI-friendly candidates. Dario Amodei previously criticized AI lobbying—now they're playing the game. Everyone's building influence in Washington.",
+            "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/"
+          },
+          {
+            "number": "10",
+            "headline": "OpenAI adds flexible pay-as-you-go pricing for Codex in business/enterprise",
+            "description": "Why it matters: Teams can now scale Codex usage without upfront commitments. More accessible pricing = wider enterprise adoption. The coding agent wars are heating up.",
+            "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-03-29",
     "title": "AI Tech Brief — Sunday, 29 March 2026 (Dubai)",
     "sections": [
