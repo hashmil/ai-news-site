@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026-04-09",
+    "title": "AI Tech Brief — Thursday, 09 April 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenAI introduces Child Safety Blueprint",
+            "description": "Why it matters: New framework for building AI with safeguards for young users amid rising concerns about AI-generated child exploitation—signals OpenAI's proactive stance on age-appropriate AI design.",
+            "url": "https://openai.com/index/introducing-child-safety-blueprint"
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI outlines next phase of enterprise AI",
+            "description": "Why it matters: Accelerating enterprise adoption across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents—signals OpenAI's B2B push is hitting escape velocity.",
+            "url": "https://openai.com/index/next-phase-of-enterprise-ai"
+          },
+          {
+            "number": "3",
+            "headline": "Poke makes using AI agents as easy as sending a text",
+            "description": "Why it matters: Consumer AI agent platform via SMS removes friction from agent adoption—no apps, no technical setup, just text. Could mainstream agents faster than enterprise tools.",
+            "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+          },
+          {
+            "number": "4",
+            "headline": "Tubi launches first native streaming app within ChatGPT",
+            "description": "Why it matters: First major streamer to integrate directly into ChatGPT as a native app—signals emerging platform war for AI surface area and discovery.",
+            "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/"
+          },
+          {
+            "number": "5",
+            "headline": "AWS boss on investing billions in both Anthropic and OpenAI",
+            "description": "Why it matters: Matt Garman explains why backing both frontier labs makes sense—AWS culture of competing with partners, cloud infrastructure as the real winner.",
+            "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
+          },
+          {
+            "number": "6",
+            "headline": "Astropad's Workbench: Remote desktop for AI agents, not IT support",
+            "description": "Why it matters: Reimagines remote access for monitoring and controlling AI agents on Mac Minis from mobile—signals new tooling category for agent supervision.",
+            "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"
+          },
+          {
+            "number": "7",
+            "headline": "Databricks co-founder wins ACM award, says \"AGI is here already\"",
+            "description": "Why it matters: Matei Zaharia claims AGI is simply misunderstood after winning prestigious computing prize—reflects growing debate over what AGI means vs capabilities.",
+            "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/"
+          },
+          {
+            "number": "8",
+            "headline": "Atlassian launches visual AI tools and third-party agents in Confluence",
+            "description": "Why it matters: Enterprise collaboration platforms becoming agent hubs with partnerships with Lovable, Replit, and Gamma—signals workplace AI transformation is accelerating.",
+            "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/"
+          },
+          {
+            "number": "9",
+            "headline": "Google quietly launches offline-first AI dictation app on iOS",
+            "description": "Why it matters: Gemma-powered voice app that works without internet—signals edge AI push and competition with dedicated dictation tools like Wispr Flow.",
+            "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+          },
+          {
+            "number": "10",
+            "headline": "National Robotics Week: OpenClaw runs locally on NVIDIA Jetson Thor",
+            "description": "Why it matters: Major milestone for private, low-latency edge AI—OpenClaw powered by optimized Nemotron models and vLLM inference on robotics hardware.",
+            "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-04-08",
     "title": "AI Tech Brief — Wednesday, 08 April 2026 (Dubai)",
     "sections": [
