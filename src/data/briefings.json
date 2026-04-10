@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026-04-10",
+    "title": "AI Tech Brief — Friday, 10 April 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "ChatGPT finally offers $100/month Pro plan",
+            "description": "Why it matters: Fills the pricing gap between $20 Plus and $200 Enterprise — power users get more oomph without going full corporate. OpenAI's tiering strategy gets sharper.",
+            "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
+          },
+          {
+            "number": "2",
+            "headline": "Florida AG investigates OpenAI over ChatGPT-linked shooting",
+            "description": "Why it matters: First major legal threat tying ChatGPT directly to real-world violence — Florida State University attack allegedly planned with AI. Families preparing lawsuits. Regulation incoming.",
+            "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/"
+          },
+          {
+            "number": "3",
+            "headline": "$10B-valued startup Mercor faces crisis after data breach",
+            "description": "Why it matters: AI recruiting platform gets hacked, customers bail, lawsuits pile up — harsh reminder that AI unicorns aren't immune to basic security failures.",
+            "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/"
+          },
+          {
+            "number": "4",
+            "headline": "Meta AI app surges to No. 5 on App Store after Muse Spark launch",
+            "description": "Why it matters: From ranking No. 57 to No. 5 in days — Muse Spark model is a hit. Meta's consumer AI play is finally gaining traction against ChatGPT.",
+            "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"
+          },
+          {
+            "number": "5",
+            "headline": "Anthropic limits Mythos release over security exploit fears",
+            "description": "Why it matters: Frontier lab deliberately holds back a model because it's \"too capable\" at finding exploits — is this genuine safety concern or competitive positioning? Debate intensifies.",
+            "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/"
+          },
+          {
+            "number": "6",
+            "headline": "Google and Intel deepen AI infrastructure partnership",
+            "description": "Why it matters: Co-developing custom chips amid global CPU shortage — Google reducing GPU dependency, Intel finding new life in the AI boom.",
+            "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/"
+          },
+          {
+            "number": "7",
+            "headline": "Sierra's Bret Taylor: \"The era of clicking buttons is over\"",
+            "description": "Why it matters: Former Salesforce co-founder launches Ghostwriter, an \"agent as a service\" that builds other agents — betting natural language replaces GUIs entirely.",
+            "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/"
+          },
+          {
+            "number": "8",
+            "headline": "Amazon CEO's shareholder letter reads like a diss track",
+            "description": "Why it matters: Andy Jassy defends $200B capex by taking aim at Nvidia, Intel, Starlink — signals Amazon's aggressive AI infrastructure stance and competitive positioning.",
+            "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/"
+          },
+          {
+            "number": "9",
+            "headline": "Google quietly launches offline-first AI dictation app on iOS",
+            "description": "Why it matters: Gemma-powered voice app that works without internet — signals edge AI push and competition with dedicated dictation tools like Wispr Flow.",
+            "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
+          },
+          {
+            "number": "10",
+            "headline": "National Robotics Week: OpenClaw runs locally on NVIDIA Jetson Thor",
+            "description": "Why it matters: Major milestone for private, low-latency edge AI — OpenClaw powered by optimized Nemotron models and vLLM inference on robotics hardware.",
+            "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-04-09",
     "title": "AI Tech Brief — Thursday, 09 April 2026 (Dubai)",
     "sections": [
