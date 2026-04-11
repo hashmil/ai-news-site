@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026-04-11",
+    "title": "AI Tech Brief — Saturday, 11 April 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Stalking victim sues OpenAI: ChatGPT fueled her abuser's delusions",
+            "description": "Why it matters: First lawsuit alleging ChatGPT actively enabled real-world stalking and harassment — victim claims OpenAI ignored three warnings including its own mass-casualty flag. Legal floodgates opening.",
+            "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
+          },
+          {
+            "number": "2",
+            "headline": "Anthropic temporarily bans OpenClaw's creator from accessing Claude",
+            "description": "Why it matters: Peter Steinberger (OpenClaw creator) locked out after pricing changes last week — OpenAI's tiered access for AI platforms fracturing dev tooling ecosystem. Side-picking is getting expensive.",
+            "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/"
+          },
+          {
+            "number": "3",
+            "headline": "OpenAI quietly launches ChatGPT ads manager for pilot advertisers",
+            "description": "Why it matters: Self-serve ads infrastructure is now live for select testers — OpenAI projecting $102B in ad revenue by 2030. Building the machine that monetizes chatbot attention like Google/Meta.",
+            "url": "https://digiday.com/marketing/openai-has-quietly-launched-its-ads-manager-as-it-races-to-build-out-its-ads-business/"
+          },
+          {
+            "number": "4",
+            "headline": "Pfizer and blue-chip brands build internal AI search hubs",
+            "description": "Why it matters: Major advertisers pulling SEO and \"generative engine optimization\" in-house as AI upends traditional search rankings — 60-day sprint to build capability signals urgency.",
+            "url": "https://digiday.com/marketing/why-pfizer-and-other-blue-chip-brands-are-building-internal-ai-search-hubs-to-reclaim-control/"
+          },
+          {
+            "number": "5",
+            "headline": "Alibaba reveals \"Happy Horse\" — viral video AI model",
+            "description": "Why it matters: Chinese model topped global benchmarks on debut, sent ripples through AI industry — Alibaba entering competitive video generation race as ByteDance's Seedance 2.0 launches in US.",
+            "url": "https://www.businesstimes.com.sg/companies-markets/alibaba-claims-viral-happy-horse-ai-model-latest-breakthrough"
+          },
+          {
+            "number": "6",
+            "headline": "Ad industry faces AI labeling crisis",
+            "description": "Why it matters: NYU/Emory research shows AI disclosure reduces ad effectiveness by 31.5% — marketers haven't agreed on honesty thresholds. Background music vs. human faces: where's the line?",
+            "url": "https://digiday.com/marketing/future-of-marketing-briefing-the-ad-industry-has-an-ai-label-problem/"
+          },
+          {
+            "number": "7",
+            "headline": "WPP taps Estée Lauder exec as chief transformation officer",
+            "description": "Why it matters: Anne-Isabelle Choueiri joins holdco for three-year turnaround — signals WPP doubling down on AI transformation and operational overhaul to compete with Publicis-Microsoft alliance.",
+            "url": "https://www.adweek.com/agencies/wpp-taps-estee-lauders-anne-isabelle-choueiri-as-chief-transformation-officer/"
+          },
+          {
+            "number": "8",
+            "headline": "Stagwell hires growth chief from Publicis",
+            "description": "Why it matters: Nicole Souza joins as holding company ramps up big-client push in North America — agency wars intensifying for AI-dominated marketing budgets.",
+            "url": "https://www.adweek.com/agencies/stagwell-brings-in-growth-chief-to-step-up-push-for-big-clients/"
+          },
+          {
+            "number": "9",
+            "headline": "Intuit shutting down SMB MediaLabs ad network",
+            "description": "Why it matters: Launched 2023, now closing — small business ad network collapse shows retail media consolidation leaving mid-market players behind.",
+            "url": "https://www.adweek.com/commerce/exclusive-intuit-is-shutting-down-its-ad-network-for-small-businesses/"
+          },
+          {
+            "number": "10",
+            "headline": "\"Six-seven\" meme slang exposes AI content quality crisis",
+            "description": "Why it matters: Brazilian term for low-quality AI-generated content flooding platforms — ChatGPT, Gemini, Meta AI pumping absurd characters with synthetic voices. Attention economy drowning in slop.",
+            "url": "https://gauchazh.clicrbs.com.br/viral/noticia/2026/04/o-que-e-a-giria-six-seven-viral-gera-debates-sobre-memes-de-ia-que-reprogramam-a-atencao-cmnq8l765012j0157gggd502s.html"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-04-10",
     "title": "AI Tech Brief — Friday, 10 April 2026 (Dubai)",
     "sections": [
