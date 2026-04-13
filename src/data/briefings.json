@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026-04-13",
+    "title": "AI Tech Brief — Monday, 13 April 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "Trump officials reportedly encourage banks to test Anthropic's Mythos model",
+            "description": "Why it matters: Surprising move given the Department of Defense recently declared Anthropic a supply-chain risk — signals potential internal conflict over AI adoption in financial sector vs national security concerns.",
+            "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/"
+          },
+          {
+            "number": "2",
+            "headline": "OpenAI responds to Axios developer tool compromise with certificate rotation",
+            "description": "Why it matters: Supply chain attack targeted macOS developer tools — OpenAI rotated code signing certificates and updated apps, confirming no user data was compromised. Dev tooling security under microscope.",
+            "url": "https://openai.com/index/axios-developer-tool-compromise"
+          },
+          {
+            "number": "3",
+            "headline": "Apple testing four designs for smart glasses, stepping back from ambitious AR plans",
+            "description": "Why it matters: Apple's rumored smart glasses represent a more cautious approach than previous mixed reality ambitions — AI wearables market heating up as Meta and others push form factors forward.",
+            "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/"
+          },
+          {
+            "number": "4",
+            "headline": "At HumanX conference, Claude was the star of the show",
+            "description": "Why it matters: Anthropic dominated AI-centric conference conversation — signals shifting sentiment from OpenAI-centric ecosystem to multi-lab competitive landscape. Developers betting on Claude's reliability and safety positioning.",
+            "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/"
+          },
+          {
+            "number": "5",
+            "headline": "TechCrunch glossary: AI terms from LLMs to hallucinations",
+            "description": "Why it matters: Mainstream outlet publishes comprehensive AI glossary — signals AI terminology entering common vocabulary and need for public education as tech becomes more pervasive.",
+            "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+          },
+          {
+            "number": "6",
+            "headline": "Sam Altman responds to New Yorker article after attack on his home",
+            "description": "Why it matters: OpenAI CEO addresses security scare and critical profile — public relations battle as Altman faces increased scrutiny over trustworthiness and leadership amid frontier AI development pressures.",
+            "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/"
+          },
+          {
+            "number": "7",
+            "headline": "OpenAI Academy launches with courses for marketing, operations, and more",
+            "description": "Why it matters: OpenAI building educational moat with free courses on ChatGPT use cases — enterprise onboarding play to drive adoption and lock-in across business functions from marketing to finance.",
+            "url": "https://openai.com/academy"
+          },
+          {
+            "number": "8",
+            "headline": "AppLovin CEO steps down from board chair, two top execs exit",
+            "description": "Why it matters: Major leadership shakeup at public adtech company signals power shift as mobile advertising and AI-driven monetization face increased scrutiny and market evolution.",
+            "url": "https://www.adweek.com/media/applovins-ceo-is-no-longer-board-chair-and-two-top-execs-are-stepping-down/"
+          },
+          {
+            "number": "9",
+            "headline": "CNN names Alex MacCallum as new COO",
+            "description": "Why it matters: Leadership reshuffle at CNN as media companies navigate AI disruption, streaming transitions, and changing news consumption patterns.",
+            "url": "https://www.adweek.com/tvnewser/revolving-door-roundup-cnn-names-alex-maccallum-coo/"
+          },
+          {
+            "number": "10",
+            "headline": "Exploiting the most prominent AI agent benchmarks",
+            "description": "Why it matters: Research highlights vulnerabilities in AI evaluation systems — benchmark gaming and manipulation risks as labs race to claim performance leadership. Questionable evals undermine real capability assessment.",
+            "url": "https://news.ycombinator.com/item?id=47733217"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-04-11",
     "title": "AI Tech Brief — Saturday, 11 April 2026 (Dubai)",
     "sections": [
