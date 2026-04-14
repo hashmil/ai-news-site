@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026-04-14",
+    "title": "AI Tech Brief — Tuesday, 14 April 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenAI acquires AI personal finance startup Hiro",
+            "description": "Why it matters: OpenAI buys fintech startup to bring financial planning capabilities into ChatGPT — signals push into specialized vertical applications and effort to win over OpenClaw users who prefer Claude for robo-trading. Founder Ethan Bloch (who previously sold Digit for $200M) joins with ~10 employees.",
+            "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+          },
+          {
+            "number": "2",
+            "headline": "Microsoft building OpenClaw-like agent for enterprises with better security",
+            "description": "Why it matters: Redmond's answer to open-source OpenClaw madness — enterprise-focused agent that \"always works\" and handles multistep tasks over long periods, but with actual security controls. Expected debut at Microsoft Build in June. Another agent to add to Copilot Cowork, Copilot Tasks...",
+            "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/"
+          },
+          {
+            "number": "3",
+            "headline": "Stanford AI Index: Massive disconnect between experts and public on AI",
+            "description": "Why it matters: 56% of AI experts think AI will positively impact the US over 20 years vs only 10% of Americans who are more excited than concerned. On jobs: 73% of experts positive vs 23% of public. The gap explains backlash — people worry about paychecks, not Skynet.",
+            "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
+          },
+          {
+            "number": "4",
+            "headline": "Vercel CEO signals IPO readiness as AI agents fuel 3.4x revenue surge",
+            "description": "Why it matters: Hosting platform's ARR jumped from $100M (early 2024) to $340M run rate (Feb 2026) as AI agents proliferate — 30% of apps on Vercel now deployed by agents. Rauch betting agents will accelerate software production: \"All of that software needs to go somewhere.\"",
+            "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+          },
+          {
+            "number": "5",
+            "headline": "OpenAI launches Cloudflare Agent Cloud integration with GPT-5.4",
+            "description": "Why it matters: Enterprise push to make AI agents real infrastructure — Cloudflare bringing OpenAI's latest models to edge deployment for \"real-world tasks with speed and security.\" Battle for agent hosting platform is on.",
+            "url": "https://openai.com/index/cloudflare-openai-agent-cloud"
+          },
+          {
+            "number": "6",
+            "headline": "Meta poised to surpass Google as world's biggest ad business",
+            "description": "Why it matters: Meta projected to generate $243.46B in global ad revenue in 2026 vs Google's $239.54B — first time Google cedes top spot. Advertisers prioritizing platforms that pair scale with automation and measurable ROI.",
+            "url": "https://www.adweek.com/media/meta-is-quietly-becoming-a-bigger-ad-business-than-google/"
+          },
+          {
+            "number": "7",
+            "headline": "Stanford report: AI models advance fast but benchmarks are broken",
+            "description": "Why it matters: Top models keep improving despite plateau predictions — SWE-bench scores jumped from 60% to nearly 100% in 2025. But benchmarks are saturated, gamed, or poorly constructed (popular math benchmark has 42% error rate). Real-world performance is what matters.",
+            "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
+          },
+          {
+            "number": "8",
+            "headline": "TSMC on track for fourth straight quarter of record profits on AI demand",
+            "description": "Why it matters: World's largest advanced AI chip manufacturer expected to post 50% surge in Q1 profit — insatiable demand for AI hardware continues. Entire industry depends on one company in Taiwan. Supply chain fragility is real.",
+            "url": "https://www.reuters.com/world/asia-pacific/tsmc-likely-book-fourth-straight-quarter-record-profit-on-insatiable-ai-demand-2026-04-13/"
+          },
+          {
+            "number": "9",
+            "headline": "GAIA open-source framework for local AI agent hardware launches",
+            "description": "Why it matters: Open-source alternative to cloud-hosted agents — run AI agents on local hardware instead of paying API fees. Privacy and cost angle as agent adoption grows. 134 upvotes on HN signals dev interest.",
+            "url": "https://news.ycombinator.com/item?id=47756772"
+          },
+          {
+            "number": "10",
+            "headline": "WordPress backdoor scandal: 30 plugins compromised",
+            "description": "Why it matters: Someone bought 30 WordPress plugins and planted backdoors in all of them — 900+ upvotes on HN. Not AI-specific but highlights infrastructure risks as AI agents deploy more code. Security at scale is hard.",
+            "url": "https://news.ycombinator.com/item?id=47755629"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-04-13",
     "title": "AI Tech Brief — Monday, 13 April 2026 (Dubai)",
     "sections": [
