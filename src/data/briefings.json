@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026-04-15",
+    "title": "AI Tech Brief — Wednesday, 15 April 2026 (Dubai)",
+    "sections": [
+      {
+        "type": "top10",
+        "heading": "📰 TOP 10 AI STORIES",
+        "stories": [
+          {
+            "number": "1",
+            "headline": "OpenAI launches GPT-5.4-Cyber in response to Anthropic's Mythos",
+            "description": "Why it matters: One week after Anthropic's Claude Mythos Preview sparked a cybersecurity reckoning with private-only release citing exploitation risks, OpenAI fires back with a dedicated cybersecurity model. Escalating arms race — both labs now building specialized models for digital defense amid concerns about dual-use capabilities.",
+            "url": "https://startupnews.fyi/2026/04/15/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/"
+          },
+          {
+            "number": "2",
+            "headline": "Anthropic launches Claude Code Routines for automated workflows",
+            "description": "Why it matters: New \"routines\" feature lets Claude Code execute repeatable automated tasks even offline — a direct shot across the bow at agent frameworks like OpenClaw. HN debate highlights lock-in concerns: devs worry about building businesses on proprietary workflows they can't replicate. 661 upvotes signals real tension between convenience and portability.",
+            "url": "https://news.ycombinator.com/item?id=47768133"
+          },
+          {
+            "number": "3",
+            "headline": "Backblaze quietly stops backing up cloud sync folders — customers furious",
+            "description": "Why it matters: Backup provider changed policy months ago without notification, leaving users who assumed OneDrive/Dropbox files were protected with unrecoverable data loss. 1,367 HN upvotes — bigger story than AI today, but highlights the infra risks that multiply when AI agents are given write access to cloud storage.",
+            "url": "https://news.ycombinator.com/item?id=47762864"
+          },
+          {
+            "number": "4",
+            "headline": "Trump's AI Jesus image triggers evangelical backlash, gets deleted",
+            "description": "Why it matters: President posted AI-generated image depicting himself as Christ-like figure on Truth Social, then deleted it after Christian supporters called it \"blasphemy.\" Culture war collision: AI imagery entering political discourse with unprecedented speed. Trump claimed he thought it showed him as a doctor. The era of AI-generated political propaganda is here.",
+            "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash"
+          },
+          {
+            "number": "5",
+            "headline": "\"AI slopaganda\" blurs satire and propaganda in Iran conflict coverage",
+            "description": "Why it matters: Axios reports viral low-cost AI content is convincing influencers to believe conspiracy theories — \"slopaganda\" defined as AI-generated propaganda so cheap and shareable it floods discourse. The information pollution problem just got worse: truth decay accelerates when AI can manufacture infinite persuasive content at near-zero cost.",
+            "url": "https://www.axios.com/2026/04/14/ai-tools-propaganda-social-media"
+          },
+          {
+            "number": "6",
+            "headline": "Pomo raises $4.5M to automate marketing with AI agents",
+            "description": "Why it matters: Startup promising \"do everything before you wake up\" — monitors TikTok/Reddit for competitor trends and auto-generates campaign adjustments. Pitch deck reveals outcome-based pricing model and Google alum founders. AI automation is coming for marketing workflows: fewer humans, more agents.",
+            "url": "https://www.businessinsider.com/pitch-pomo-deck-ai-startup-fundraise-marketing-platform-2026-4"
+          },
+          {
+            "number": "7",
+            "headline": "Bluefish raises $43M Series B for \"agentic marketing\" in ChatGPT/Rufus",
+            "description": "Why it matters: $68M total funding to help brands show up in AI search engines and assistants. The SEO wars are evolving into AIO (AI Optimization) — brands now paying to be the answer when ChatGPT or Amazon's Rufus recommends products. Entire agencies will pivot to this.",
+            "url": "https://www.adweek.com/media/bluefish-raises-43m-to-help-brands-show-up-in-chatgpt-rufus-and-others/"
+          },
+          {
+            "number": "8",
+            "headline": "Flock surveillance opt-out activist sparks privacy movement",
+            "description": "Why it matters: One person's email to Flock's privacy contact has mushroomed into 670 HN upvotes and counting. \"Stop Flock\" movement gains traction as domestic surveillance cameras spread. AI-powered license plate readers are the new front line: it's not about the tech, it's about who controls it.",
+            "url": "https://news.ycombinator.com/item?id=47768813"
+          },
+          {
+            "number": "9",
+            "headline": "HN's \"Nothing Ever Happens\" bot exploits prediction market cynicism",
+            "description": "Why it matters: Bot that automatically bets \"No\" on Polymarket is winning — 487 upvotes for brilliant satire of hype cycles. Captures the moment: everyone's tired of breathless predictions about tech that never materializes. The anti-VC approach is profitable because most revolutionary promises are vapor.",
+            "url": "https://news.ycombinator.com/item?id=47753472"
+          },
+          {
+            "number": "10",
+            "headline": "Introspective Diffusion Language Models propose new architecture",
+            "description": "Why it matters: Novel technique integrates diffusion processes with self-evaluating mechanisms — LoRA adapter grounds diffuser on base model distribution. Same byte-for-byte output for same seed, roughly twice the compute. 269 HN upvotes signals researcher interest in alternatives to pure autoregressive approaches.",
+            "url": "https://news.ycombinator.com/item?id=47762641"
+          }
+        ]
+      },
+      {
+        "type": "viral",
+        "heading": "🔥 VIRAL MOMENTS",
+        "stories": []
+      },
+      {
+        "type": "ads",
+        "heading": "📢 AI ADVERTISING",
+        "stories": []
+      }
+    ]
+  },
+  {
     "date": "2026-04-14",
     "title": "AI Tech Brief — Tuesday, 14 April 2026 (Dubai)",
     "sections": [
